@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1490;Friedrichshafen;18260901;19450228
+  1490;Friedrichshafen;19461001;19801130
+  1490;Friedrichshafen;19880901;19990215
+  1490;Friedrichshafen;20001114;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1490;Wetterdienst;18260901;19450228
+  1490;Wetterdienst;19461001;19521110
+  1490;DWD;19521111;19801130
+  1490;DWD;19880901;19990215
+  1490;DWD;20001114;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

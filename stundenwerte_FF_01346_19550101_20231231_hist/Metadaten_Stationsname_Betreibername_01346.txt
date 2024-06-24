@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1346;Feldberg/Schwarzwald;19250501;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1346;DWD;19250501;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  1346; 1490.00; 47.8738;  8.0038;19250501;19260531;Feldberg/Schwarzwald
+  1346; 1485.00; 47.8754;  8.0041;19260601;19380725;Feldberg/Schwarzwald
+  1346; 1490.00; 47.8744;  8.0044;19380726;19400506;Feldberg/Schwarzwald
+  1346; 1490.00; 47.8746;  8.0039;19400507;19510228;Feldberg/Schwarzwald
+  1346; 1486.07; 47.8748;  8.0038;19510301;20081202;Feldberg/Schwarzwald
+  1346; 1486.07; 47.8748;  8.0038;20081203;        ;Feldberg/Schwarzwald
