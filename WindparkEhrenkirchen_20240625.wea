@@ -1,0 +1,51 @@
+<wea version="1">
+<center>
+<lat>47.9002</lat>
+<lon>7.7323</lon>
+</center>
+<bookmarks/>
+<instances>
+<instance>
+<id>ac9dc9ad-1bf9-4f18-ba81-136b7803433f</id>
+<name>WEA 01</name>
+<lat>47.90193</lat>
+<lon>7.72892</lon>
+<height>260.0</height>
+<towerSize>199</towerSize>
+<rotorSize>172</rotorSize>
+<modelType>steel-tower</modelType>
+</instance>
+<instance>
+<id>0990ceb5-3e2d-41d1-aa89-1cc48e2f83f0</id>
+<name>WEA 02</name>
+<lat>47.90662</lat>
+<lon>7.72699</lon>
+<height>260.0</height>
+<towerSize>199</towerSize>
+<rotorSize>172</rotorSize>
+<modelType>steel-tower</modelType>
+</instance>
+<instance>
+<id>0e42bd85-03a2-4b50-8021-6715214fd998</id>
+<name>WEA 03</name>
+<lat>47.89909</lat>
+<lon>7.72983</lon>
+<height>260.0</height>
+<towerSize>199</towerSize>
+<rotorSize>172</rotorSize>
+<modelType>steel-tower</modelType>
+</instance>
+<instance>
+<id>bcf93fea-9a7c-492c-bfbf-a8d8c15b24e8</id>
+<name>WEA 04</name>
+<lat>47.905282</lat>
+<lon>7.73623</lon>
+<height>260.0</height>
+<towerSize>199</towerSize>
+<rotorSize>172</rotorSize>
+<modelType>steel-tower</modelType>
+</instance>
+</instances>
+<pvas/>
+<hedges/>
+</wea>
