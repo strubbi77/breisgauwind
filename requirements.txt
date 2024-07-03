@@ -2,3 +2,5 @@ numpy
 pandas
 matplot
 geopandas
+netCDF4
+osmnx
