@@ -1,0 +1,361 @@
+Name,Landuse,WegeDauer,Anzahl
+Dittishausen,commercial,0,0
+Dittishausen,commercial,5,0
+Dittishausen,commercial,10,0
+Dittishausen,commercial,15,0
+Dittishausen,commercial,20,0
+Dittishausen,commercial,25,0
+Dittishausen,commercial,30,0
+Dittishausen,commercial,40,0
+Dittishausen,commercial,120,0
+Dittishausen,farmyard,0,0
+Dittishausen,farmyard,5,0
+Dittishausen,farmyard,10,0
+Dittishausen,farmyard,15,0
+Dittishausen,farmyard,20,0
+Dittishausen,farmyard,25,0
+Dittishausen,farmyard,30,0
+Dittishausen,farmyard,40,0
+Dittishausen,farmyard,120,6
+Dittishausen,industrial,0,0
+Dittishausen,industrial,5,0
+Dittishausen,industrial,10,0
+Dittishausen,industrial,15,0
+Dittishausen,industrial,20,0
+Dittishausen,industrial,25,0
+Dittishausen,industrial,30,0
+Dittishausen,industrial,40,1
+Dittishausen,industrial,120,0
+Dittishausen,residential,0,0
+Dittishausen,residential,5,0
+Dittishausen,residential,10,0
+Dittishausen,residential,15,0
+Dittishausen,residential,20,0
+Dittishausen,residential,25,0
+Dittishausen,residential,30,0
+Dittishausen,residential,40,0
+Dittishausen,residential,120,329
+Dittishausen,unbekannt,0,0
+Dittishausen,unbekannt,5,0
+Dittishausen,unbekannt,10,0
+Dittishausen,unbekannt,15,0
+Dittishausen,unbekannt,20,0
+Dittishausen,unbekannt,25,0
+Dittishausen,unbekannt,30,0
+Dittishausen,unbekannt,40,0
+Dittishausen,unbekannt,120,2
+Löffingen (Kernstadt),commercial,0,0
+Löffingen (Kernstadt),commercial,5,0
+Löffingen (Kernstadt),commercial,10,0
+Löffingen (Kernstadt),commercial,15,0
+Löffingen (Kernstadt),commercial,20,1
+Löffingen (Kernstadt),commercial,25,0
+Löffingen (Kernstadt),commercial,30,0
+Löffingen (Kernstadt),commercial,40,1
+Löffingen (Kernstadt),commercial,120,0
+Löffingen (Kernstadt),farmyard,0,0
+Löffingen (Kernstadt),farmyard,5,0
+Löffingen (Kernstadt),farmyard,10,0
+Löffingen (Kernstadt),farmyard,15,1
+Löffingen (Kernstadt),farmyard,20,0
+Löffingen (Kernstadt),farmyard,25,0
+Löffingen (Kernstadt),farmyard,30,0
+Löffingen (Kernstadt),farmyard,40,0
+Löffingen (Kernstadt),farmyard,120,10
+Löffingen (Kernstadt),industrial,0,0
+Löffingen (Kernstadt),industrial,5,0
+Löffingen (Kernstadt),industrial,10,0
+Löffingen (Kernstadt),industrial,15,0
+Löffingen (Kernstadt),industrial,20,6
+Löffingen (Kernstadt),industrial,25,14
+Löffingen (Kernstadt),industrial,30,7
+Löffingen (Kernstadt),industrial,40,1
+Löffingen (Kernstadt),industrial,120,1
+Löffingen (Kernstadt),residential,0,0
+Löffingen (Kernstadt),residential,5,24
+Löffingen (Kernstadt),residential,10,181
+Löffingen (Kernstadt),residential,15,208
+Löffingen (Kernstadt),residential,20,199
+Löffingen (Kernstadt),residential,25,107
+Löffingen (Kernstadt),residential,30,82
+Löffingen (Kernstadt),residential,40,5
+Löffingen (Kernstadt),residential,120,0
+Löffingen (Kernstadt),unbekannt,0,0
+Löffingen (Kernstadt),unbekannt,5,0
+Löffingen (Kernstadt),unbekannt,10,1
+Löffingen (Kernstadt),unbekannt,15,0
+Löffingen (Kernstadt),unbekannt,20,2
+Löffingen (Kernstadt),unbekannt,25,5
+Löffingen (Kernstadt),unbekannt,30,1
+Löffingen (Kernstadt),unbekannt,40,2
+Löffingen (Kernstadt),unbekannt,120,6
+Unadingen,commercial,0,0
+Unadingen,commercial,5,0
+Unadingen,commercial,10,0
+Unadingen,commercial,15,0
+Unadingen,commercial,20,0
+Unadingen,commercial,25,0
+Unadingen,commercial,30,0
+Unadingen,commercial,40,0
+Unadingen,commercial,120,1
+Unadingen,farmyard,0,0
+Unadingen,farmyard,5,0
+Unadingen,farmyard,10,0
+Unadingen,farmyard,15,0
+Unadingen,farmyard,20,0
+Unadingen,farmyard,25,0
+Unadingen,farmyard,30,0
+Unadingen,farmyard,40,0
+Unadingen,farmyard,120,0
+Unadingen,industrial,0,0
+Unadingen,industrial,5,0
+Unadingen,industrial,10,0
+Unadingen,industrial,15,0
+Unadingen,industrial,20,0
+Unadingen,industrial,25,0
+Unadingen,industrial,30,0
+Unadingen,industrial,40,0
+Unadingen,industrial,120,8
+Unadingen,residential,0,0
+Unadingen,residential,5,0
+Unadingen,residential,10,0
+Unadingen,residential,15,0
+Unadingen,residential,20,0
+Unadingen,residential,25,0
+Unadingen,residential,30,0
+Unadingen,residential,40,0
+Unadingen,residential,120,296
+Unadingen,unbekannt,0,0
+Unadingen,unbekannt,5,0
+Unadingen,unbekannt,10,0
+Unadingen,unbekannt,15,0
+Unadingen,unbekannt,20,0
+Unadingen,unbekannt,25,0
+Unadingen,unbekannt,30,0
+Unadingen,unbekannt,40,0
+Unadingen,unbekannt,120,11
+Bachheim,commercial,0,0
+Bachheim,commercial,5,0
+Bachheim,commercial,10,0
+Bachheim,commercial,15,0
+Bachheim,commercial,20,0
+Bachheim,commercial,25,0
+Bachheim,commercial,30,0
+Bachheim,commercial,40,0
+Bachheim,commercial,120,0
+Bachheim,farmyard,0,0
+Bachheim,farmyard,5,0
+Bachheim,farmyard,10,0
+Bachheim,farmyard,15,0
+Bachheim,farmyard,20,0
+Bachheim,farmyard,25,0
+Bachheim,farmyard,30,0
+Bachheim,farmyard,40,1
+Bachheim,farmyard,120,1
+Bachheim,industrial,0,0
+Bachheim,industrial,5,0
+Bachheim,industrial,10,0
+Bachheim,industrial,15,0
+Bachheim,industrial,20,0
+Bachheim,industrial,25,0
+Bachheim,industrial,30,0
+Bachheim,industrial,40,0
+Bachheim,industrial,120,0
+Bachheim,residential,0,0
+Bachheim,residential,5,65
+Bachheim,residential,10,49
+Bachheim,residential,15,22
+Bachheim,residential,20,10
+Bachheim,residential,25,0
+Bachheim,residential,30,0
+Bachheim,residential,40,1
+Bachheim,residential,120,8
+Bachheim,unbekannt,0,0
+Bachheim,unbekannt,5,0
+Bachheim,unbekannt,10,1
+Bachheim,unbekannt,15,3
+Bachheim,unbekannt,20,0
+Bachheim,unbekannt,25,0
+Bachheim,unbekannt,30,0
+Bachheim,unbekannt,40,0
+Bachheim,unbekannt,120,3
+Seppenhofen,commercial,0,0
+Seppenhofen,commercial,5,0
+Seppenhofen,commercial,10,0
+Seppenhofen,commercial,15,0
+Seppenhofen,commercial,20,0
+Seppenhofen,commercial,25,0
+Seppenhofen,commercial,30,0
+Seppenhofen,commercial,40,0
+Seppenhofen,commercial,120,0
+Seppenhofen,farmyard,0,0
+Seppenhofen,farmyard,5,0
+Seppenhofen,farmyard,10,0
+Seppenhofen,farmyard,15,0
+Seppenhofen,farmyard,20,0
+Seppenhofen,farmyard,25,0
+Seppenhofen,farmyard,30,0
+Seppenhofen,farmyard,40,0
+Seppenhofen,farmyard,120,0
+Seppenhofen,industrial,0,0
+Seppenhofen,industrial,5,0
+Seppenhofen,industrial,10,0
+Seppenhofen,industrial,15,0
+Seppenhofen,industrial,20,0
+Seppenhofen,industrial,25,0
+Seppenhofen,industrial,30,0
+Seppenhofen,industrial,40,0
+Seppenhofen,industrial,120,1
+Seppenhofen,residential,0,0
+Seppenhofen,residential,5,0
+Seppenhofen,residential,10,0
+Seppenhofen,residential,15,0
+Seppenhofen,residential,20,3
+Seppenhofen,residential,25,66
+Seppenhofen,residential,30,157
+Seppenhofen,residential,40,34
+Seppenhofen,residential,120,0
+Seppenhofen,unbekannt,0,0
+Seppenhofen,unbekannt,5,0
+Seppenhofen,unbekannt,10,0
+Seppenhofen,unbekannt,15,0
+Seppenhofen,unbekannt,20,0
+Seppenhofen,unbekannt,25,0
+Seppenhofen,unbekannt,30,1
+Seppenhofen,unbekannt,40,1
+Seppenhofen,unbekannt,120,0
+Reiselfingen,commercial,0,0
+Reiselfingen,commercial,5,0
+Reiselfingen,commercial,10,0
+Reiselfingen,commercial,15,0
+Reiselfingen,commercial,20,0
+Reiselfingen,commercial,25,0
+Reiselfingen,commercial,30,0
+Reiselfingen,commercial,40,0
+Reiselfingen,commercial,120,0
+Reiselfingen,farmyard,0,0
+Reiselfingen,farmyard,5,0
+Reiselfingen,farmyard,10,0
+Reiselfingen,farmyard,15,0
+Reiselfingen,farmyard,20,0
+Reiselfingen,farmyard,25,0
+Reiselfingen,farmyard,30,0
+Reiselfingen,farmyard,40,0
+Reiselfingen,farmyard,120,4
+Reiselfingen,industrial,0,0
+Reiselfingen,industrial,5,0
+Reiselfingen,industrial,10,0
+Reiselfingen,industrial,15,0
+Reiselfingen,industrial,20,0
+Reiselfingen,industrial,25,0
+Reiselfingen,industrial,30,0
+Reiselfingen,industrial,40,0
+Reiselfingen,industrial,120,0
+Reiselfingen,residential,0,0
+Reiselfingen,residential,5,0
+Reiselfingen,residential,10,0
+Reiselfingen,residential,15,0
+Reiselfingen,residential,20,0
+Reiselfingen,residential,25,0
+Reiselfingen,residential,30,0
+Reiselfingen,residential,40,0
+Reiselfingen,residential,120,163
+Reiselfingen,unbekannt,0,0
+Reiselfingen,unbekannt,5,0
+Reiselfingen,unbekannt,10,0
+Reiselfingen,unbekannt,15,0
+Reiselfingen,unbekannt,20,0
+Reiselfingen,unbekannt,25,0
+Reiselfingen,unbekannt,30,0
+Reiselfingen,unbekannt,40,0
+Reiselfingen,unbekannt,120,6
+Göschweiler,commercial,0,0
+Göschweiler,commercial,5,0
+Göschweiler,commercial,10,0
+Göschweiler,commercial,15,0
+Göschweiler,commercial,20,0
+Göschweiler,commercial,25,0
+Göschweiler,commercial,30,0
+Göschweiler,commercial,40,0
+Göschweiler,commercial,120,0
+Göschweiler,farmyard,0,0
+Göschweiler,farmyard,5,0
+Göschweiler,farmyard,10,1
+Göschweiler,farmyard,15,1
+Göschweiler,farmyard,20,0
+Göschweiler,farmyard,25,0
+Göschweiler,farmyard,30,0
+Göschweiler,farmyard,40,9
+Göschweiler,farmyard,120,1
+Göschweiler,industrial,0,0
+Göschweiler,industrial,5,0
+Göschweiler,industrial,10,0
+Göschweiler,industrial,15,0
+Göschweiler,industrial,20,0
+Göschweiler,industrial,25,0
+Göschweiler,industrial,30,0
+Göschweiler,industrial,40,0
+Göschweiler,industrial,120,1
+Göschweiler,residential,0,0
+Göschweiler,residential,5,32
+Göschweiler,residential,10,81
+Göschweiler,residential,15,44
+Göschweiler,residential,20,29
+Göschweiler,residential,25,0
+Göschweiler,residential,30,0
+Göschweiler,residential,40,0
+Göschweiler,residential,120,2
+Göschweiler,unbekannt,0,0
+Göschweiler,unbekannt,5,1
+Göschweiler,unbekannt,10,0
+Göschweiler,unbekannt,15,0
+Göschweiler,unbekannt,20,8
+Göschweiler,unbekannt,25,1
+Göschweiler,unbekannt,30,0
+Göschweiler,unbekannt,40,0
+Göschweiler,unbekannt,120,0
+Löffingen,commercial,0,0
+Löffingen,commercial,5,0
+Löffingen,commercial,10,0
+Löffingen,commercial,15,0
+Löffingen,commercial,20,0
+Löffingen,commercial,25,0
+Löffingen,commercial,30,0
+Löffingen,commercial,40,0
+Löffingen,commercial,120,0
+Löffingen,farmyard,0,0
+Löffingen,farmyard,5,0
+Löffingen,farmyard,10,0
+Löffingen,farmyard,15,0
+Löffingen,farmyard,20,0
+Löffingen,farmyard,25,0
+Löffingen,farmyard,30,0
+Löffingen,farmyard,40,0
+Löffingen,farmyard,120,0
+Löffingen,industrial,0,0
+Löffingen,industrial,5,0
+Löffingen,industrial,10,0
+Löffingen,industrial,15,0
+Löffingen,industrial,20,0
+Löffingen,industrial,25,0
+Löffingen,industrial,30,0
+Löffingen,industrial,40,0
+Löffingen,industrial,120,0
+Löffingen,residential,0,0
+Löffingen,residential,5,0
+Löffingen,residential,10,0
+Löffingen,residential,15,0
+Löffingen,residential,20,0
+Löffingen,residential,25,0
+Löffingen,residential,30,0
+Löffingen,residential,40,0
+Löffingen,residential,120,0
+Löffingen,unbekannt,0,0
+Löffingen,unbekannt,5,0
+Löffingen,unbekannt,10,0
+Löffingen,unbekannt,15,0
+Löffingen,unbekannt,20,0
+Löffingen,unbekannt,25,0
+Löffingen,unbekannt,30,0
+Löffingen,unbekannt,40,0
+Löffingen,unbekannt,120,0

@@ -1,0 +1,226 @@
+Name,Landuse,WegeDauer,Anzahl
+Gemarkung Oberried,commercial,0,0
+Gemarkung Oberried,commercial,5,0
+Gemarkung Oberried,commercial,10,0
+Gemarkung Oberried,commercial,15,0
+Gemarkung Oberried,commercial,20,10
+Gemarkung Oberried,commercial,25,4
+Gemarkung Oberried,commercial,30,0
+Gemarkung Oberried,commercial,40,0
+Gemarkung Oberried,commercial,120,0
+Gemarkung Oberried,farmyard,0,0
+Gemarkung Oberried,farmyard,5,0
+Gemarkung Oberried,farmyard,10,0
+Gemarkung Oberried,farmyard,15,0
+Gemarkung Oberried,farmyard,20,0
+Gemarkung Oberried,farmyard,25,7
+Gemarkung Oberried,farmyard,30,7
+Gemarkung Oberried,farmyard,40,9
+Gemarkung Oberried,farmyard,120,20
+Gemarkung Oberried,industrial,0,0
+Gemarkung Oberried,industrial,5,0
+Gemarkung Oberried,industrial,10,0
+Gemarkung Oberried,industrial,15,0
+Gemarkung Oberried,industrial,20,0
+Gemarkung Oberried,industrial,25,0
+Gemarkung Oberried,industrial,30,0
+Gemarkung Oberried,industrial,40,0
+Gemarkung Oberried,industrial,120,0
+Gemarkung Oberried,residential,0,0
+Gemarkung Oberried,residential,5,40
+Gemarkung Oberried,residential,10,104
+Gemarkung Oberried,residential,15,123
+Gemarkung Oberried,residential,20,29
+Gemarkung Oberried,residential,25,13
+Gemarkung Oberried,residential,30,7
+Gemarkung Oberried,residential,40,31
+Gemarkung Oberried,residential,120,17
+Gemarkung Oberried,unbekannt,0,0
+Gemarkung Oberried,unbekannt,5,0
+Gemarkung Oberried,unbekannt,10,1
+Gemarkung Oberried,unbekannt,15,0
+Gemarkung Oberried,unbekannt,20,2
+Gemarkung Oberried,unbekannt,25,0
+Gemarkung Oberried,unbekannt,30,0
+Gemarkung Oberried,unbekannt,40,1
+Gemarkung Oberried,unbekannt,120,5
+Hofsgrund,commercial,0,0
+Hofsgrund,commercial,5,0
+Hofsgrund,commercial,10,0
+Hofsgrund,commercial,15,0
+Hofsgrund,commercial,20,0
+Hofsgrund,commercial,25,0
+Hofsgrund,commercial,30,0
+Hofsgrund,commercial,40,0
+Hofsgrund,commercial,120,0
+Hofsgrund,farmyard,0,0
+Hofsgrund,farmyard,5,0
+Hofsgrund,farmyard,10,0
+Hofsgrund,farmyard,15,0
+Hofsgrund,farmyard,20,0
+Hofsgrund,farmyard,25,0
+Hofsgrund,farmyard,30,0
+Hofsgrund,farmyard,40,0
+Hofsgrund,farmyard,120,6
+Hofsgrund,industrial,0,0
+Hofsgrund,industrial,5,0
+Hofsgrund,industrial,10,0
+Hofsgrund,industrial,15,0
+Hofsgrund,industrial,20,0
+Hofsgrund,industrial,25,0
+Hofsgrund,industrial,30,0
+Hofsgrund,industrial,40,0
+Hofsgrund,industrial,120,0
+Hofsgrund,residential,0,0
+Hofsgrund,residential,5,0
+Hofsgrund,residential,10,0
+Hofsgrund,residential,15,0
+Hofsgrund,residential,20,0
+Hofsgrund,residential,25,0
+Hofsgrund,residential,30,0
+Hofsgrund,residential,40,0
+Hofsgrund,residential,120,128
+Hofsgrund,unbekannt,0,0
+Hofsgrund,unbekannt,5,0
+Hofsgrund,unbekannt,10,0
+Hofsgrund,unbekannt,15,0
+Hofsgrund,unbekannt,20,0
+Hofsgrund,unbekannt,25,0
+Hofsgrund,unbekannt,30,0
+Hofsgrund,unbekannt,40,0
+Hofsgrund,unbekannt,120,15
+Sankt Wilhelm,commercial,0,0
+Sankt Wilhelm,commercial,5,0
+Sankt Wilhelm,commercial,10,0
+Sankt Wilhelm,commercial,15,0
+Sankt Wilhelm,commercial,20,0
+Sankt Wilhelm,commercial,25,0
+Sankt Wilhelm,commercial,30,0
+Sankt Wilhelm,commercial,40,0
+Sankt Wilhelm,commercial,120,0
+Sankt Wilhelm,farmyard,0,0
+Sankt Wilhelm,farmyard,5,0
+Sankt Wilhelm,farmyard,10,0
+Sankt Wilhelm,farmyard,15,0
+Sankt Wilhelm,farmyard,20,0
+Sankt Wilhelm,farmyard,25,0
+Sankt Wilhelm,farmyard,30,0
+Sankt Wilhelm,farmyard,40,0
+Sankt Wilhelm,farmyard,120,8
+Sankt Wilhelm,industrial,0,0
+Sankt Wilhelm,industrial,5,0
+Sankt Wilhelm,industrial,10,0
+Sankt Wilhelm,industrial,15,0
+Sankt Wilhelm,industrial,20,0
+Sankt Wilhelm,industrial,25,0
+Sankt Wilhelm,industrial,30,0
+Sankt Wilhelm,industrial,40,0
+Sankt Wilhelm,industrial,120,0
+Sankt Wilhelm,residential,0,0
+Sankt Wilhelm,residential,5,0
+Sankt Wilhelm,residential,10,0
+Sankt Wilhelm,residential,15,0
+Sankt Wilhelm,residential,20,0
+Sankt Wilhelm,residential,25,0
+Sankt Wilhelm,residential,30,0
+Sankt Wilhelm,residential,40,0
+Sankt Wilhelm,residential,120,49
+Sankt Wilhelm,unbekannt,0,0
+Sankt Wilhelm,unbekannt,5,0
+Sankt Wilhelm,unbekannt,10,0
+Sankt Wilhelm,unbekannt,15,0
+Sankt Wilhelm,unbekannt,20,0
+Sankt Wilhelm,unbekannt,25,0
+Sankt Wilhelm,unbekannt,30,0
+Sankt Wilhelm,unbekannt,40,0
+Sankt Wilhelm,unbekannt,120,12
+Zastler,commercial,0,0
+Zastler,commercial,5,0
+Zastler,commercial,10,0
+Zastler,commercial,15,0
+Zastler,commercial,20,0
+Zastler,commercial,25,0
+Zastler,commercial,30,0
+Zastler,commercial,40,0
+Zastler,commercial,120,0
+Zastler,farmyard,0,0
+Zastler,farmyard,5,2
+Zastler,farmyard,10,0
+Zastler,farmyard,15,2
+Zastler,farmyard,20,1
+Zastler,farmyard,25,1
+Zastler,farmyard,30,2
+Zastler,farmyard,40,0
+Zastler,farmyard,120,6
+Zastler,industrial,0,0
+Zastler,industrial,5,0
+Zastler,industrial,10,0
+Zastler,industrial,15,0
+Zastler,industrial,20,0
+Zastler,industrial,25,0
+Zastler,industrial,30,2
+Zastler,industrial,40,0
+Zastler,industrial,120,0
+Zastler,residential,0,0
+Zastler,residential,5,8
+Zastler,residential,10,7
+Zastler,residential,15,3
+Zastler,residential,20,3
+Zastler,residential,25,45
+Zastler,residential,30,18
+Zastler,residential,40,2
+Zastler,residential,120,5
+Zastler,unbekannt,0,0
+Zastler,unbekannt,5,1
+Zastler,unbekannt,10,0
+Zastler,unbekannt,15,0
+Zastler,unbekannt,20,0
+Zastler,unbekannt,25,0
+Zastler,unbekannt,30,0
+Zastler,unbekannt,40,1
+Zastler,unbekannt,120,6
+Oberried,commercial,0,0
+Oberried,commercial,5,0
+Oberried,commercial,10,0
+Oberried,commercial,15,0
+Oberried,commercial,20,0
+Oberried,commercial,25,0
+Oberried,commercial,30,0
+Oberried,commercial,40,0
+Oberried,commercial,120,0
+Oberried,farmyard,0,0
+Oberried,farmyard,5,0
+Oberried,farmyard,10,0
+Oberried,farmyard,15,0
+Oberried,farmyard,20,0
+Oberried,farmyard,25,0
+Oberried,farmyard,30,0
+Oberried,farmyard,40,0
+Oberried,farmyard,120,0
+Oberried,industrial,0,0
+Oberried,industrial,5,0
+Oberried,industrial,10,0
+Oberried,industrial,15,0
+Oberried,industrial,20,0
+Oberried,industrial,25,0
+Oberried,industrial,30,0
+Oberried,industrial,40,0
+Oberried,industrial,120,0
+Oberried,residential,0,0
+Oberried,residential,5,0
+Oberried,residential,10,0
+Oberried,residential,15,0
+Oberried,residential,20,0
+Oberried,residential,25,0
+Oberried,residential,30,0
+Oberried,residential,40,0
+Oberried,residential,120,0
+Oberried,unbekannt,0,0
+Oberried,unbekannt,5,0
+Oberried,unbekannt,10,0
+Oberried,unbekannt,15,0
+Oberried,unbekannt,20,0
+Oberried,unbekannt,25,0
+Oberried,unbekannt,30,0
+Oberried,unbekannt,40,0
+Oberried,unbekannt,120,0

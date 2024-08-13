@@ -1,0 +1,145 @@
+Name,Landuse,WegeDauer,Anzahl
+Stegen (Kernort),farmyard,0,0
+Stegen (Kernort),farmyard,5,0
+Stegen (Kernort),farmyard,10,0
+Stegen (Kernort),farmyard,15,0
+Stegen (Kernort),farmyard,20,1
+Stegen (Kernort),farmyard,25,1
+Stegen (Kernort),farmyard,30,3
+Stegen (Kernort),farmyard,40,12
+Stegen (Kernort),farmyard,120,5
+Stegen (Kernort),industrial,0,0
+Stegen (Kernort),industrial,5,0
+Stegen (Kernort),industrial,10,0
+Stegen (Kernort),industrial,15,0
+Stegen (Kernort),industrial,20,0
+Stegen (Kernort),industrial,25,3
+Stegen (Kernort),industrial,30,8
+Stegen (Kernort),industrial,40,0
+Stegen (Kernort),industrial,120,0
+Stegen (Kernort),residential,0,0
+Stegen (Kernort),residential,5,81
+Stegen (Kernort),residential,10,204
+Stegen (Kernort),residential,15,203
+Stegen (Kernort),residential,20,87
+Stegen (Kernort),residential,25,6
+Stegen (Kernort),residential,30,13
+Stegen (Kernort),residential,40,0
+Stegen (Kernort),residential,120,2
+Stegen (Kernort),unbekannt,0,0
+Stegen (Kernort),unbekannt,5,0
+Stegen (Kernort),unbekannt,10,0
+Stegen (Kernort),unbekannt,15,4
+Stegen (Kernort),unbekannt,20,0
+Stegen (Kernort),unbekannt,25,2
+Stegen (Kernort),unbekannt,30,0
+Stegen (Kernort),unbekannt,40,0
+Stegen (Kernort),unbekannt,120,0
+Wittental,farmyard,0,0
+Wittental,farmyard,5,0
+Wittental,farmyard,10,0
+Wittental,farmyard,15,0
+Wittental,farmyard,20,0
+Wittental,farmyard,25,0
+Wittental,farmyard,30,0
+Wittental,farmyard,40,1
+Wittental,farmyard,120,5
+Wittental,industrial,0,0
+Wittental,industrial,5,0
+Wittental,industrial,10,0
+Wittental,industrial,15,0
+Wittental,industrial,20,0
+Wittental,industrial,25,0
+Wittental,industrial,30,0
+Wittental,industrial,40,0
+Wittental,industrial,120,0
+Wittental,residential,0,0
+Wittental,residential,5,0
+Wittental,residential,10,0
+Wittental,residential,15,0
+Wittental,residential,20,0
+Wittental,residential,25,0
+Wittental,residential,30,0
+Wittental,residential,40,7
+Wittental,residential,120,98
+Wittental,unbekannt,0,0
+Wittental,unbekannt,5,0
+Wittental,unbekannt,10,0
+Wittental,unbekannt,15,0
+Wittental,unbekannt,20,0
+Wittental,unbekannt,25,0
+Wittental,unbekannt,30,0
+Wittental,unbekannt,40,0
+Wittental,unbekannt,120,2
+Eschbach (Dreisamtal),farmyard,0,0
+Eschbach (Dreisamtal),farmyard,5,0
+Eschbach (Dreisamtal),farmyard,10,1
+Eschbach (Dreisamtal),farmyard,15,2
+Eschbach (Dreisamtal),farmyard,20,0
+Eschbach (Dreisamtal),farmyard,25,3
+Eschbach (Dreisamtal),farmyard,30,2
+Eschbach (Dreisamtal),farmyard,40,9
+Eschbach (Dreisamtal),farmyard,120,31
+Eschbach (Dreisamtal),industrial,0,0
+Eschbach (Dreisamtal),industrial,5,0
+Eschbach (Dreisamtal),industrial,10,0
+Eschbach (Dreisamtal),industrial,15,0
+Eschbach (Dreisamtal),industrial,20,0
+Eschbach (Dreisamtal),industrial,25,0
+Eschbach (Dreisamtal),industrial,30,1
+Eschbach (Dreisamtal),industrial,40,0
+Eschbach (Dreisamtal),industrial,120,0
+Eschbach (Dreisamtal),residential,0,0
+Eschbach (Dreisamtal),residential,5,28
+Eschbach (Dreisamtal),residential,10,23
+Eschbach (Dreisamtal),residential,15,12
+Eschbach (Dreisamtal),residential,20,51
+Eschbach (Dreisamtal),residential,25,70
+Eschbach (Dreisamtal),residential,30,34
+Eschbach (Dreisamtal),residential,40,11
+Eschbach (Dreisamtal),residential,120,10
+Eschbach (Dreisamtal),unbekannt,0,0
+Eschbach (Dreisamtal),unbekannt,5,0
+Eschbach (Dreisamtal),unbekannt,10,0
+Eschbach (Dreisamtal),unbekannt,15,0
+Eschbach (Dreisamtal),unbekannt,20,1
+Eschbach (Dreisamtal),unbekannt,25,0
+Eschbach (Dreisamtal),unbekannt,30,0
+Eschbach (Dreisamtal),unbekannt,40,1
+Eschbach (Dreisamtal),unbekannt,120,4
+Stegen,farmyard,0,0
+Stegen,farmyard,5,0
+Stegen,farmyard,10,0
+Stegen,farmyard,15,0
+Stegen,farmyard,20,0
+Stegen,farmyard,25,0
+Stegen,farmyard,30,0
+Stegen,farmyard,40,0
+Stegen,farmyard,120,0
+Stegen,industrial,0,0
+Stegen,industrial,5,0
+Stegen,industrial,10,0
+Stegen,industrial,15,0
+Stegen,industrial,20,0
+Stegen,industrial,25,0
+Stegen,industrial,30,0
+Stegen,industrial,40,0
+Stegen,industrial,120,0
+Stegen,residential,0,0
+Stegen,residential,5,0
+Stegen,residential,10,0
+Stegen,residential,15,0
+Stegen,residential,20,0
+Stegen,residential,25,0
+Stegen,residential,30,0
+Stegen,residential,40,0
+Stegen,residential,120,0
+Stegen,unbekannt,0,0
+Stegen,unbekannt,5,0
+Stegen,unbekannt,10,0
+Stegen,unbekannt,15,0
+Stegen,unbekannt,20,0
+Stegen,unbekannt,25,0
+Stegen,unbekannt,30,0
+Stegen,unbekannt,40,0
+Stegen,unbekannt,120,0

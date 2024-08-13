@@ -1,0 +1,136 @@
+Name,Landuse,WegeDauer,Anzahl
+Bollschweil (Kernort),commercial,0,0
+Bollschweil (Kernort),commercial,5,0
+Bollschweil (Kernort),commercial,10,0
+Bollschweil (Kernort),commercial,15,0
+Bollschweil (Kernort),commercial,20,0
+Bollschweil (Kernort),commercial,25,4
+Bollschweil (Kernort),commercial,30,0
+Bollschweil (Kernort),commercial,40,0
+Bollschweil (Kernort),commercial,120,0
+Bollschweil (Kernort),farmyard,0,0
+Bollschweil (Kernort),farmyard,5,0
+Bollschweil (Kernort),farmyard,10,0
+Bollschweil (Kernort),farmyard,15,0
+Bollschweil (Kernort),farmyard,20,1
+Bollschweil (Kernort),farmyard,25,0
+Bollschweil (Kernort),farmyard,30,4
+Bollschweil (Kernort),farmyard,40,0
+Bollschweil (Kernort),farmyard,120,7
+Bollschweil (Kernort),industrial,0,0
+Bollschweil (Kernort),industrial,5,0
+Bollschweil (Kernort),industrial,10,0
+Bollschweil (Kernort),industrial,15,0
+Bollschweil (Kernort),industrial,20,0
+Bollschweil (Kernort),industrial,25,0
+Bollschweil (Kernort),industrial,30,0
+Bollschweil (Kernort),industrial,40,1
+Bollschweil (Kernort),industrial,120,0
+Bollschweil (Kernort),residential,0,0
+Bollschweil (Kernort),residential,5,39
+Bollschweil (Kernort),residential,10,108
+Bollschweil (Kernort),residential,15,211
+Bollschweil (Kernort),residential,20,117
+Bollschweil (Kernort),residential,25,43
+Bollschweil (Kernort),residential,30,20
+Bollschweil (Kernort),residential,40,1
+Bollschweil (Kernort),residential,120,7
+Bollschweil (Kernort),unbekannt,0,0
+Bollschweil (Kernort),unbekannt,5,0
+Bollschweil (Kernort),unbekannt,10,1
+Bollschweil (Kernort),unbekannt,15,2
+Bollschweil (Kernort),unbekannt,20,0
+Bollschweil (Kernort),unbekannt,25,0
+Bollschweil (Kernort),unbekannt,30,0
+Bollschweil (Kernort),unbekannt,40,0
+Bollschweil (Kernort),unbekannt,120,0
+St. Ulrich,commercial,0,0
+St. Ulrich,commercial,5,0
+St. Ulrich,commercial,10,0
+St. Ulrich,commercial,15,0
+St. Ulrich,commercial,20,0
+St. Ulrich,commercial,25,0
+St. Ulrich,commercial,30,0
+St. Ulrich,commercial,40,0
+St. Ulrich,commercial,120,0
+St. Ulrich,farmyard,0,0
+St. Ulrich,farmyard,5,0
+St. Ulrich,farmyard,10,0
+St. Ulrich,farmyard,15,0
+St. Ulrich,farmyard,20,0
+St. Ulrich,farmyard,25,0
+St. Ulrich,farmyard,30,0
+St. Ulrich,farmyard,40,0
+St. Ulrich,farmyard,120,7
+St. Ulrich,industrial,0,0
+St. Ulrich,industrial,5,0
+St. Ulrich,industrial,10,0
+St. Ulrich,industrial,15,0
+St. Ulrich,industrial,20,0
+St. Ulrich,industrial,25,0
+St. Ulrich,industrial,30,0
+St. Ulrich,industrial,40,0
+St. Ulrich,industrial,120,0
+St. Ulrich,residential,0,0
+St. Ulrich,residential,5,0
+St. Ulrich,residential,10,0
+St. Ulrich,residential,15,0
+St. Ulrich,residential,20,0
+St. Ulrich,residential,25,0
+St. Ulrich,residential,30,0
+St. Ulrich,residential,40,0
+St. Ulrich,residential,120,46
+St. Ulrich,unbekannt,0,0
+St. Ulrich,unbekannt,5,0
+St. Ulrich,unbekannt,10,0
+St. Ulrich,unbekannt,15,0
+St. Ulrich,unbekannt,20,0
+St. Ulrich,unbekannt,25,0
+St. Ulrich,unbekannt,30,0
+St. Ulrich,unbekannt,40,0
+St. Ulrich,unbekannt,120,43
+Bollschweil,commercial,0,0
+Bollschweil,commercial,5,0
+Bollschweil,commercial,10,0
+Bollschweil,commercial,15,0
+Bollschweil,commercial,20,0
+Bollschweil,commercial,25,0
+Bollschweil,commercial,30,0
+Bollschweil,commercial,40,0
+Bollschweil,commercial,120,0
+Bollschweil,farmyard,0,0
+Bollschweil,farmyard,5,0
+Bollschweil,farmyard,10,0
+Bollschweil,farmyard,15,0
+Bollschweil,farmyard,20,0
+Bollschweil,farmyard,25,0
+Bollschweil,farmyard,30,0
+Bollschweil,farmyard,40,0
+Bollschweil,farmyard,120,0
+Bollschweil,industrial,0,0
+Bollschweil,industrial,5,0
+Bollschweil,industrial,10,0
+Bollschweil,industrial,15,0
+Bollschweil,industrial,20,0
+Bollschweil,industrial,25,0
+Bollschweil,industrial,30,0
+Bollschweil,industrial,40,0
+Bollschweil,industrial,120,0
+Bollschweil,residential,0,0
+Bollschweil,residential,5,0
+Bollschweil,residential,10,0
+Bollschweil,residential,15,0
+Bollschweil,residential,20,0
+Bollschweil,residential,25,0
+Bollschweil,residential,30,0
+Bollschweil,residential,40,0
+Bollschweil,residential,120,0
+Bollschweil,unbekannt,0,0
+Bollschweil,unbekannt,5,0
+Bollschweil,unbekannt,10,0
+Bollschweil,unbekannt,15,0
+Bollschweil,unbekannt,20,0
+Bollschweil,unbekannt,25,0
+Bollschweil,unbekannt,30,0
+Bollschweil,unbekannt,40,0
+Bollschweil,unbekannt,120,0

@@ -1,0 +1,271 @@
+Name,Landuse,WegeDauer,Anzahl
+Hausen an der Möhlin,commercial,0,0
+Hausen an der Möhlin,commercial,5,0
+Hausen an der Möhlin,commercial,10,18
+Hausen an der Möhlin,commercial,15,6
+Hausen an der Möhlin,commercial,20,0
+Hausen an der Möhlin,commercial,25,0
+Hausen an der Möhlin,commercial,30,0
+Hausen an der Möhlin,commercial,40,0
+Hausen an der Möhlin,commercial,120,0
+Hausen an der Möhlin,farmyard,0,0
+Hausen an der Möhlin,farmyard,5,0
+Hausen an der Möhlin,farmyard,10,0
+Hausen an der Möhlin,farmyard,15,0
+Hausen an der Möhlin,farmyard,20,0
+Hausen an der Möhlin,farmyard,25,0
+Hausen an der Möhlin,farmyard,30,0
+Hausen an der Möhlin,farmyard,40,0
+Hausen an der Möhlin,farmyard,120,0
+Hausen an der Möhlin,industrial,0,0
+Hausen an der Möhlin,industrial,5,0
+Hausen an der Möhlin,industrial,10,0
+Hausen an der Möhlin,industrial,15,0
+Hausen an der Möhlin,industrial,20,0
+Hausen an der Möhlin,industrial,25,0
+Hausen an der Möhlin,industrial,30,0
+Hausen an der Möhlin,industrial,40,1
+Hausen an der Möhlin,industrial,120,0
+Hausen an der Möhlin,residential,0,0
+Hausen an der Möhlin,residential,5,53
+Hausen an der Möhlin,residential,10,156
+Hausen an der Möhlin,residential,15,121
+Hausen an der Möhlin,residential,20,90
+Hausen an der Möhlin,residential,25,0
+Hausen an der Möhlin,residential,30,0
+Hausen an der Möhlin,residential,40,0
+Hausen an der Möhlin,residential,120,0
+Hausen an der Möhlin,unbekannt,0,0
+Hausen an der Möhlin,unbekannt,5,0
+Hausen an der Möhlin,unbekannt,10,2
+Hausen an der Möhlin,unbekannt,15,1
+Hausen an der Möhlin,unbekannt,20,0
+Hausen an der Möhlin,unbekannt,25,0
+Hausen an der Möhlin,unbekannt,30,0
+Hausen an der Möhlin,unbekannt,40,0
+Hausen an der Möhlin,unbekannt,120,0
+Bad Krozingen (Kernstadt),commercial,0,0
+Bad Krozingen (Kernstadt),commercial,5,0
+Bad Krozingen (Kernstadt),commercial,10,0
+Bad Krozingen (Kernstadt),commercial,15,3
+Bad Krozingen (Kernstadt),commercial,20,8
+Bad Krozingen (Kernstadt),commercial,25,35
+Bad Krozingen (Kernstadt),commercial,30,42
+Bad Krozingen (Kernstadt),commercial,40,22
+Bad Krozingen (Kernstadt),commercial,120,0
+Bad Krozingen (Kernstadt),farmyard,0,0
+Bad Krozingen (Kernstadt),farmyard,5,0
+Bad Krozingen (Kernstadt),farmyard,10,0
+Bad Krozingen (Kernstadt),farmyard,15,0
+Bad Krozingen (Kernstadt),farmyard,20,0
+Bad Krozingen (Kernstadt),farmyard,25,0
+Bad Krozingen (Kernstadt),farmyard,30,0
+Bad Krozingen (Kernstadt),farmyard,40,0
+Bad Krozingen (Kernstadt),farmyard,120,1
+Bad Krozingen (Kernstadt),industrial,0,0
+Bad Krozingen (Kernstadt),industrial,5,0
+Bad Krozingen (Kernstadt),industrial,10,0
+Bad Krozingen (Kernstadt),industrial,15,0
+Bad Krozingen (Kernstadt),industrial,20,0
+Bad Krozingen (Kernstadt),industrial,25,0
+Bad Krozingen (Kernstadt),industrial,30,2
+Bad Krozingen (Kernstadt),industrial,40,3
+Bad Krozingen (Kernstadt),industrial,120,0
+Bad Krozingen (Kernstadt),residential,0,0
+Bad Krozingen (Kernstadt),residential,5,51
+Bad Krozingen (Kernstadt),residential,10,293
+Bad Krozingen (Kernstadt),residential,15,595
+Bad Krozingen (Kernstadt),residential,20,713
+Bad Krozingen (Kernstadt),residential,25,450
+Bad Krozingen (Kernstadt),residential,30,194
+Bad Krozingen (Kernstadt),residential,40,142
+Bad Krozingen (Kernstadt),residential,120,0
+Bad Krozingen (Kernstadt),unbekannt,0,0
+Bad Krozingen (Kernstadt),unbekannt,5,3
+Bad Krozingen (Kernstadt),unbekannt,10,0
+Bad Krozingen (Kernstadt),unbekannt,15,1
+Bad Krozingen (Kernstadt),unbekannt,20,7
+Bad Krozingen (Kernstadt),unbekannt,25,11
+Bad Krozingen (Kernstadt),unbekannt,30,2
+Bad Krozingen (Kernstadt),unbekannt,40,10
+Bad Krozingen (Kernstadt),unbekannt,120,0
+Tunsel,commercial,0,0
+Tunsel,commercial,5,0
+Tunsel,commercial,10,0
+Tunsel,commercial,15,0
+Tunsel,commercial,20,0
+Tunsel,commercial,25,0
+Tunsel,commercial,30,0
+Tunsel,commercial,40,0
+Tunsel,commercial,120,1
+Tunsel,farmyard,0,0
+Tunsel,farmyard,5,0
+Tunsel,farmyard,10,0
+Tunsel,farmyard,15,0
+Tunsel,farmyard,20,1
+Tunsel,farmyard,25,0
+Tunsel,farmyard,30,0
+Tunsel,farmyard,40,0
+Tunsel,farmyard,120,0
+Tunsel,industrial,0,0
+Tunsel,industrial,5,0
+Tunsel,industrial,10,0
+Tunsel,industrial,15,0
+Tunsel,industrial,20,0
+Tunsel,industrial,25,0
+Tunsel,industrial,30,0
+Tunsel,industrial,40,0
+Tunsel,industrial,120,2
+Tunsel,residential,0,0
+Tunsel,residential,5,76
+Tunsel,residential,10,123
+Tunsel,residential,15,152
+Tunsel,residential,20,82
+Tunsel,residential,25,2
+Tunsel,residential,30,0
+Tunsel,residential,40,0
+Tunsel,residential,120,97
+Tunsel,unbekannt,0,0
+Tunsel,unbekannt,5,0
+Tunsel,unbekannt,10,1
+Tunsel,unbekannt,15,2
+Tunsel,unbekannt,20,0
+Tunsel,unbekannt,25,1
+Tunsel,unbekannt,30,0
+Tunsel,unbekannt,40,1
+Tunsel,unbekannt,120,0
+Biengen,commercial,0,0
+Biengen,commercial,5,0
+Biengen,commercial,10,0
+Biengen,commercial,15,0
+Biengen,commercial,20,0
+Biengen,commercial,25,0
+Biengen,commercial,30,0
+Biengen,commercial,40,0
+Biengen,commercial,120,0
+Biengen,farmyard,0,0
+Biengen,farmyard,5,0
+Biengen,farmyard,10,0
+Biengen,farmyard,15,0
+Biengen,farmyard,20,0
+Biengen,farmyard,25,1
+Biengen,farmyard,30,0
+Biengen,farmyard,40,0
+Biengen,farmyard,120,3
+Biengen,industrial,0,0
+Biengen,industrial,5,0
+Biengen,industrial,10,0
+Biengen,industrial,15,3
+Biengen,industrial,20,4
+Biengen,industrial,25,6
+Biengen,industrial,30,0
+Biengen,industrial,40,0
+Biengen,industrial,120,0
+Biengen,residential,0,0
+Biengen,residential,5,107
+Biengen,residential,10,277
+Biengen,residential,15,111
+Biengen,residential,20,8
+Biengen,residential,25,9
+Biengen,residential,30,1
+Biengen,residential,40,0
+Biengen,residential,120,0
+Biengen,unbekannt,0,0
+Biengen,unbekannt,5,0
+Biengen,unbekannt,10,0
+Biengen,unbekannt,15,0
+Biengen,unbekannt,20,1
+Biengen,unbekannt,25,1
+Biengen,unbekannt,30,0
+Biengen,unbekannt,40,0
+Biengen,unbekannt,120,0
+Schlatt,commercial,0,0
+Schlatt,commercial,5,0
+Schlatt,commercial,10,0
+Schlatt,commercial,15,0
+Schlatt,commercial,20,0
+Schlatt,commercial,25,0
+Schlatt,commercial,30,0
+Schlatt,commercial,40,0
+Schlatt,commercial,120,0
+Schlatt,farmyard,0,0
+Schlatt,farmyard,5,0
+Schlatt,farmyard,10,0
+Schlatt,farmyard,15,0
+Schlatt,farmyard,20,2
+Schlatt,farmyard,25,0
+Schlatt,farmyard,30,0
+Schlatt,farmyard,40,4
+Schlatt,farmyard,120,0
+Schlatt,industrial,0,0
+Schlatt,industrial,5,0
+Schlatt,industrial,10,0
+Schlatt,industrial,15,0
+Schlatt,industrial,20,0
+Schlatt,industrial,25,0
+Schlatt,industrial,30,0
+Schlatt,industrial,40,0
+Schlatt,industrial,120,0
+Schlatt,residential,0,0
+Schlatt,residential,5,73
+Schlatt,residential,10,68
+Schlatt,residential,15,67
+Schlatt,residential,20,64
+Schlatt,residential,25,14
+Schlatt,residential,30,0
+Schlatt,residential,40,0
+Schlatt,residential,120,0
+Schlatt,unbekannt,0,0
+Schlatt,unbekannt,5,0
+Schlatt,unbekannt,10,0
+Schlatt,unbekannt,15,0
+Schlatt,unbekannt,20,1
+Schlatt,unbekannt,25,0
+Schlatt,unbekannt,30,0
+Schlatt,unbekannt,40,0
+Schlatt,unbekannt,120,0
+Bad Krozingen,commercial,0,0
+Bad Krozingen,commercial,5,0
+Bad Krozingen,commercial,10,0
+Bad Krozingen,commercial,15,0
+Bad Krozingen,commercial,20,0
+Bad Krozingen,commercial,25,0
+Bad Krozingen,commercial,30,0
+Bad Krozingen,commercial,40,0
+Bad Krozingen,commercial,120,0
+Bad Krozingen,farmyard,0,0
+Bad Krozingen,farmyard,5,0
+Bad Krozingen,farmyard,10,0
+Bad Krozingen,farmyard,15,0
+Bad Krozingen,farmyard,20,0
+Bad Krozingen,farmyard,25,0
+Bad Krozingen,farmyard,30,0
+Bad Krozingen,farmyard,40,0
+Bad Krozingen,farmyard,120,0
+Bad Krozingen,industrial,0,0
+Bad Krozingen,industrial,5,0
+Bad Krozingen,industrial,10,0
+Bad Krozingen,industrial,15,0
+Bad Krozingen,industrial,20,0
+Bad Krozingen,industrial,25,0
+Bad Krozingen,industrial,30,0
+Bad Krozingen,industrial,40,0
+Bad Krozingen,industrial,120,0
+Bad Krozingen,residential,0,0
+Bad Krozingen,residential,5,0
+Bad Krozingen,residential,10,0
+Bad Krozingen,residential,15,0
+Bad Krozingen,residential,20,0
+Bad Krozingen,residential,25,0
+Bad Krozingen,residential,30,0
+Bad Krozingen,residential,40,0
+Bad Krozingen,residential,120,0
+Bad Krozingen,unbekannt,0,0
+Bad Krozingen,unbekannt,5,0
+Bad Krozingen,unbekannt,10,0
+Bad Krozingen,unbekannt,15,0
+Bad Krozingen,unbekannt,20,0
+Bad Krozingen,unbekannt,25,0
+Bad Krozingen,unbekannt,30,0
+Bad Krozingen,unbekannt,40,0
+Bad Krozingen,unbekannt,120,0

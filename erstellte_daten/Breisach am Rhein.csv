@@ -1,0 +1,226 @@
+Name,Landuse,WegeDauer,Anzahl
+Breisach (Kernstadt),commercial,0,0
+Breisach (Kernstadt),commercial,5,0
+Breisach (Kernstadt),commercial,10,1
+Breisach (Kernstadt),commercial,15,4
+Breisach (Kernstadt),commercial,20,21
+Breisach (Kernstadt),commercial,25,21
+Breisach (Kernstadt),commercial,30,20
+Breisach (Kernstadt),commercial,40,9
+Breisach (Kernstadt),commercial,120,2
+Breisach (Kernstadt),farmyard,0,0
+Breisach (Kernstadt),farmyard,5,0
+Breisach (Kernstadt),farmyard,10,0
+Breisach (Kernstadt),farmyard,15,0
+Breisach (Kernstadt),farmyard,20,0
+Breisach (Kernstadt),farmyard,25,0
+Breisach (Kernstadt),farmyard,30,0
+Breisach (Kernstadt),farmyard,40,2
+Breisach (Kernstadt),farmyard,120,7
+Breisach (Kernstadt),industrial,0,0
+Breisach (Kernstadt),industrial,5,0
+Breisach (Kernstadt),industrial,10,3
+Breisach (Kernstadt),industrial,15,6
+Breisach (Kernstadt),industrial,20,20
+Breisach (Kernstadt),industrial,25,15
+Breisach (Kernstadt),industrial,30,43
+Breisach (Kernstadt),industrial,40,13
+Breisach (Kernstadt),industrial,120,2
+Breisach (Kernstadt),residential,0,0
+Breisach (Kernstadt),residential,5,156
+Breisach (Kernstadt),residential,10,356
+Breisach (Kernstadt),residential,15,668
+Breisach (Kernstadt),residential,20,582
+Breisach (Kernstadt),residential,25,326
+Breisach (Kernstadt),residential,30,35
+Breisach (Kernstadt),residential,40,2
+Breisach (Kernstadt),residential,120,206
+Breisach (Kernstadt),unbekannt,0,0
+Breisach (Kernstadt),unbekannt,5,8
+Breisach (Kernstadt),unbekannt,10,8
+Breisach (Kernstadt),unbekannt,15,9
+Breisach (Kernstadt),unbekannt,20,2
+Breisach (Kernstadt),unbekannt,25,4
+Breisach (Kernstadt),unbekannt,30,2
+Breisach (Kernstadt),unbekannt,40,12
+Breisach (Kernstadt),unbekannt,120,1
+Gündlingen,commercial,0,0
+Gündlingen,commercial,5,0
+Gündlingen,commercial,10,0
+Gündlingen,commercial,15,0
+Gündlingen,commercial,20,0
+Gündlingen,commercial,25,0
+Gündlingen,commercial,30,0
+Gündlingen,commercial,40,0
+Gündlingen,commercial,120,0
+Gündlingen,farmyard,0,0
+Gündlingen,farmyard,5,0
+Gündlingen,farmyard,10,0
+Gündlingen,farmyard,15,0
+Gündlingen,farmyard,20,0
+Gündlingen,farmyard,25,1
+Gündlingen,farmyard,30,1
+Gündlingen,farmyard,40,3
+Gündlingen,farmyard,120,1
+Gündlingen,industrial,0,0
+Gündlingen,industrial,5,0
+Gündlingen,industrial,10,0
+Gündlingen,industrial,15,0
+Gündlingen,industrial,20,0
+Gündlingen,industrial,25,0
+Gündlingen,industrial,30,0
+Gündlingen,industrial,40,0
+Gündlingen,industrial,120,2
+Gündlingen,residential,0,0
+Gündlingen,residential,5,50
+Gündlingen,residential,10,223
+Gündlingen,residential,15,212
+Gündlingen,residential,20,19
+Gündlingen,residential,25,0
+Gündlingen,residential,30,0
+Gündlingen,residential,40,0
+Gündlingen,residential,120,0
+Gündlingen,unbekannt,0,0
+Gündlingen,unbekannt,5,0
+Gündlingen,unbekannt,10,0
+Gündlingen,unbekannt,15,0
+Gündlingen,unbekannt,20,0
+Gündlingen,unbekannt,25,0
+Gündlingen,unbekannt,30,0
+Gündlingen,unbekannt,40,0
+Gündlingen,unbekannt,120,2
+Niederrimsingen,commercial,0,0
+Niederrimsingen,commercial,5,0
+Niederrimsingen,commercial,10,1
+Niederrimsingen,commercial,15,0
+Niederrimsingen,commercial,20,0
+Niederrimsingen,commercial,25,0
+Niederrimsingen,commercial,30,0
+Niederrimsingen,commercial,40,1
+Niederrimsingen,commercial,120,3
+Niederrimsingen,farmyard,0,0
+Niederrimsingen,farmyard,5,0
+Niederrimsingen,farmyard,10,0
+Niederrimsingen,farmyard,15,0
+Niederrimsingen,farmyard,20,0
+Niederrimsingen,farmyard,25,1
+Niederrimsingen,farmyard,30,0
+Niederrimsingen,farmyard,40,0
+Niederrimsingen,farmyard,120,0
+Niederrimsingen,industrial,0,0
+Niederrimsingen,industrial,5,0
+Niederrimsingen,industrial,10,0
+Niederrimsingen,industrial,15,0
+Niederrimsingen,industrial,20,0
+Niederrimsingen,industrial,25,0
+Niederrimsingen,industrial,30,0
+Niederrimsingen,industrial,40,6
+Niederrimsingen,industrial,120,5
+Niederrimsingen,residential,0,0
+Niederrimsingen,residential,5,112
+Niederrimsingen,residential,10,186
+Niederrimsingen,residential,15,66
+Niederrimsingen,residential,20,6
+Niederrimsingen,residential,25,1
+Niederrimsingen,residential,30,0
+Niederrimsingen,residential,40,0
+Niederrimsingen,residential,120,0
+Niederrimsingen,unbekannt,0,0
+Niederrimsingen,unbekannt,5,2
+Niederrimsingen,unbekannt,10,0
+Niederrimsingen,unbekannt,15,0
+Niederrimsingen,unbekannt,20,0
+Niederrimsingen,unbekannt,25,0
+Niederrimsingen,unbekannt,30,0
+Niederrimsingen,unbekannt,40,0
+Niederrimsingen,unbekannt,120,0
+Oberrimsingen,commercial,0,0
+Oberrimsingen,commercial,5,0
+Oberrimsingen,commercial,10,0
+Oberrimsingen,commercial,15,0
+Oberrimsingen,commercial,20,0
+Oberrimsingen,commercial,25,0
+Oberrimsingen,commercial,30,0
+Oberrimsingen,commercial,40,0
+Oberrimsingen,commercial,120,0
+Oberrimsingen,farmyard,0,0
+Oberrimsingen,farmyard,5,0
+Oberrimsingen,farmyard,10,0
+Oberrimsingen,farmyard,15,0
+Oberrimsingen,farmyard,20,0
+Oberrimsingen,farmyard,25,0
+Oberrimsingen,farmyard,30,0
+Oberrimsingen,farmyard,40,0
+Oberrimsingen,farmyard,120,5
+Oberrimsingen,industrial,0,0
+Oberrimsingen,industrial,5,2
+Oberrimsingen,industrial,10,0
+Oberrimsingen,industrial,15,4
+Oberrimsingen,industrial,20,10
+Oberrimsingen,industrial,25,0
+Oberrimsingen,industrial,30,0
+Oberrimsingen,industrial,40,0
+Oberrimsingen,industrial,120,5
+Oberrimsingen,residential,0,0
+Oberrimsingen,residential,5,92
+Oberrimsingen,residential,10,215
+Oberrimsingen,residential,15,156
+Oberrimsingen,residential,20,10
+Oberrimsingen,residential,25,4
+Oberrimsingen,residential,30,0
+Oberrimsingen,residential,40,7
+Oberrimsingen,residential,120,44
+Oberrimsingen,unbekannt,0,0
+Oberrimsingen,unbekannt,5,0
+Oberrimsingen,unbekannt,10,1
+Oberrimsingen,unbekannt,15,2
+Oberrimsingen,unbekannt,20,0
+Oberrimsingen,unbekannt,25,0
+Oberrimsingen,unbekannt,30,0
+Oberrimsingen,unbekannt,40,1
+Oberrimsingen,unbekannt,120,0
+Breisach am Rhein,commercial,0,0
+Breisach am Rhein,commercial,5,0
+Breisach am Rhein,commercial,10,0
+Breisach am Rhein,commercial,15,0
+Breisach am Rhein,commercial,20,0
+Breisach am Rhein,commercial,25,0
+Breisach am Rhein,commercial,30,0
+Breisach am Rhein,commercial,40,0
+Breisach am Rhein,commercial,120,0
+Breisach am Rhein,farmyard,0,0
+Breisach am Rhein,farmyard,5,0
+Breisach am Rhein,farmyard,10,0
+Breisach am Rhein,farmyard,15,0
+Breisach am Rhein,farmyard,20,0
+Breisach am Rhein,farmyard,25,0
+Breisach am Rhein,farmyard,30,0
+Breisach am Rhein,farmyard,40,0
+Breisach am Rhein,farmyard,120,0
+Breisach am Rhein,industrial,0,0
+Breisach am Rhein,industrial,5,0
+Breisach am Rhein,industrial,10,0
+Breisach am Rhein,industrial,15,0
+Breisach am Rhein,industrial,20,0
+Breisach am Rhein,industrial,25,0
+Breisach am Rhein,industrial,30,0
+Breisach am Rhein,industrial,40,0
+Breisach am Rhein,industrial,120,0
+Breisach am Rhein,residential,0,0
+Breisach am Rhein,residential,5,0
+Breisach am Rhein,residential,10,0
+Breisach am Rhein,residential,15,0
+Breisach am Rhein,residential,20,0
+Breisach am Rhein,residential,25,0
+Breisach am Rhein,residential,30,0
+Breisach am Rhein,residential,40,0
+Breisach am Rhein,residential,120,0
+Breisach am Rhein,unbekannt,0,0
+Breisach am Rhein,unbekannt,5,0
+Breisach am Rhein,unbekannt,10,0
+Breisach am Rhein,unbekannt,15,0
+Breisach am Rhein,unbekannt,20,0
+Breisach am Rhein,unbekannt,25,0
+Breisach am Rhein,unbekannt,30,0
+Breisach am Rhein,unbekannt,40,0
+Breisach am Rhein,unbekannt,120,0

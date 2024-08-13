@@ -1,0 +1,181 @@
+Name,Landuse,WegeDauer,Anzahl
+Buggingen (Kernort),commercial,0,0
+Buggingen (Kernort),commercial,5,0
+Buggingen (Kernort),commercial,10,0
+Buggingen (Kernort),commercial,15,0
+Buggingen (Kernort),commercial,20,2
+Buggingen (Kernort),commercial,25,0
+Buggingen (Kernort),commercial,30,0
+Buggingen (Kernort),commercial,40,0
+Buggingen (Kernort),commercial,120,0
+Buggingen (Kernort),farmyard,0,0
+Buggingen (Kernort),farmyard,5,0
+Buggingen (Kernort),farmyard,10,0
+Buggingen (Kernort),farmyard,15,0
+Buggingen (Kernort),farmyard,20,0
+Buggingen (Kernort),farmyard,25,0
+Buggingen (Kernort),farmyard,30,0
+Buggingen (Kernort),farmyard,40,0
+Buggingen (Kernort),farmyard,120,6
+Buggingen (Kernort),industrial,0,0
+Buggingen (Kernort),industrial,5,0
+Buggingen (Kernort),industrial,10,0
+Buggingen (Kernort),industrial,15,4
+Buggingen (Kernort),industrial,20,4
+Buggingen (Kernort),industrial,25,1
+Buggingen (Kernort),industrial,30,21
+Buggingen (Kernort),industrial,40,17
+Buggingen (Kernort),industrial,120,17
+Buggingen (Kernort),residential,0,0
+Buggingen (Kernort),residential,5,85
+Buggingen (Kernort),residential,10,329
+Buggingen (Kernort),residential,15,186
+Buggingen (Kernort),residential,20,123
+Buggingen (Kernort),residential,25,35
+Buggingen (Kernort),residential,30,8
+Buggingen (Kernort),residential,40,42
+Buggingen (Kernort),residential,120,2
+Buggingen (Kernort),unbekannt,0,0
+Buggingen (Kernort),unbekannt,5,0
+Buggingen (Kernort),unbekannt,10,0
+Buggingen (Kernort),unbekannt,15,1
+Buggingen (Kernort),unbekannt,20,0
+Buggingen (Kernort),unbekannt,25,0
+Buggingen (Kernort),unbekannt,30,0
+Buggingen (Kernort),unbekannt,40,0
+Buggingen (Kernort),unbekannt,120,0
+Seefelden,commercial,0,0
+Seefelden,commercial,5,0
+Seefelden,commercial,10,0
+Seefelden,commercial,15,0
+Seefelden,commercial,20,0
+Seefelden,commercial,25,0
+Seefelden,commercial,30,0
+Seefelden,commercial,40,0
+Seefelden,commercial,120,0
+Seefelden,farmyard,0,0
+Seefelden,farmyard,5,0
+Seefelden,farmyard,10,0
+Seefelden,farmyard,15,0
+Seefelden,farmyard,20,0
+Seefelden,farmyard,25,0
+Seefelden,farmyard,30,0
+Seefelden,farmyard,40,0
+Seefelden,farmyard,120,0
+Seefelden,industrial,0,0
+Seefelden,industrial,5,0
+Seefelden,industrial,10,0
+Seefelden,industrial,15,0
+Seefelden,industrial,20,0
+Seefelden,industrial,25,0
+Seefelden,industrial,30,0
+Seefelden,industrial,40,0
+Seefelden,industrial,120,0
+Seefelden,residential,0,0
+Seefelden,residential,5,0
+Seefelden,residential,10,0
+Seefelden,residential,15,0
+Seefelden,residential,20,2
+Seefelden,residential,25,3
+Seefelden,residential,30,65
+Seefelden,residential,40,204
+Seefelden,residential,120,31
+Seefelden,unbekannt,0,0
+Seefelden,unbekannt,5,0
+Seefelden,unbekannt,10,0
+Seefelden,unbekannt,15,0
+Seefelden,unbekannt,20,0
+Seefelden,unbekannt,25,1
+Seefelden,unbekannt,30,0
+Seefelden,unbekannt,40,1
+Seefelden,unbekannt,120,1
+Betberg,commercial,0,0
+Betberg,commercial,5,0
+Betberg,commercial,10,0
+Betberg,commercial,15,0
+Betberg,commercial,20,0
+Betberg,commercial,25,0
+Betberg,commercial,30,0
+Betberg,commercial,40,0
+Betberg,commercial,120,0
+Betberg,farmyard,0,0
+Betberg,farmyard,5,0
+Betberg,farmyard,10,0
+Betberg,farmyard,15,0
+Betberg,farmyard,20,0
+Betberg,farmyard,25,0
+Betberg,farmyard,30,0
+Betberg,farmyard,40,0
+Betberg,farmyard,120,0
+Betberg,industrial,0,0
+Betberg,industrial,5,0
+Betberg,industrial,10,0
+Betberg,industrial,15,0
+Betberg,industrial,20,0
+Betberg,industrial,25,0
+Betberg,industrial,30,0
+Betberg,industrial,40,0
+Betberg,industrial,120,0
+Betberg,residential,0,0
+Betberg,residential,5,0
+Betberg,residential,10,0
+Betberg,residential,15,0
+Betberg,residential,20,0
+Betberg,residential,25,0
+Betberg,residential,30,0
+Betberg,residential,40,1
+Betberg,residential,120,39
+Betberg,unbekannt,0,0
+Betberg,unbekannt,5,0
+Betberg,unbekannt,10,0
+Betberg,unbekannt,15,0
+Betberg,unbekannt,20,0
+Betberg,unbekannt,25,0
+Betberg,unbekannt,30,0
+Betberg,unbekannt,40,0
+Betberg,unbekannt,120,0
+Buggingen,commercial,0,0
+Buggingen,commercial,5,0
+Buggingen,commercial,10,0
+Buggingen,commercial,15,0
+Buggingen,commercial,20,0
+Buggingen,commercial,25,0
+Buggingen,commercial,30,0
+Buggingen,commercial,40,0
+Buggingen,commercial,120,0
+Buggingen,farmyard,0,0
+Buggingen,farmyard,5,0
+Buggingen,farmyard,10,0
+Buggingen,farmyard,15,0
+Buggingen,farmyard,20,0
+Buggingen,farmyard,25,0
+Buggingen,farmyard,30,0
+Buggingen,farmyard,40,0
+Buggingen,farmyard,120,0
+Buggingen,industrial,0,0
+Buggingen,industrial,5,0
+Buggingen,industrial,10,0
+Buggingen,industrial,15,0
+Buggingen,industrial,20,0
+Buggingen,industrial,25,0
+Buggingen,industrial,30,0
+Buggingen,industrial,40,0
+Buggingen,industrial,120,0
+Buggingen,residential,0,0
+Buggingen,residential,5,0
+Buggingen,residential,10,0
+Buggingen,residential,15,0
+Buggingen,residential,20,0
+Buggingen,residential,25,0
+Buggingen,residential,30,0
+Buggingen,residential,40,0
+Buggingen,residential,120,0
+Buggingen,unbekannt,0,0
+Buggingen,unbekannt,5,0
+Buggingen,unbekannt,10,0
+Buggingen,unbekannt,15,0
+Buggingen,unbekannt,20,0
+Buggingen,unbekannt,25,0
+Buggingen,unbekannt,30,0
+Buggingen,unbekannt,40,0
+Buggingen,unbekannt,120,0

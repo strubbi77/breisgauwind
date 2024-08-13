@@ -1,0 +1,271 @@
+Name,Landuse,WegeDauer,Anzahl
+Fischbach,commercial,0,0
+Fischbach,commercial,5,0
+Fischbach,commercial,10,0
+Fischbach,commercial,15,0
+Fischbach,commercial,20,0
+Fischbach,commercial,25,0
+Fischbach,commercial,30,0
+Fischbach,commercial,40,0
+Fischbach,commercial,120,0
+Fischbach,farmyard,0,0
+Fischbach,farmyard,5,0
+Fischbach,farmyard,10,0
+Fischbach,farmyard,15,0
+Fischbach,farmyard,20,0
+Fischbach,farmyard,25,0
+Fischbach,farmyard,30,0
+Fischbach,farmyard,40,0
+Fischbach,farmyard,120,5
+Fischbach,industrial,0,0
+Fischbach,industrial,5,0
+Fischbach,industrial,10,0
+Fischbach,industrial,15,0
+Fischbach,industrial,20,0
+Fischbach,industrial,25,0
+Fischbach,industrial,30,0
+Fischbach,industrial,40,0
+Fischbach,industrial,120,1
+Fischbach,residential,0,0
+Fischbach,residential,5,0
+Fischbach,residential,10,0
+Fischbach,residential,15,0
+Fischbach,residential,20,0
+Fischbach,residential,25,0
+Fischbach,residential,30,0
+Fischbach,residential,40,0
+Fischbach,residential,120,89
+Fischbach,unbekannt,0,0
+Fischbach,unbekannt,5,0
+Fischbach,unbekannt,10,0
+Fischbach,unbekannt,15,0
+Fischbach,unbekannt,20,0
+Fischbach,unbekannt,25,0
+Fischbach,unbekannt,30,0
+Fischbach,unbekannt,40,0
+Fischbach,unbekannt,120,3
+Blasiwald,commercial,0,0
+Blasiwald,commercial,5,0
+Blasiwald,commercial,10,0
+Blasiwald,commercial,15,0
+Blasiwald,commercial,20,0
+Blasiwald,commercial,25,0
+Blasiwald,commercial,30,0
+Blasiwald,commercial,40,0
+Blasiwald,commercial,120,0
+Blasiwald,farmyard,0,0
+Blasiwald,farmyard,5,0
+Blasiwald,farmyard,10,0
+Blasiwald,farmyard,15,0
+Blasiwald,farmyard,20,0
+Blasiwald,farmyard,25,0
+Blasiwald,farmyard,30,0
+Blasiwald,farmyard,40,0
+Blasiwald,farmyard,120,18
+Blasiwald,industrial,0,0
+Blasiwald,industrial,5,0
+Blasiwald,industrial,10,0
+Blasiwald,industrial,15,0
+Blasiwald,industrial,20,0
+Blasiwald,industrial,25,0
+Blasiwald,industrial,30,0
+Blasiwald,industrial,40,0
+Blasiwald,industrial,120,0
+Blasiwald,residential,0,0
+Blasiwald,residential,5,0
+Blasiwald,residential,10,0
+Blasiwald,residential,15,0
+Blasiwald,residential,20,0
+Blasiwald,residential,25,0
+Blasiwald,residential,30,0
+Blasiwald,residential,40,0
+Blasiwald,residential,120,112
+Blasiwald,unbekannt,0,0
+Blasiwald,unbekannt,5,0
+Blasiwald,unbekannt,10,0
+Blasiwald,unbekannt,15,0
+Blasiwald,unbekannt,20,0
+Blasiwald,unbekannt,25,0
+Blasiwald,unbekannt,30,0
+Blasiwald,unbekannt,40,0
+Blasiwald,unbekannt,120,15
+Schönenbach,commercial,0,0
+Schönenbach,commercial,5,0
+Schönenbach,commercial,10,0
+Schönenbach,commercial,15,0
+Schönenbach,commercial,20,0
+Schönenbach,commercial,25,0
+Schönenbach,commercial,30,0
+Schönenbach,commercial,40,0
+Schönenbach,commercial,120,0
+Schönenbach,farmyard,0,0
+Schönenbach,farmyard,5,0
+Schönenbach,farmyard,10,0
+Schönenbach,farmyard,15,0
+Schönenbach,farmyard,20,0
+Schönenbach,farmyard,25,0
+Schönenbach,farmyard,30,0
+Schönenbach,farmyard,40,0
+Schönenbach,farmyard,120,0
+Schönenbach,industrial,0,0
+Schönenbach,industrial,5,0
+Schönenbach,industrial,10,0
+Schönenbach,industrial,15,0
+Schönenbach,industrial,20,0
+Schönenbach,industrial,25,0
+Schönenbach,industrial,30,0
+Schönenbach,industrial,40,0
+Schönenbach,industrial,120,0
+Schönenbach,residential,0,0
+Schönenbach,residential,5,0
+Schönenbach,residential,10,0
+Schönenbach,residential,15,0
+Schönenbach,residential,20,0
+Schönenbach,residential,25,0
+Schönenbach,residential,30,0
+Schönenbach,residential,40,0
+Schönenbach,residential,120,39
+Schönenbach,unbekannt,0,0
+Schönenbach,unbekannt,5,0
+Schönenbach,unbekannt,10,0
+Schönenbach,unbekannt,15,0
+Schönenbach,unbekannt,20,0
+Schönenbach,unbekannt,25,0
+Schönenbach,unbekannt,30,0
+Schönenbach,unbekannt,40,0
+Schönenbach,unbekannt,120,9
+Faulenfürst-Seebrugg,commercial,0,0
+Faulenfürst-Seebrugg,commercial,5,0
+Faulenfürst-Seebrugg,commercial,10,0
+Faulenfürst-Seebrugg,commercial,15,0
+Faulenfürst-Seebrugg,commercial,20,0
+Faulenfürst-Seebrugg,commercial,25,0
+Faulenfürst-Seebrugg,commercial,30,0
+Faulenfürst-Seebrugg,commercial,40,0
+Faulenfürst-Seebrugg,commercial,120,3
+Faulenfürst-Seebrugg,farmyard,0,0
+Faulenfürst-Seebrugg,farmyard,5,0
+Faulenfürst-Seebrugg,farmyard,10,0
+Faulenfürst-Seebrugg,farmyard,15,0
+Faulenfürst-Seebrugg,farmyard,20,0
+Faulenfürst-Seebrugg,farmyard,25,0
+Faulenfürst-Seebrugg,farmyard,30,0
+Faulenfürst-Seebrugg,farmyard,40,0
+Faulenfürst-Seebrugg,farmyard,120,0
+Faulenfürst-Seebrugg,industrial,0,0
+Faulenfürst-Seebrugg,industrial,5,0
+Faulenfürst-Seebrugg,industrial,10,0
+Faulenfürst-Seebrugg,industrial,15,0
+Faulenfürst-Seebrugg,industrial,20,0
+Faulenfürst-Seebrugg,industrial,25,0
+Faulenfürst-Seebrugg,industrial,30,0
+Faulenfürst-Seebrugg,industrial,40,0
+Faulenfürst-Seebrugg,industrial,120,0
+Faulenfürst-Seebrugg,residential,0,0
+Faulenfürst-Seebrugg,residential,5,0
+Faulenfürst-Seebrugg,residential,10,0
+Faulenfürst-Seebrugg,residential,15,0
+Faulenfürst-Seebrugg,residential,20,0
+Faulenfürst-Seebrugg,residential,25,0
+Faulenfürst-Seebrugg,residential,30,1
+Faulenfürst-Seebrugg,residential,40,1
+Faulenfürst-Seebrugg,residential,120,83
+Faulenfürst-Seebrugg,unbekannt,0,0
+Faulenfürst-Seebrugg,unbekannt,5,0
+Faulenfürst-Seebrugg,unbekannt,10,0
+Faulenfürst-Seebrugg,unbekannt,15,0
+Faulenfürst-Seebrugg,unbekannt,20,0
+Faulenfürst-Seebrugg,unbekannt,25,0
+Faulenfürst-Seebrugg,unbekannt,30,0
+Faulenfürst-Seebrugg,unbekannt,40,1
+Faulenfürst-Seebrugg,unbekannt,120,4
+Schluchsee (Kernort),commercial,0,0
+Schluchsee (Kernort),commercial,5,0
+Schluchsee (Kernort),commercial,10,0
+Schluchsee (Kernort),commercial,15,0
+Schluchsee (Kernort),commercial,20,0
+Schluchsee (Kernort),commercial,25,3
+Schluchsee (Kernort),commercial,30,3
+Schluchsee (Kernort),commercial,40,11
+Schluchsee (Kernort),commercial,120,0
+Schluchsee (Kernort),farmyard,0,0
+Schluchsee (Kernort),farmyard,5,0
+Schluchsee (Kernort),farmyard,10,0
+Schluchsee (Kernort),farmyard,15,0
+Schluchsee (Kernort),farmyard,20,0
+Schluchsee (Kernort),farmyard,25,0
+Schluchsee (Kernort),farmyard,30,0
+Schluchsee (Kernort),farmyard,40,1
+Schluchsee (Kernort),farmyard,120,8
+Schluchsee (Kernort),industrial,0,0
+Schluchsee (Kernort),industrial,5,0
+Schluchsee (Kernort),industrial,10,0
+Schluchsee (Kernort),industrial,15,0
+Schluchsee (Kernort),industrial,20,0
+Schluchsee (Kernort),industrial,25,0
+Schluchsee (Kernort),industrial,30,1
+Schluchsee (Kernort),industrial,40,1
+Schluchsee (Kernort),industrial,120,0
+Schluchsee (Kernort),residential,0,0
+Schluchsee (Kernort),residential,5,15
+Schluchsee (Kernort),residential,10,43
+Schluchsee (Kernort),residential,15,112
+Schluchsee (Kernort),residential,20,109
+Schluchsee (Kernort),residential,25,74
+Schluchsee (Kernort),residential,30,39
+Schluchsee (Kernort),residential,40,29
+Schluchsee (Kernort),residential,120,52
+Schluchsee (Kernort),unbekannt,0,0
+Schluchsee (Kernort),unbekannt,5,1
+Schluchsee (Kernort),unbekannt,10,1
+Schluchsee (Kernort),unbekannt,15,0
+Schluchsee (Kernort),unbekannt,20,3
+Schluchsee (Kernort),unbekannt,25,1
+Schluchsee (Kernort),unbekannt,30,0
+Schluchsee (Kernort),unbekannt,40,3
+Schluchsee (Kernort),unbekannt,120,12
+Schluchsee,commercial,0,0
+Schluchsee,commercial,5,0
+Schluchsee,commercial,10,0
+Schluchsee,commercial,15,0
+Schluchsee,commercial,20,0
+Schluchsee,commercial,25,0
+Schluchsee,commercial,30,0
+Schluchsee,commercial,40,0
+Schluchsee,commercial,120,0
+Schluchsee,farmyard,0,0
+Schluchsee,farmyard,5,0
+Schluchsee,farmyard,10,0
+Schluchsee,farmyard,15,0
+Schluchsee,farmyard,20,0
+Schluchsee,farmyard,25,0
+Schluchsee,farmyard,30,0
+Schluchsee,farmyard,40,0
+Schluchsee,farmyard,120,0
+Schluchsee,industrial,0,0
+Schluchsee,industrial,5,0
+Schluchsee,industrial,10,0
+Schluchsee,industrial,15,0
+Schluchsee,industrial,20,0
+Schluchsee,industrial,25,0
+Schluchsee,industrial,30,0
+Schluchsee,industrial,40,0
+Schluchsee,industrial,120,0
+Schluchsee,residential,0,0
+Schluchsee,residential,5,0
+Schluchsee,residential,10,0
+Schluchsee,residential,15,0
+Schluchsee,residential,20,0
+Schluchsee,residential,25,0
+Schluchsee,residential,30,0
+Schluchsee,residential,40,0
+Schluchsee,residential,120,0
+Schluchsee,unbekannt,0,0
+Schluchsee,unbekannt,5,0
+Schluchsee,unbekannt,10,0
+Schluchsee,unbekannt,15,0
+Schluchsee,unbekannt,20,0
+Schluchsee,unbekannt,25,0
+Schluchsee,unbekannt,30,0
+Schluchsee,unbekannt,40,0
+Schluchsee,unbekannt,120,1
