@@ -1,109 +1,109 @@
-Name,Landuse,WegeDauer,Anzahl
-Lipburg,farmyard,0,0
-Lipburg,farmyard,5,0
-Lipburg,farmyard,10,0
-Lipburg,farmyard,15,0
-Lipburg,farmyard,20,0
-Lipburg,farmyard,25,0
-Lipburg,farmyard,30,0
-Lipburg,farmyard,40,0
-Lipburg,farmyard,120,1
-Lipburg,residential,0,0
-Lipburg,residential,5,0
-Lipburg,residential,10,0
-Lipburg,residential,15,0
-Lipburg,residential,20,0
-Lipburg,residential,25,0
-Lipburg,residential,30,0
-Lipburg,residential,40,0
-Lipburg,residential,120,209
-Lipburg,unbekannt,0,0
-Lipburg,unbekannt,5,0
-Lipburg,unbekannt,10,0
-Lipburg,unbekannt,15,0
-Lipburg,unbekannt,20,0
-Lipburg,unbekannt,25,0
-Lipburg,unbekannt,30,0
-Lipburg,unbekannt,40,0
-Lipburg,unbekannt,120,7
-Badenweiler (Kernort),farmyard,0,0
-Badenweiler (Kernort),farmyard,5,0
-Badenweiler (Kernort),farmyard,10,0
-Badenweiler (Kernort),farmyard,15,0
-Badenweiler (Kernort),farmyard,20,1
-Badenweiler (Kernort),farmyard,25,0
-Badenweiler (Kernort),farmyard,30,0
-Badenweiler (Kernort),farmyard,40,1
-Badenweiler (Kernort),farmyard,120,0
-Badenweiler (Kernort),residential,0,0
-Badenweiler (Kernort),residential,5,87
-Badenweiler (Kernort),residential,10,125
-Badenweiler (Kernort),residential,15,109
-Badenweiler (Kernort),residential,20,212
-Badenweiler (Kernort),residential,25,93
-Badenweiler (Kernort),residential,30,79
-Badenweiler (Kernort),residential,40,102
-Badenweiler (Kernort),residential,120,0
-Badenweiler (Kernort),unbekannt,0,0
-Badenweiler (Kernort),unbekannt,5,1
-Badenweiler (Kernort),unbekannt,10,2
-Badenweiler (Kernort),unbekannt,15,2
-Badenweiler (Kernort),unbekannt,20,12
-Badenweiler (Kernort),unbekannt,25,7
-Badenweiler (Kernort),unbekannt,30,0
-Badenweiler (Kernort),unbekannt,40,4
-Badenweiler (Kernort),unbekannt,120,0
-Schweighof,farmyard,0,0
-Schweighof,farmyard,5,0
-Schweighof,farmyard,10,0
-Schweighof,farmyard,15,0
-Schweighof,farmyard,20,0
-Schweighof,farmyard,25,0
-Schweighof,farmyard,30,0
-Schweighof,farmyard,40,0
-Schweighof,farmyard,120,0
-Schweighof,residential,0,0
-Schweighof,residential,5,7
-Schweighof,residential,10,51
-Schweighof,residential,15,49
-Schweighof,residential,20,65
-Schweighof,residential,25,65
-Schweighof,residential,30,19
-Schweighof,residential,40,1
-Schweighof,residential,120,0
-Schweighof,unbekannt,0,0
-Schweighof,unbekannt,5,0
-Schweighof,unbekannt,10,0
-Schweighof,unbekannt,15,0
-Schweighof,unbekannt,20,0
-Schweighof,unbekannt,25,0
-Schweighof,unbekannt,30,1
-Schweighof,unbekannt,40,0
-Schweighof,unbekannt,120,0
-Badenweiler,farmyard,0,0
-Badenweiler,farmyard,5,0
-Badenweiler,farmyard,10,0
-Badenweiler,farmyard,15,0
-Badenweiler,farmyard,20,0
-Badenweiler,farmyard,25,0
-Badenweiler,farmyard,30,0
-Badenweiler,farmyard,40,0
-Badenweiler,farmyard,120,0
-Badenweiler,residential,0,0
-Badenweiler,residential,5,0
-Badenweiler,residential,10,0
-Badenweiler,residential,15,0
-Badenweiler,residential,20,0
-Badenweiler,residential,25,0
-Badenweiler,residential,30,0
-Badenweiler,residential,40,0
-Badenweiler,residential,120,0
-Badenweiler,unbekannt,0,0
-Badenweiler,unbekannt,5,0
-Badenweiler,unbekannt,10,0
-Badenweiler,unbekannt,15,0
-Badenweiler,unbekannt,20,0
-Badenweiler,unbekannt,25,0
-Badenweiler,unbekannt,30,0
-Badenweiler,unbekannt,40,0
-Badenweiler,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Badenweiler,Lipburg,farmyard,0,0
+Badenweiler,Lipburg,farmyard,5,0
+Badenweiler,Lipburg,farmyard,10,0
+Badenweiler,Lipburg,farmyard,15,0
+Badenweiler,Lipburg,farmyard,20,0
+Badenweiler,Lipburg,farmyard,25,0
+Badenweiler,Lipburg,farmyard,30,0
+Badenweiler,Lipburg,farmyard,40,0
+Badenweiler,Lipburg,farmyard,120,1
+Badenweiler,Lipburg,residential,0,0
+Badenweiler,Lipburg,residential,5,0
+Badenweiler,Lipburg,residential,10,0
+Badenweiler,Lipburg,residential,15,0
+Badenweiler,Lipburg,residential,20,0
+Badenweiler,Lipburg,residential,25,0
+Badenweiler,Lipburg,residential,30,0
+Badenweiler,Lipburg,residential,40,0
+Badenweiler,Lipburg,residential,120,209
+Badenweiler,Lipburg,unbekannt,0,0
+Badenweiler,Lipburg,unbekannt,5,0
+Badenweiler,Lipburg,unbekannt,10,0
+Badenweiler,Lipburg,unbekannt,15,0
+Badenweiler,Lipburg,unbekannt,20,0
+Badenweiler,Lipburg,unbekannt,25,0
+Badenweiler,Lipburg,unbekannt,30,0
+Badenweiler,Lipburg,unbekannt,40,0
+Badenweiler,Lipburg,unbekannt,120,7
+Badenweiler,Badenweiler (Kernort),farmyard,0,0
+Badenweiler,Badenweiler (Kernort),farmyard,5,0
+Badenweiler,Badenweiler (Kernort),farmyard,10,0
+Badenweiler,Badenweiler (Kernort),farmyard,15,0
+Badenweiler,Badenweiler (Kernort),farmyard,20,1
+Badenweiler,Badenweiler (Kernort),farmyard,25,0
+Badenweiler,Badenweiler (Kernort),farmyard,30,0
+Badenweiler,Badenweiler (Kernort),farmyard,40,1
+Badenweiler,Badenweiler (Kernort),farmyard,120,0
+Badenweiler,Badenweiler (Kernort),residential,0,0
+Badenweiler,Badenweiler (Kernort),residential,5,87
+Badenweiler,Badenweiler (Kernort),residential,10,131
+Badenweiler,Badenweiler (Kernort),residential,15,105
+Badenweiler,Badenweiler (Kernort),residential,20,190
+Badenweiler,Badenweiler (Kernort),residential,25,115
+Badenweiler,Badenweiler (Kernort),residential,30,74
+Badenweiler,Badenweiler (Kernort),residential,40,105
+Badenweiler,Badenweiler (Kernort),residential,120,0
+Badenweiler,Badenweiler (Kernort),unbekannt,0,0
+Badenweiler,Badenweiler (Kernort),unbekannt,5,1
+Badenweiler,Badenweiler (Kernort),unbekannt,10,2
+Badenweiler,Badenweiler (Kernort),unbekannt,15,1
+Badenweiler,Badenweiler (Kernort),unbekannt,20,8
+Badenweiler,Badenweiler (Kernort),unbekannt,25,12
+Badenweiler,Badenweiler (Kernort),unbekannt,30,0
+Badenweiler,Badenweiler (Kernort),unbekannt,40,4
+Badenweiler,Badenweiler (Kernort),unbekannt,120,0
+Badenweiler,Schweighof,farmyard,0,0
+Badenweiler,Schweighof,farmyard,5,0
+Badenweiler,Schweighof,farmyard,10,0
+Badenweiler,Schweighof,farmyard,15,0
+Badenweiler,Schweighof,farmyard,20,0
+Badenweiler,Schweighof,farmyard,25,0
+Badenweiler,Schweighof,farmyard,30,0
+Badenweiler,Schweighof,farmyard,40,0
+Badenweiler,Schweighof,farmyard,120,0
+Badenweiler,Schweighof,residential,0,0
+Badenweiler,Schweighof,residential,5,6
+Badenweiler,Schweighof,residential,10,54
+Badenweiler,Schweighof,residential,15,49
+Badenweiler,Schweighof,residential,20,99
+Badenweiler,Schweighof,residential,25,36
+Badenweiler,Schweighof,residential,30,12
+Badenweiler,Schweighof,residential,40,1
+Badenweiler,Schweighof,residential,120,0
+Badenweiler,Schweighof,unbekannt,0,0
+Badenweiler,Schweighof,unbekannt,5,0
+Badenweiler,Schweighof,unbekannt,10,0
+Badenweiler,Schweighof,unbekannt,15,0
+Badenweiler,Schweighof,unbekannt,20,0
+Badenweiler,Schweighof,unbekannt,25,1
+Badenweiler,Schweighof,unbekannt,30,0
+Badenweiler,Schweighof,unbekannt,40,0
+Badenweiler,Schweighof,unbekannt,120,0
+Badenweiler,Badenweiler,farmyard,0,0
+Badenweiler,Badenweiler,farmyard,5,0
+Badenweiler,Badenweiler,farmyard,10,0
+Badenweiler,Badenweiler,farmyard,15,0
+Badenweiler,Badenweiler,farmyard,20,0
+Badenweiler,Badenweiler,farmyard,25,0
+Badenweiler,Badenweiler,farmyard,30,0
+Badenweiler,Badenweiler,farmyard,40,0
+Badenweiler,Badenweiler,farmyard,120,0
+Badenweiler,Badenweiler,residential,0,0
+Badenweiler,Badenweiler,residential,5,0
+Badenweiler,Badenweiler,residential,10,0
+Badenweiler,Badenweiler,residential,15,0
+Badenweiler,Badenweiler,residential,20,0
+Badenweiler,Badenweiler,residential,25,0
+Badenweiler,Badenweiler,residential,30,0
+Badenweiler,Badenweiler,residential,40,0
+Badenweiler,Badenweiler,residential,120,0
+Badenweiler,Badenweiler,unbekannt,0,0
+Badenweiler,Badenweiler,unbekannt,5,0
+Badenweiler,Badenweiler,unbekannt,10,0
+Badenweiler,Badenweiler,unbekannt,15,0
+Badenweiler,Badenweiler,unbekannt,20,0
+Badenweiler,Badenweiler,unbekannt,25,0
+Badenweiler,Badenweiler,unbekannt,30,0
+Badenweiler,Badenweiler,unbekannt,40,0
+Badenweiler,Badenweiler,unbekannt,120,0

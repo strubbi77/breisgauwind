@@ -1,181 +1,181 @@
-Name,Landuse,WegeDauer,Anzahl
-Zarten,commercial,0,0
-Zarten,commercial,5,0
-Zarten,commercial,10,0
-Zarten,commercial,15,0
-Zarten,commercial,20,0
-Zarten,commercial,25,0
-Zarten,commercial,30,0
-Zarten,commercial,40,0
-Zarten,commercial,120,0
-Zarten,farmyard,0,0
-Zarten,farmyard,5,0
-Zarten,farmyard,10,0
-Zarten,farmyard,15,0
-Zarten,farmyard,20,0
-Zarten,farmyard,25,0
-Zarten,farmyard,30,0
-Zarten,farmyard,40,1
-Zarten,farmyard,120,1
-Zarten,industrial,0,0
-Zarten,industrial,5,0
-Zarten,industrial,10,0
-Zarten,industrial,15,0
-Zarten,industrial,20,0
-Zarten,industrial,25,0
-Zarten,industrial,30,0
-Zarten,industrial,40,0
-Zarten,industrial,120,0
-Zarten,residential,0,0
-Zarten,residential,5,0
-Zarten,residential,10,0
-Zarten,residential,15,0
-Zarten,residential,20,0
-Zarten,residential,25,0
-Zarten,residential,30,26
-Zarten,residential,40,255
-Zarten,residential,120,23
-Zarten,unbekannt,0,0
-Zarten,unbekannt,5,0
-Zarten,unbekannt,10,0
-Zarten,unbekannt,15,0
-Zarten,unbekannt,20,0
-Zarten,unbekannt,25,0
-Zarten,unbekannt,30,0
-Zarten,unbekannt,40,2
-Zarten,unbekannt,120,2
-Kirchzarten (Kernort),commercial,0,0
-Kirchzarten (Kernort),commercial,5,0
-Kirchzarten (Kernort),commercial,10,0
-Kirchzarten (Kernort),commercial,15,0
-Kirchzarten (Kernort),commercial,20,0
-Kirchzarten (Kernort),commercial,25,0
-Kirchzarten (Kernort),commercial,30,0
-Kirchzarten (Kernort),commercial,40,0
-Kirchzarten (Kernort),commercial,120,0
-Kirchzarten (Kernort),farmyard,0,0
-Kirchzarten (Kernort),farmyard,5,0
-Kirchzarten (Kernort),farmyard,10,0
-Kirchzarten (Kernort),farmyard,15,0
-Kirchzarten (Kernort),farmyard,20,0
-Kirchzarten (Kernort),farmyard,25,1
-Kirchzarten (Kernort),farmyard,30,1
-Kirchzarten (Kernort),farmyard,40,19
-Kirchzarten (Kernort),farmyard,120,41
-Kirchzarten (Kernort),industrial,0,0
-Kirchzarten (Kernort),industrial,5,0
-Kirchzarten (Kernort),industrial,10,2
-Kirchzarten (Kernort),industrial,15,36
-Kirchzarten (Kernort),industrial,20,70
-Kirchzarten (Kernort),industrial,25,10
-Kirchzarten (Kernort),industrial,30,2
-Kirchzarten (Kernort),industrial,40,0
-Kirchzarten (Kernort),industrial,120,0
-Kirchzarten (Kernort),residential,0,0
-Kirchzarten (Kernort),residential,5,119
-Kirchzarten (Kernort),residential,10,391
-Kirchzarten (Kernort),residential,15,420
-Kirchzarten (Kernort),residential,20,197
-Kirchzarten (Kernort),residential,25,43
-Kirchzarten (Kernort),residential,30,7
-Kirchzarten (Kernort),residential,40,13
-Kirchzarten (Kernort),residential,120,135
-Kirchzarten (Kernort),unbekannt,0,0
-Kirchzarten (Kernort),unbekannt,5,0
-Kirchzarten (Kernort),unbekannt,10,0
-Kirchzarten (Kernort),unbekannt,15,14
-Kirchzarten (Kernort),unbekannt,20,2
-Kirchzarten (Kernort),unbekannt,25,4
-Kirchzarten (Kernort),unbekannt,30,0
-Kirchzarten (Kernort),unbekannt,40,4
-Kirchzarten (Kernort),unbekannt,120,2
-Burg im Dreisamtal,commercial,0,0
-Burg im Dreisamtal,commercial,5,0
-Burg im Dreisamtal,commercial,10,0
-Burg im Dreisamtal,commercial,15,0
-Burg im Dreisamtal,commercial,20,0
-Burg im Dreisamtal,commercial,25,0
-Burg im Dreisamtal,commercial,30,0
-Burg im Dreisamtal,commercial,40,0
-Burg im Dreisamtal,commercial,120,0
-Burg im Dreisamtal,farmyard,0,0
-Burg im Dreisamtal,farmyard,5,0
-Burg im Dreisamtal,farmyard,10,1
-Burg im Dreisamtal,farmyard,15,1
-Burg im Dreisamtal,farmyard,20,1
-Burg im Dreisamtal,farmyard,25,1
-Burg im Dreisamtal,farmyard,30,0
-Burg im Dreisamtal,farmyard,40,4
-Burg im Dreisamtal,farmyard,120,0
-Burg im Dreisamtal,industrial,0,0
-Burg im Dreisamtal,industrial,5,0
-Burg im Dreisamtal,industrial,10,0
-Burg im Dreisamtal,industrial,15,0
-Burg im Dreisamtal,industrial,20,0
-Burg im Dreisamtal,industrial,25,0
-Burg im Dreisamtal,industrial,30,0
-Burg im Dreisamtal,industrial,40,0
-Burg im Dreisamtal,industrial,120,0
-Burg im Dreisamtal,residential,0,0
-Burg im Dreisamtal,residential,5,10
-Burg im Dreisamtal,residential,10,165
-Burg im Dreisamtal,residential,15,273
-Burg im Dreisamtal,residential,20,77
-Burg im Dreisamtal,residential,25,8
-Burg im Dreisamtal,residential,30,61
-Burg im Dreisamtal,residential,40,122
-Burg im Dreisamtal,residential,120,5
-Burg im Dreisamtal,unbekannt,0,0
-Burg im Dreisamtal,unbekannt,5,0
-Burg im Dreisamtal,unbekannt,10,0
-Burg im Dreisamtal,unbekannt,15,2
-Burg im Dreisamtal,unbekannt,20,0
-Burg im Dreisamtal,unbekannt,25,2
-Burg im Dreisamtal,unbekannt,30,0
-Burg im Dreisamtal,unbekannt,40,1
-Burg im Dreisamtal,unbekannt,120,1
-Kirchzarten,commercial,0,0
-Kirchzarten,commercial,5,0
-Kirchzarten,commercial,10,0
-Kirchzarten,commercial,15,0
-Kirchzarten,commercial,20,0
-Kirchzarten,commercial,25,0
-Kirchzarten,commercial,30,0
-Kirchzarten,commercial,40,0
-Kirchzarten,commercial,120,0
-Kirchzarten,farmyard,0,0
-Kirchzarten,farmyard,5,0
-Kirchzarten,farmyard,10,0
-Kirchzarten,farmyard,15,0
-Kirchzarten,farmyard,20,0
-Kirchzarten,farmyard,25,0
-Kirchzarten,farmyard,30,0
-Kirchzarten,farmyard,40,0
-Kirchzarten,farmyard,120,0
-Kirchzarten,industrial,0,0
-Kirchzarten,industrial,5,0
-Kirchzarten,industrial,10,0
-Kirchzarten,industrial,15,0
-Kirchzarten,industrial,20,0
-Kirchzarten,industrial,25,0
-Kirchzarten,industrial,30,0
-Kirchzarten,industrial,40,0
-Kirchzarten,industrial,120,0
-Kirchzarten,residential,0,0
-Kirchzarten,residential,5,0
-Kirchzarten,residential,10,0
-Kirchzarten,residential,15,1
-Kirchzarten,residential,20,0
-Kirchzarten,residential,25,0
-Kirchzarten,residential,30,0
-Kirchzarten,residential,40,0
-Kirchzarten,residential,120,0
-Kirchzarten,unbekannt,0,0
-Kirchzarten,unbekannt,5,0
-Kirchzarten,unbekannt,10,0
-Kirchzarten,unbekannt,15,0
-Kirchzarten,unbekannt,20,0
-Kirchzarten,unbekannt,25,0
-Kirchzarten,unbekannt,30,0
-Kirchzarten,unbekannt,40,0
-Kirchzarten,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Kirchzarten,Zarten,commercial,0,0
+Kirchzarten,Zarten,commercial,5,0
+Kirchzarten,Zarten,commercial,10,0
+Kirchzarten,Zarten,commercial,15,0
+Kirchzarten,Zarten,commercial,20,0
+Kirchzarten,Zarten,commercial,25,0
+Kirchzarten,Zarten,commercial,30,0
+Kirchzarten,Zarten,commercial,40,0
+Kirchzarten,Zarten,commercial,120,0
+Kirchzarten,Zarten,farmyard,0,0
+Kirchzarten,Zarten,farmyard,5,0
+Kirchzarten,Zarten,farmyard,10,0
+Kirchzarten,Zarten,farmyard,15,0
+Kirchzarten,Zarten,farmyard,20,0
+Kirchzarten,Zarten,farmyard,25,0
+Kirchzarten,Zarten,farmyard,30,0
+Kirchzarten,Zarten,farmyard,40,0
+Kirchzarten,Zarten,farmyard,120,1
+Kirchzarten,Zarten,industrial,0,0
+Kirchzarten,Zarten,industrial,5,0
+Kirchzarten,Zarten,industrial,10,0
+Kirchzarten,Zarten,industrial,15,0
+Kirchzarten,Zarten,industrial,20,0
+Kirchzarten,Zarten,industrial,25,0
+Kirchzarten,Zarten,industrial,30,0
+Kirchzarten,Zarten,industrial,40,0
+Kirchzarten,Zarten,industrial,120,0
+Kirchzarten,Zarten,residential,0,0
+Kirchzarten,Zarten,residential,5,0
+Kirchzarten,Zarten,residential,10,0
+Kirchzarten,Zarten,residential,15,0
+Kirchzarten,Zarten,residential,20,0
+Kirchzarten,Zarten,residential,25,0
+Kirchzarten,Zarten,residential,30,17
+Kirchzarten,Zarten,residential,40,262
+Kirchzarten,Zarten,residential,120,26
+Kirchzarten,Zarten,unbekannt,0,0
+Kirchzarten,Zarten,unbekannt,5,0
+Kirchzarten,Zarten,unbekannt,10,0
+Kirchzarten,Zarten,unbekannt,15,0
+Kirchzarten,Zarten,unbekannt,20,0
+Kirchzarten,Zarten,unbekannt,25,0
+Kirchzarten,Zarten,unbekannt,30,0
+Kirchzarten,Zarten,unbekannt,40,2
+Kirchzarten,Zarten,unbekannt,120,2
+Kirchzarten,Kirchzarten (Kernort),commercial,0,0
+Kirchzarten,Kirchzarten (Kernort),commercial,5,0
+Kirchzarten,Kirchzarten (Kernort),commercial,10,0
+Kirchzarten,Kirchzarten (Kernort),commercial,15,0
+Kirchzarten,Kirchzarten (Kernort),commercial,20,0
+Kirchzarten,Kirchzarten (Kernort),commercial,25,0
+Kirchzarten,Kirchzarten (Kernort),commercial,30,0
+Kirchzarten,Kirchzarten (Kernort),commercial,40,0
+Kirchzarten,Kirchzarten (Kernort),commercial,120,0
+Kirchzarten,Kirchzarten (Kernort),farmyard,0,0
+Kirchzarten,Kirchzarten (Kernort),farmyard,5,0
+Kirchzarten,Kirchzarten (Kernort),farmyard,10,0
+Kirchzarten,Kirchzarten (Kernort),farmyard,15,0
+Kirchzarten,Kirchzarten (Kernort),farmyard,20,0
+Kirchzarten,Kirchzarten (Kernort),farmyard,25,1
+Kirchzarten,Kirchzarten (Kernort),farmyard,30,1
+Kirchzarten,Kirchzarten (Kernort),farmyard,40,17
+Kirchzarten,Kirchzarten (Kernort),farmyard,120,38
+Kirchzarten,Kirchzarten (Kernort),industrial,0,0
+Kirchzarten,Kirchzarten (Kernort),industrial,5,0
+Kirchzarten,Kirchzarten (Kernort),industrial,10,2
+Kirchzarten,Kirchzarten (Kernort),industrial,15,25
+Kirchzarten,Kirchzarten (Kernort),industrial,20,78
+Kirchzarten,Kirchzarten (Kernort),industrial,25,13
+Kirchzarten,Kirchzarten (Kernort),industrial,30,2
+Kirchzarten,Kirchzarten (Kernort),industrial,40,0
+Kirchzarten,Kirchzarten (Kernort),industrial,120,0
+Kirchzarten,Kirchzarten (Kernort),residential,0,0
+Kirchzarten,Kirchzarten (Kernort),residential,5,109
+Kirchzarten,Kirchzarten (Kernort),residential,10,383
+Kirchzarten,Kirchzarten (Kernort),residential,15,443
+Kirchzarten,Kirchzarten (Kernort),residential,20,191
+Kirchzarten,Kirchzarten (Kernort),residential,25,46
+Kirchzarten,Kirchzarten (Kernort),residential,30,6
+Kirchzarten,Kirchzarten (Kernort),residential,40,14
+Kirchzarten,Kirchzarten (Kernort),residential,120,138
+Kirchzarten,Kirchzarten (Kernort),unbekannt,0,0
+Kirchzarten,Kirchzarten (Kernort),unbekannt,5,0
+Kirchzarten,Kirchzarten (Kernort),unbekannt,10,0
+Kirchzarten,Kirchzarten (Kernort),unbekannt,15,12
+Kirchzarten,Kirchzarten (Kernort),unbekannt,20,5
+Kirchzarten,Kirchzarten (Kernort),unbekannt,25,4
+Kirchzarten,Kirchzarten (Kernort),unbekannt,30,1
+Kirchzarten,Kirchzarten (Kernort),unbekannt,40,2
+Kirchzarten,Kirchzarten (Kernort),unbekannt,120,2
+Kirchzarten,Burg im Dreisamtal,commercial,0,0
+Kirchzarten,Burg im Dreisamtal,commercial,5,0
+Kirchzarten,Burg im Dreisamtal,commercial,10,0
+Kirchzarten,Burg im Dreisamtal,commercial,15,0
+Kirchzarten,Burg im Dreisamtal,commercial,20,0
+Kirchzarten,Burg im Dreisamtal,commercial,25,0
+Kirchzarten,Burg im Dreisamtal,commercial,30,0
+Kirchzarten,Burg im Dreisamtal,commercial,40,0
+Kirchzarten,Burg im Dreisamtal,commercial,120,0
+Kirchzarten,Burg im Dreisamtal,farmyard,0,0
+Kirchzarten,Burg im Dreisamtal,farmyard,5,0
+Kirchzarten,Burg im Dreisamtal,farmyard,10,1
+Kirchzarten,Burg im Dreisamtal,farmyard,15,1
+Kirchzarten,Burg im Dreisamtal,farmyard,20,1
+Kirchzarten,Burg im Dreisamtal,farmyard,25,1
+Kirchzarten,Burg im Dreisamtal,farmyard,30,0
+Kirchzarten,Burg im Dreisamtal,farmyard,40,4
+Kirchzarten,Burg im Dreisamtal,farmyard,120,0
+Kirchzarten,Burg im Dreisamtal,industrial,0,0
+Kirchzarten,Burg im Dreisamtal,industrial,5,0
+Kirchzarten,Burg im Dreisamtal,industrial,10,0
+Kirchzarten,Burg im Dreisamtal,industrial,15,0
+Kirchzarten,Burg im Dreisamtal,industrial,20,0
+Kirchzarten,Burg im Dreisamtal,industrial,25,0
+Kirchzarten,Burg im Dreisamtal,industrial,30,0
+Kirchzarten,Burg im Dreisamtal,industrial,40,0
+Kirchzarten,Burg im Dreisamtal,industrial,120,0
+Kirchzarten,Burg im Dreisamtal,residential,0,0
+Kirchzarten,Burg im Dreisamtal,residential,5,9
+Kirchzarten,Burg im Dreisamtal,residential,10,160
+Kirchzarten,Burg im Dreisamtal,residential,15,271
+Kirchzarten,Burg im Dreisamtal,residential,20,73
+Kirchzarten,Burg im Dreisamtal,residential,25,4
+Kirchzarten,Burg im Dreisamtal,residential,30,37
+Kirchzarten,Burg im Dreisamtal,residential,40,123
+Kirchzarten,Burg im Dreisamtal,residential,120,5
+Kirchzarten,Burg im Dreisamtal,unbekannt,0,0
+Kirchzarten,Burg im Dreisamtal,unbekannt,5,0
+Kirchzarten,Burg im Dreisamtal,unbekannt,10,0
+Kirchzarten,Burg im Dreisamtal,unbekannt,15,2
+Kirchzarten,Burg im Dreisamtal,unbekannt,20,15
+Kirchzarten,Burg im Dreisamtal,unbekannt,25,9
+Kirchzarten,Burg im Dreisamtal,unbekannt,30,13
+Kirchzarten,Burg im Dreisamtal,unbekannt,40,5
+Kirchzarten,Burg im Dreisamtal,unbekannt,120,1
+Kirchzarten,Kirchzarten,commercial,0,0
+Kirchzarten,Kirchzarten,commercial,5,0
+Kirchzarten,Kirchzarten,commercial,10,0
+Kirchzarten,Kirchzarten,commercial,15,0
+Kirchzarten,Kirchzarten,commercial,20,0
+Kirchzarten,Kirchzarten,commercial,25,0
+Kirchzarten,Kirchzarten,commercial,30,0
+Kirchzarten,Kirchzarten,commercial,40,0
+Kirchzarten,Kirchzarten,commercial,120,0
+Kirchzarten,Kirchzarten,farmyard,0,0
+Kirchzarten,Kirchzarten,farmyard,5,0
+Kirchzarten,Kirchzarten,farmyard,10,0
+Kirchzarten,Kirchzarten,farmyard,15,0
+Kirchzarten,Kirchzarten,farmyard,20,0
+Kirchzarten,Kirchzarten,farmyard,25,0
+Kirchzarten,Kirchzarten,farmyard,30,0
+Kirchzarten,Kirchzarten,farmyard,40,0
+Kirchzarten,Kirchzarten,farmyard,120,0
+Kirchzarten,Kirchzarten,industrial,0,0
+Kirchzarten,Kirchzarten,industrial,5,0
+Kirchzarten,Kirchzarten,industrial,10,0
+Kirchzarten,Kirchzarten,industrial,15,0
+Kirchzarten,Kirchzarten,industrial,20,0
+Kirchzarten,Kirchzarten,industrial,25,0
+Kirchzarten,Kirchzarten,industrial,30,0
+Kirchzarten,Kirchzarten,industrial,40,0
+Kirchzarten,Kirchzarten,industrial,120,0
+Kirchzarten,Kirchzarten,residential,0,0
+Kirchzarten,Kirchzarten,residential,5,0
+Kirchzarten,Kirchzarten,residential,10,0
+Kirchzarten,Kirchzarten,residential,15,0
+Kirchzarten,Kirchzarten,residential,20,1
+Kirchzarten,Kirchzarten,residential,25,0
+Kirchzarten,Kirchzarten,residential,30,0
+Kirchzarten,Kirchzarten,residential,40,0
+Kirchzarten,Kirchzarten,residential,120,0
+Kirchzarten,Kirchzarten,unbekannt,0,0
+Kirchzarten,Kirchzarten,unbekannt,5,0
+Kirchzarten,Kirchzarten,unbekannt,10,0
+Kirchzarten,Kirchzarten,unbekannt,15,0
+Kirchzarten,Kirchzarten,unbekannt,20,0
+Kirchzarten,Kirchzarten,unbekannt,25,0
+Kirchzarten,Kirchzarten,unbekannt,30,0
+Kirchzarten,Kirchzarten,unbekannt,40,0
+Kirchzarten,Kirchzarten,unbekannt,120,0

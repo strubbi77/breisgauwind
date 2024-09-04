@@ -1,136 +1,136 @@
-Name,Landuse,WegeDauer,Anzahl
-Rötenbach,commercial,0,0
-Rötenbach,commercial,5,0
-Rötenbach,commercial,10,0
-Rötenbach,commercial,15,0
-Rötenbach,commercial,20,0
-Rötenbach,commercial,25,0
-Rötenbach,commercial,30,0
-Rötenbach,commercial,40,1
-Rötenbach,commercial,120,0
-Rötenbach,farmyard,0,0
-Rötenbach,farmyard,5,0
-Rötenbach,farmyard,10,0
-Rötenbach,farmyard,15,0
-Rötenbach,farmyard,20,0
-Rötenbach,farmyard,25,5
-Rötenbach,farmyard,30,0
-Rötenbach,farmyard,40,0
-Rötenbach,farmyard,120,0
-Rötenbach,industrial,0,0
-Rötenbach,industrial,5,0
-Rötenbach,industrial,10,0
-Rötenbach,industrial,15,0
-Rötenbach,industrial,20,1
-Rötenbach,industrial,25,0
-Rötenbach,industrial,30,1
-Rötenbach,industrial,40,0
-Rötenbach,industrial,120,0
-Rötenbach,residential,0,0
-Rötenbach,residential,5,35
-Rötenbach,residential,10,149
-Rötenbach,residential,15,208
-Rötenbach,residential,20,8
-Rötenbach,residential,25,3
-Rötenbach,residential,30,0
-Rötenbach,residential,40,0
-Rötenbach,residential,120,0
-Rötenbach,unbekannt,0,0
-Rötenbach,unbekannt,5,0
-Rötenbach,unbekannt,10,2
-Rötenbach,unbekannt,15,3
-Rötenbach,unbekannt,20,1
-Rötenbach,unbekannt,25,0
-Rötenbach,unbekannt,30,0
-Rötenbach,unbekannt,40,0
-Rötenbach,unbekannt,120,0
-Friedenweiler (Kernort),commercial,0,0
-Friedenweiler (Kernort),commercial,5,0
-Friedenweiler (Kernort),commercial,10,0
-Friedenweiler (Kernort),commercial,15,0
-Friedenweiler (Kernort),commercial,20,0
-Friedenweiler (Kernort),commercial,25,0
-Friedenweiler (Kernort),commercial,30,0
-Friedenweiler (Kernort),commercial,40,0
-Friedenweiler (Kernort),commercial,120,0
-Friedenweiler (Kernort),farmyard,0,0
-Friedenweiler (Kernort),farmyard,5,0
-Friedenweiler (Kernort),farmyard,10,0
-Friedenweiler (Kernort),farmyard,15,0
-Friedenweiler (Kernort),farmyard,20,0
-Friedenweiler (Kernort),farmyard,25,0
-Friedenweiler (Kernort),farmyard,30,0
-Friedenweiler (Kernort),farmyard,40,0
-Friedenweiler (Kernort),farmyard,120,3
-Friedenweiler (Kernort),industrial,0,0
-Friedenweiler (Kernort),industrial,5,0
-Friedenweiler (Kernort),industrial,10,0
-Friedenweiler (Kernort),industrial,15,0
-Friedenweiler (Kernort),industrial,20,0
-Friedenweiler (Kernort),industrial,25,0
-Friedenweiler (Kernort),industrial,30,0
-Friedenweiler (Kernort),industrial,40,0
-Friedenweiler (Kernort),industrial,120,0
-Friedenweiler (Kernort),residential,0,0
-Friedenweiler (Kernort),residential,5,0
-Friedenweiler (Kernort),residential,10,0
-Friedenweiler (Kernort),residential,15,0
-Friedenweiler (Kernort),residential,20,0
-Friedenweiler (Kernort),residential,25,0
-Friedenweiler (Kernort),residential,30,0
-Friedenweiler (Kernort),residential,40,0
-Friedenweiler (Kernort),residential,120,176
-Friedenweiler (Kernort),unbekannt,0,0
-Friedenweiler (Kernort),unbekannt,5,0
-Friedenweiler (Kernort),unbekannt,10,0
-Friedenweiler (Kernort),unbekannt,15,0
-Friedenweiler (Kernort),unbekannt,20,0
-Friedenweiler (Kernort),unbekannt,25,0
-Friedenweiler (Kernort),unbekannt,30,0
-Friedenweiler (Kernort),unbekannt,40,0
-Friedenweiler (Kernort),unbekannt,120,10
-Friedenweiler,commercial,0,0
-Friedenweiler,commercial,5,0
-Friedenweiler,commercial,10,0
-Friedenweiler,commercial,15,0
-Friedenweiler,commercial,20,0
-Friedenweiler,commercial,25,0
-Friedenweiler,commercial,30,0
-Friedenweiler,commercial,40,0
-Friedenweiler,commercial,120,0
-Friedenweiler,farmyard,0,0
-Friedenweiler,farmyard,5,0
-Friedenweiler,farmyard,10,0
-Friedenweiler,farmyard,15,0
-Friedenweiler,farmyard,20,0
-Friedenweiler,farmyard,25,0
-Friedenweiler,farmyard,30,0
-Friedenweiler,farmyard,40,0
-Friedenweiler,farmyard,120,0
-Friedenweiler,industrial,0,0
-Friedenweiler,industrial,5,0
-Friedenweiler,industrial,10,0
-Friedenweiler,industrial,15,0
-Friedenweiler,industrial,20,0
-Friedenweiler,industrial,25,0
-Friedenweiler,industrial,30,0
-Friedenweiler,industrial,40,0
-Friedenweiler,industrial,120,0
-Friedenweiler,residential,0,0
-Friedenweiler,residential,5,0
-Friedenweiler,residential,10,0
-Friedenweiler,residential,15,0
-Friedenweiler,residential,20,0
-Friedenweiler,residential,25,0
-Friedenweiler,residential,30,0
-Friedenweiler,residential,40,0
-Friedenweiler,residential,120,0
-Friedenweiler,unbekannt,0,0
-Friedenweiler,unbekannt,5,0
-Friedenweiler,unbekannt,10,0
-Friedenweiler,unbekannt,15,0
-Friedenweiler,unbekannt,20,0
-Friedenweiler,unbekannt,25,0
-Friedenweiler,unbekannt,30,0
-Friedenweiler,unbekannt,40,0
-Friedenweiler,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Friedenweiler,Rötenbach,commercial,0,0
+Friedenweiler,Rötenbach,commercial,5,0
+Friedenweiler,Rötenbach,commercial,10,0
+Friedenweiler,Rötenbach,commercial,15,0
+Friedenweiler,Rötenbach,commercial,20,0
+Friedenweiler,Rötenbach,commercial,25,0
+Friedenweiler,Rötenbach,commercial,30,0
+Friedenweiler,Rötenbach,commercial,40,1
+Friedenweiler,Rötenbach,commercial,120,0
+Friedenweiler,Rötenbach,farmyard,0,0
+Friedenweiler,Rötenbach,farmyard,5,0
+Friedenweiler,Rötenbach,farmyard,10,0
+Friedenweiler,Rötenbach,farmyard,15,0
+Friedenweiler,Rötenbach,farmyard,20,0
+Friedenweiler,Rötenbach,farmyard,25,5
+Friedenweiler,Rötenbach,farmyard,30,0
+Friedenweiler,Rötenbach,farmyard,40,0
+Friedenweiler,Rötenbach,farmyard,120,0
+Friedenweiler,Rötenbach,industrial,0,0
+Friedenweiler,Rötenbach,industrial,5,0
+Friedenweiler,Rötenbach,industrial,10,0
+Friedenweiler,Rötenbach,industrial,15,0
+Friedenweiler,Rötenbach,industrial,20,1
+Friedenweiler,Rötenbach,industrial,25,0
+Friedenweiler,Rötenbach,industrial,30,1
+Friedenweiler,Rötenbach,industrial,40,0
+Friedenweiler,Rötenbach,industrial,120,0
+Friedenweiler,Rötenbach,residential,0,0
+Friedenweiler,Rötenbach,residential,5,35
+Friedenweiler,Rötenbach,residential,10,142
+Friedenweiler,Rötenbach,residential,15,203
+Friedenweiler,Rötenbach,residential,20,22
+Friedenweiler,Rötenbach,residential,25,1
+Friedenweiler,Rötenbach,residential,30,0
+Friedenweiler,Rötenbach,residential,40,0
+Friedenweiler,Rötenbach,residential,120,0
+Friedenweiler,Rötenbach,unbekannt,0,0
+Friedenweiler,Rötenbach,unbekannt,5,0
+Friedenweiler,Rötenbach,unbekannt,10,2
+Friedenweiler,Rötenbach,unbekannt,15,4
+Friedenweiler,Rötenbach,unbekannt,20,0
+Friedenweiler,Rötenbach,unbekannt,25,0
+Friedenweiler,Rötenbach,unbekannt,30,0
+Friedenweiler,Rötenbach,unbekannt,40,0
+Friedenweiler,Rötenbach,unbekannt,120,0
+Friedenweiler,Friedenweiler (Kernort),commercial,0,0
+Friedenweiler,Friedenweiler (Kernort),commercial,5,0
+Friedenweiler,Friedenweiler (Kernort),commercial,10,0
+Friedenweiler,Friedenweiler (Kernort),commercial,15,0
+Friedenweiler,Friedenweiler (Kernort),commercial,20,0
+Friedenweiler,Friedenweiler (Kernort),commercial,25,0
+Friedenweiler,Friedenweiler (Kernort),commercial,30,0
+Friedenweiler,Friedenweiler (Kernort),commercial,40,0
+Friedenweiler,Friedenweiler (Kernort),commercial,120,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,0,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,5,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,10,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,15,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,20,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,25,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,30,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,40,0
+Friedenweiler,Friedenweiler (Kernort),farmyard,120,3
+Friedenweiler,Friedenweiler (Kernort),industrial,0,0
+Friedenweiler,Friedenweiler (Kernort),industrial,5,0
+Friedenweiler,Friedenweiler (Kernort),industrial,10,0
+Friedenweiler,Friedenweiler (Kernort),industrial,15,0
+Friedenweiler,Friedenweiler (Kernort),industrial,20,0
+Friedenweiler,Friedenweiler (Kernort),industrial,25,0
+Friedenweiler,Friedenweiler (Kernort),industrial,30,0
+Friedenweiler,Friedenweiler (Kernort),industrial,40,0
+Friedenweiler,Friedenweiler (Kernort),industrial,120,0
+Friedenweiler,Friedenweiler (Kernort),residential,0,0
+Friedenweiler,Friedenweiler (Kernort),residential,5,0
+Friedenweiler,Friedenweiler (Kernort),residential,10,0
+Friedenweiler,Friedenweiler (Kernort),residential,15,0
+Friedenweiler,Friedenweiler (Kernort),residential,20,0
+Friedenweiler,Friedenweiler (Kernort),residential,25,0
+Friedenweiler,Friedenweiler (Kernort),residential,30,0
+Friedenweiler,Friedenweiler (Kernort),residential,40,0
+Friedenweiler,Friedenweiler (Kernort),residential,120,176
+Friedenweiler,Friedenweiler (Kernort),unbekannt,0,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,5,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,10,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,15,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,20,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,25,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,30,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,40,0
+Friedenweiler,Friedenweiler (Kernort),unbekannt,120,10
+Friedenweiler,Friedenweiler,commercial,0,0
+Friedenweiler,Friedenweiler,commercial,5,0
+Friedenweiler,Friedenweiler,commercial,10,0
+Friedenweiler,Friedenweiler,commercial,15,0
+Friedenweiler,Friedenweiler,commercial,20,0
+Friedenweiler,Friedenweiler,commercial,25,0
+Friedenweiler,Friedenweiler,commercial,30,0
+Friedenweiler,Friedenweiler,commercial,40,0
+Friedenweiler,Friedenweiler,commercial,120,0
+Friedenweiler,Friedenweiler,farmyard,0,0
+Friedenweiler,Friedenweiler,farmyard,5,0
+Friedenweiler,Friedenweiler,farmyard,10,0
+Friedenweiler,Friedenweiler,farmyard,15,0
+Friedenweiler,Friedenweiler,farmyard,20,0
+Friedenweiler,Friedenweiler,farmyard,25,0
+Friedenweiler,Friedenweiler,farmyard,30,0
+Friedenweiler,Friedenweiler,farmyard,40,0
+Friedenweiler,Friedenweiler,farmyard,120,0
+Friedenweiler,Friedenweiler,industrial,0,0
+Friedenweiler,Friedenweiler,industrial,5,0
+Friedenweiler,Friedenweiler,industrial,10,0
+Friedenweiler,Friedenweiler,industrial,15,0
+Friedenweiler,Friedenweiler,industrial,20,0
+Friedenweiler,Friedenweiler,industrial,25,0
+Friedenweiler,Friedenweiler,industrial,30,0
+Friedenweiler,Friedenweiler,industrial,40,0
+Friedenweiler,Friedenweiler,industrial,120,0
+Friedenweiler,Friedenweiler,residential,0,0
+Friedenweiler,Friedenweiler,residential,5,0
+Friedenweiler,Friedenweiler,residential,10,0
+Friedenweiler,Friedenweiler,residential,15,0
+Friedenweiler,Friedenweiler,residential,20,0
+Friedenweiler,Friedenweiler,residential,25,0
+Friedenweiler,Friedenweiler,residential,30,0
+Friedenweiler,Friedenweiler,residential,40,0
+Friedenweiler,Friedenweiler,residential,120,0
+Friedenweiler,Friedenweiler,unbekannt,0,0
+Friedenweiler,Friedenweiler,unbekannt,5,0
+Friedenweiler,Friedenweiler,unbekannt,10,0
+Friedenweiler,Friedenweiler,unbekannt,15,0
+Friedenweiler,Friedenweiler,unbekannt,20,0
+Friedenweiler,Friedenweiler,unbekannt,25,0
+Friedenweiler,Friedenweiler,unbekannt,30,0
+Friedenweiler,Friedenweiler,unbekannt,40,0
+Friedenweiler,Friedenweiler,unbekannt,120,0

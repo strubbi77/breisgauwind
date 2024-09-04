@@ -1,181 +1,181 @@
-Name,Landuse,WegeDauer,Anzahl
-Staufen (Kernstadt),commercial,0,0
-Staufen (Kernstadt),commercial,5,0
-Staufen (Kernstadt),commercial,10,0
-Staufen (Kernstadt),commercial,15,0
-Staufen (Kernstadt),commercial,20,0
-Staufen (Kernstadt),commercial,25,0
-Staufen (Kernstadt),commercial,30,0
-Staufen (Kernstadt),commercial,40,77
-Staufen (Kernstadt),commercial,120,3
-Staufen (Kernstadt),farmyard,0,0
-Staufen (Kernstadt),farmyard,5,0
-Staufen (Kernstadt),farmyard,10,0
-Staufen (Kernstadt),farmyard,15,0
-Staufen (Kernstadt),farmyard,20,0
-Staufen (Kernstadt),farmyard,25,0
-Staufen (Kernstadt),farmyard,30,2
-Staufen (Kernstadt),farmyard,40,5
-Staufen (Kernstadt),farmyard,120,12
-Staufen (Kernstadt),industrial,0,0
-Staufen (Kernstadt),industrial,5,0
-Staufen (Kernstadt),industrial,10,0
-Staufen (Kernstadt),industrial,15,0
-Staufen (Kernstadt),industrial,20,0
-Staufen (Kernstadt),industrial,25,0
-Staufen (Kernstadt),industrial,30,0
-Staufen (Kernstadt),industrial,40,5
-Staufen (Kernstadt),industrial,120,0
-Staufen (Kernstadt),residential,0,0
-Staufen (Kernstadt),residential,5,2
-Staufen (Kernstadt),residential,10,73
-Staufen (Kernstadt),residential,15,273
-Staufen (Kernstadt),residential,20,444
-Staufen (Kernstadt),residential,25,310
-Staufen (Kernstadt),residential,30,245
-Staufen (Kernstadt),residential,40,52
-Staufen (Kernstadt),residential,120,7
-Staufen (Kernstadt),unbekannt,0,0
-Staufen (Kernstadt),unbekannt,5,2
-Staufen (Kernstadt),unbekannt,10,1
-Staufen (Kernstadt),unbekannt,15,1
-Staufen (Kernstadt),unbekannt,20,3
-Staufen (Kernstadt),unbekannt,25,4
-Staufen (Kernstadt),unbekannt,30,0
-Staufen (Kernstadt),unbekannt,40,3
-Staufen (Kernstadt),unbekannt,120,0
-Wettelbrunn,commercial,0,0
-Wettelbrunn,commercial,5,0
-Wettelbrunn,commercial,10,0
-Wettelbrunn,commercial,15,0
-Wettelbrunn,commercial,20,0
-Wettelbrunn,commercial,25,0
-Wettelbrunn,commercial,30,0
-Wettelbrunn,commercial,40,0
-Wettelbrunn,commercial,120,0
-Wettelbrunn,farmyard,0,0
-Wettelbrunn,farmyard,5,0
-Wettelbrunn,farmyard,10,0
-Wettelbrunn,farmyard,15,0
-Wettelbrunn,farmyard,20,1
-Wettelbrunn,farmyard,25,1
-Wettelbrunn,farmyard,30,0
-Wettelbrunn,farmyard,40,0
-Wettelbrunn,farmyard,120,0
-Wettelbrunn,industrial,0,0
-Wettelbrunn,industrial,5,0
-Wettelbrunn,industrial,10,0
-Wettelbrunn,industrial,15,0
-Wettelbrunn,industrial,20,0
-Wettelbrunn,industrial,25,0
-Wettelbrunn,industrial,30,0
-Wettelbrunn,industrial,40,0
-Wettelbrunn,industrial,120,0
-Wettelbrunn,residential,0,0
-Wettelbrunn,residential,5,99
-Wettelbrunn,residential,10,74
-Wettelbrunn,residential,15,34
-Wettelbrunn,residential,20,7
-Wettelbrunn,residential,25,0
-Wettelbrunn,residential,30,0
-Wettelbrunn,residential,40,0
-Wettelbrunn,residential,120,0
-Wettelbrunn,unbekannt,0,0
-Wettelbrunn,unbekannt,5,0
-Wettelbrunn,unbekannt,10,0
-Wettelbrunn,unbekannt,15,0
-Wettelbrunn,unbekannt,20,0
-Wettelbrunn,unbekannt,25,0
-Wettelbrunn,unbekannt,30,0
-Wettelbrunn,unbekannt,40,0
-Wettelbrunn,unbekannt,120,0
-Grunern,commercial,0,0
-Grunern,commercial,5,0
-Grunern,commercial,10,0
-Grunern,commercial,15,0
-Grunern,commercial,20,0
-Grunern,commercial,25,0
-Grunern,commercial,30,13
-Grunern,commercial,40,1
-Grunern,commercial,120,0
-Grunern,farmyard,0,0
-Grunern,farmyard,5,0
-Grunern,farmyard,10,0
-Grunern,farmyard,15,0
-Grunern,farmyard,20,0
-Grunern,farmyard,25,0
-Grunern,farmyard,30,5
-Grunern,farmyard,40,2
-Grunern,farmyard,120,3
-Grunern,industrial,0,0
-Grunern,industrial,5,0
-Grunern,industrial,10,0
-Grunern,industrial,15,0
-Grunern,industrial,20,0
-Grunern,industrial,25,0
-Grunern,industrial,30,0
-Grunern,industrial,40,0
-Grunern,industrial,120,0
-Grunern,residential,0,0
-Grunern,residential,5,0
-Grunern,residential,10,13
-Grunern,residential,15,9
-Grunern,residential,20,42
-Grunern,residential,25,108
-Grunern,residential,30,77
-Grunern,residential,40,50
-Grunern,residential,120,12
-Grunern,unbekannt,0,0
-Grunern,unbekannt,5,0
-Grunern,unbekannt,10,0
-Grunern,unbekannt,15,0
-Grunern,unbekannt,20,0
-Grunern,unbekannt,25,0
-Grunern,unbekannt,30,1
-Grunern,unbekannt,40,0
-Grunern,unbekannt,120,0
-Staufen im Breisgau,commercial,0,0
-Staufen im Breisgau,commercial,5,0
-Staufen im Breisgau,commercial,10,0
-Staufen im Breisgau,commercial,15,0
-Staufen im Breisgau,commercial,20,0
-Staufen im Breisgau,commercial,25,0
-Staufen im Breisgau,commercial,30,0
-Staufen im Breisgau,commercial,40,0
-Staufen im Breisgau,commercial,120,0
-Staufen im Breisgau,farmyard,0,0
-Staufen im Breisgau,farmyard,5,0
-Staufen im Breisgau,farmyard,10,0
-Staufen im Breisgau,farmyard,15,0
-Staufen im Breisgau,farmyard,20,0
-Staufen im Breisgau,farmyard,25,0
-Staufen im Breisgau,farmyard,30,0
-Staufen im Breisgau,farmyard,40,0
-Staufen im Breisgau,farmyard,120,0
-Staufen im Breisgau,industrial,0,0
-Staufen im Breisgau,industrial,5,0
-Staufen im Breisgau,industrial,10,0
-Staufen im Breisgau,industrial,15,0
-Staufen im Breisgau,industrial,20,0
-Staufen im Breisgau,industrial,25,0
-Staufen im Breisgau,industrial,30,0
-Staufen im Breisgau,industrial,40,0
-Staufen im Breisgau,industrial,120,0
-Staufen im Breisgau,residential,0,0
-Staufen im Breisgau,residential,5,0
-Staufen im Breisgau,residential,10,0
-Staufen im Breisgau,residential,15,0
-Staufen im Breisgau,residential,20,0
-Staufen im Breisgau,residential,25,0
-Staufen im Breisgau,residential,30,0
-Staufen im Breisgau,residential,40,0
-Staufen im Breisgau,residential,120,0
-Staufen im Breisgau,unbekannt,0,0
-Staufen im Breisgau,unbekannt,5,0
-Staufen im Breisgau,unbekannt,10,0
-Staufen im Breisgau,unbekannt,15,0
-Staufen im Breisgau,unbekannt,20,0
-Staufen im Breisgau,unbekannt,25,0
-Staufen im Breisgau,unbekannt,30,0
-Staufen im Breisgau,unbekannt,40,0
-Staufen im Breisgau,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Staufen im Breisgau,Staufen (Kernstadt),commercial,0,0
+Staufen im Breisgau,Staufen (Kernstadt),commercial,5,0
+Staufen im Breisgau,Staufen (Kernstadt),commercial,10,0
+Staufen im Breisgau,Staufen (Kernstadt),commercial,15,0
+Staufen im Breisgau,Staufen (Kernstadt),commercial,20,0
+Staufen im Breisgau,Staufen (Kernstadt),commercial,25,0
+Staufen im Breisgau,Staufen (Kernstadt),commercial,30,0
+Staufen im Breisgau,Staufen (Kernstadt),commercial,40,65
+Staufen im Breisgau,Staufen (Kernstadt),commercial,120,15
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,0,0
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,5,0
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,10,0
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,15,0
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,20,0
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,25,0
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,30,2
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,40,3
+Staufen im Breisgau,Staufen (Kernstadt),farmyard,120,14
+Staufen im Breisgau,Staufen (Kernstadt),industrial,0,0
+Staufen im Breisgau,Staufen (Kernstadt),industrial,5,0
+Staufen im Breisgau,Staufen (Kernstadt),industrial,10,0
+Staufen im Breisgau,Staufen (Kernstadt),industrial,15,0
+Staufen im Breisgau,Staufen (Kernstadt),industrial,20,0
+Staufen im Breisgau,Staufen (Kernstadt),industrial,25,0
+Staufen im Breisgau,Staufen (Kernstadt),industrial,30,0
+Staufen im Breisgau,Staufen (Kernstadt),industrial,40,4
+Staufen im Breisgau,Staufen (Kernstadt),industrial,120,1
+Staufen im Breisgau,Staufen (Kernstadt),residential,0,0
+Staufen im Breisgau,Staufen (Kernstadt),residential,5,0
+Staufen im Breisgau,Staufen (Kernstadt),residential,10,16
+Staufen im Breisgau,Staufen (Kernstadt),residential,15,139
+Staufen im Breisgau,Staufen (Kernstadt),residential,20,427
+Staufen im Breisgau,Staufen (Kernstadt),residential,25,320
+Staufen im Breisgau,Staufen (Kernstadt),residential,30,320
+Staufen im Breisgau,Staufen (Kernstadt),residential,40,173
+Staufen im Breisgau,Staufen (Kernstadt),residential,120,9
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,0,0
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,5,1
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,10,1
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,15,1
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,20,3
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,25,6
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,30,1
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,40,3
+Staufen im Breisgau,Staufen (Kernstadt),unbekannt,120,0
+Staufen im Breisgau,Wettelbrunn,commercial,0,0
+Staufen im Breisgau,Wettelbrunn,commercial,5,0
+Staufen im Breisgau,Wettelbrunn,commercial,10,0
+Staufen im Breisgau,Wettelbrunn,commercial,15,0
+Staufen im Breisgau,Wettelbrunn,commercial,20,0
+Staufen im Breisgau,Wettelbrunn,commercial,25,0
+Staufen im Breisgau,Wettelbrunn,commercial,30,0
+Staufen im Breisgau,Wettelbrunn,commercial,40,0
+Staufen im Breisgau,Wettelbrunn,commercial,120,0
+Staufen im Breisgau,Wettelbrunn,farmyard,0,0
+Staufen im Breisgau,Wettelbrunn,farmyard,5,0
+Staufen im Breisgau,Wettelbrunn,farmyard,10,0
+Staufen im Breisgau,Wettelbrunn,farmyard,15,0
+Staufen im Breisgau,Wettelbrunn,farmyard,20,1
+Staufen im Breisgau,Wettelbrunn,farmyard,25,0
+Staufen im Breisgau,Wettelbrunn,farmyard,30,0
+Staufen im Breisgau,Wettelbrunn,farmyard,40,1
+Staufen im Breisgau,Wettelbrunn,farmyard,120,0
+Staufen im Breisgau,Wettelbrunn,industrial,0,0
+Staufen im Breisgau,Wettelbrunn,industrial,5,0
+Staufen im Breisgau,Wettelbrunn,industrial,10,0
+Staufen im Breisgau,Wettelbrunn,industrial,15,0
+Staufen im Breisgau,Wettelbrunn,industrial,20,0
+Staufen im Breisgau,Wettelbrunn,industrial,25,0
+Staufen im Breisgau,Wettelbrunn,industrial,30,0
+Staufen im Breisgau,Wettelbrunn,industrial,40,0
+Staufen im Breisgau,Wettelbrunn,industrial,120,0
+Staufen im Breisgau,Wettelbrunn,residential,0,0
+Staufen im Breisgau,Wettelbrunn,residential,5,89
+Staufen im Breisgau,Wettelbrunn,residential,10,88
+Staufen im Breisgau,Wettelbrunn,residential,15,32
+Staufen im Breisgau,Wettelbrunn,residential,20,5
+Staufen im Breisgau,Wettelbrunn,residential,25,0
+Staufen im Breisgau,Wettelbrunn,residential,30,0
+Staufen im Breisgau,Wettelbrunn,residential,40,0
+Staufen im Breisgau,Wettelbrunn,residential,120,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,0,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,5,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,10,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,15,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,20,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,25,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,30,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,40,0
+Staufen im Breisgau,Wettelbrunn,unbekannt,120,0
+Staufen im Breisgau,Grunern,commercial,0,0
+Staufen im Breisgau,Grunern,commercial,5,0
+Staufen im Breisgau,Grunern,commercial,10,0
+Staufen im Breisgau,Grunern,commercial,15,0
+Staufen im Breisgau,Grunern,commercial,20,0
+Staufen im Breisgau,Grunern,commercial,25,0
+Staufen im Breisgau,Grunern,commercial,30,2
+Staufen im Breisgau,Grunern,commercial,40,12
+Staufen im Breisgau,Grunern,commercial,120,0
+Staufen im Breisgau,Grunern,farmyard,0,0
+Staufen im Breisgau,Grunern,farmyard,5,0
+Staufen im Breisgau,Grunern,farmyard,10,0
+Staufen im Breisgau,Grunern,farmyard,15,0
+Staufen im Breisgau,Grunern,farmyard,20,0
+Staufen im Breisgau,Grunern,farmyard,25,0
+Staufen im Breisgau,Grunern,farmyard,30,0
+Staufen im Breisgau,Grunern,farmyard,40,6
+Staufen im Breisgau,Grunern,farmyard,120,4
+Staufen im Breisgau,Grunern,industrial,0,0
+Staufen im Breisgau,Grunern,industrial,5,0
+Staufen im Breisgau,Grunern,industrial,10,0
+Staufen im Breisgau,Grunern,industrial,15,0
+Staufen im Breisgau,Grunern,industrial,20,0
+Staufen im Breisgau,Grunern,industrial,25,0
+Staufen im Breisgau,Grunern,industrial,30,0
+Staufen im Breisgau,Grunern,industrial,40,0
+Staufen im Breisgau,Grunern,industrial,120,0
+Staufen im Breisgau,Grunern,residential,0,0
+Staufen im Breisgau,Grunern,residential,5,0
+Staufen im Breisgau,Grunern,residential,10,0
+Staufen im Breisgau,Grunern,residential,15,15
+Staufen im Breisgau,Grunern,residential,20,22
+Staufen im Breisgau,Grunern,residential,25,76
+Staufen im Breisgau,Grunern,residential,30,95
+Staufen im Breisgau,Grunern,residential,40,91
+Staufen im Breisgau,Grunern,residential,120,12
+Staufen im Breisgau,Grunern,unbekannt,0,0
+Staufen im Breisgau,Grunern,unbekannt,5,0
+Staufen im Breisgau,Grunern,unbekannt,10,0
+Staufen im Breisgau,Grunern,unbekannt,15,0
+Staufen im Breisgau,Grunern,unbekannt,20,0
+Staufen im Breisgau,Grunern,unbekannt,25,0
+Staufen im Breisgau,Grunern,unbekannt,30,1
+Staufen im Breisgau,Grunern,unbekannt,40,0
+Staufen im Breisgau,Grunern,unbekannt,120,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,0,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,5,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,10,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,15,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,20,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,25,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,30,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,40,0
+Staufen im Breisgau,Staufen im Breisgau,commercial,120,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,0,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,5,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,10,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,15,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,20,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,25,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,30,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,40,0
+Staufen im Breisgau,Staufen im Breisgau,farmyard,120,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,0,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,5,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,10,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,15,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,20,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,25,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,30,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,40,0
+Staufen im Breisgau,Staufen im Breisgau,industrial,120,0
+Staufen im Breisgau,Staufen im Breisgau,residential,0,0
+Staufen im Breisgau,Staufen im Breisgau,residential,5,0
+Staufen im Breisgau,Staufen im Breisgau,residential,10,0
+Staufen im Breisgau,Staufen im Breisgau,residential,15,0
+Staufen im Breisgau,Staufen im Breisgau,residential,20,0
+Staufen im Breisgau,Staufen im Breisgau,residential,25,0
+Staufen im Breisgau,Staufen im Breisgau,residential,30,0
+Staufen im Breisgau,Staufen im Breisgau,residential,40,0
+Staufen im Breisgau,Staufen im Breisgau,residential,120,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,0,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,5,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,10,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,15,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,20,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,25,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,30,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,40,0
+Staufen im Breisgau,Staufen im Breisgau,unbekannt,120,0

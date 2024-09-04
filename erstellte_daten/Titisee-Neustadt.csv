@@ -1,271 +1,271 @@
-Name,Landuse,WegeDauer,Anzahl
-Rudenberg,commercial,0,0
-Rudenberg,commercial,5,0
-Rudenberg,commercial,10,0
-Rudenberg,commercial,15,0
-Rudenberg,commercial,20,0
-Rudenberg,commercial,25,0
-Rudenberg,commercial,30,0
-Rudenberg,commercial,40,0
-Rudenberg,commercial,120,0
-Rudenberg,farmyard,0,0
-Rudenberg,farmyard,5,0
-Rudenberg,farmyard,10,0
-Rudenberg,farmyard,15,0
-Rudenberg,farmyard,20,0
-Rudenberg,farmyard,25,0
-Rudenberg,farmyard,30,0
-Rudenberg,farmyard,40,1
-Rudenberg,farmyard,120,13
-Rudenberg,industrial,0,0
-Rudenberg,industrial,5,0
-Rudenberg,industrial,10,0
-Rudenberg,industrial,15,0
-Rudenberg,industrial,20,0
-Rudenberg,industrial,25,0
-Rudenberg,industrial,30,0
-Rudenberg,industrial,40,0
-Rudenberg,industrial,120,0
-Rudenberg,residential,0,0
-Rudenberg,residential,5,0
-Rudenberg,residential,10,0
-Rudenberg,residential,15,0
-Rudenberg,residential,20,0
-Rudenberg,residential,25,0
-Rudenberg,residential,30,2
-Rudenberg,residential,40,2
-Rudenberg,residential,120,38
-Rudenberg,unbekannt,0,0
-Rudenberg,unbekannt,5,0
-Rudenberg,unbekannt,10,0
-Rudenberg,unbekannt,15,0
-Rudenberg,unbekannt,20,0
-Rudenberg,unbekannt,25,0
-Rudenberg,unbekannt,30,0
-Rudenberg,unbekannt,40,0
-Rudenberg,unbekannt,120,0
-Schwärzenbach,commercial,0,0
-Schwärzenbach,commercial,5,0
-Schwärzenbach,commercial,10,0
-Schwärzenbach,commercial,15,0
-Schwärzenbach,commercial,20,0
-Schwärzenbach,commercial,25,0
-Schwärzenbach,commercial,30,0
-Schwärzenbach,commercial,40,0
-Schwärzenbach,commercial,120,0
-Schwärzenbach,farmyard,0,0
-Schwärzenbach,farmyard,5,0
-Schwärzenbach,farmyard,10,0
-Schwärzenbach,farmyard,15,0
-Schwärzenbach,farmyard,20,0
-Schwärzenbach,farmyard,25,0
-Schwärzenbach,farmyard,30,0
-Schwärzenbach,farmyard,40,0
-Schwärzenbach,farmyard,120,36
-Schwärzenbach,industrial,0,0
-Schwärzenbach,industrial,5,0
-Schwärzenbach,industrial,10,0
-Schwärzenbach,industrial,15,0
-Schwärzenbach,industrial,20,0
-Schwärzenbach,industrial,25,0
-Schwärzenbach,industrial,30,0
-Schwärzenbach,industrial,40,0
-Schwärzenbach,industrial,120,0
-Schwärzenbach,residential,0,0
-Schwärzenbach,residential,5,0
-Schwärzenbach,residential,10,0
-Schwärzenbach,residential,15,0
-Schwärzenbach,residential,20,0
-Schwärzenbach,residential,25,0
-Schwärzenbach,residential,30,0
-Schwärzenbach,residential,40,0
-Schwärzenbach,residential,120,33
-Schwärzenbach,unbekannt,0,0
-Schwärzenbach,unbekannt,5,0
-Schwärzenbach,unbekannt,10,0
-Schwärzenbach,unbekannt,15,0
-Schwärzenbach,unbekannt,20,0
-Schwärzenbach,unbekannt,25,0
-Schwärzenbach,unbekannt,30,0
-Schwärzenbach,unbekannt,40,0
-Schwärzenbach,unbekannt,120,4
-Neustadt im Schwarzwald,commercial,0,0
-Neustadt im Schwarzwald,commercial,5,0
-Neustadt im Schwarzwald,commercial,10,5
-Neustadt im Schwarzwald,commercial,15,22
-Neustadt im Schwarzwald,commercial,20,8
-Neustadt im Schwarzwald,commercial,25,1
-Neustadt im Schwarzwald,commercial,30,1
-Neustadt im Schwarzwald,commercial,40,0
-Neustadt im Schwarzwald,commercial,120,0
-Neustadt im Schwarzwald,farmyard,0,0
-Neustadt im Schwarzwald,farmyard,5,0
-Neustadt im Schwarzwald,farmyard,10,0
-Neustadt im Schwarzwald,farmyard,15,0
-Neustadt im Schwarzwald,farmyard,20,0
-Neustadt im Schwarzwald,farmyard,25,0
-Neustadt im Schwarzwald,farmyard,30,0
-Neustadt im Schwarzwald,farmyard,40,0
-Neustadt im Schwarzwald,farmyard,120,9
-Neustadt im Schwarzwald,industrial,0,0
-Neustadt im Schwarzwald,industrial,5,0
-Neustadt im Schwarzwald,industrial,10,0
-Neustadt im Schwarzwald,industrial,15,5
-Neustadt im Schwarzwald,industrial,20,6
-Neustadt im Schwarzwald,industrial,25,6
-Neustadt im Schwarzwald,industrial,30,1
-Neustadt im Schwarzwald,industrial,40,44
-Neustadt im Schwarzwald,industrial,120,32
-Neustadt im Schwarzwald,residential,0,0
-Neustadt im Schwarzwald,residential,5,100
-Neustadt im Schwarzwald,residential,10,340
-Neustadt im Schwarzwald,residential,15,517
-Neustadt im Schwarzwald,residential,20,383
-Neustadt im Schwarzwald,residential,25,188
-Neustadt im Schwarzwald,residential,30,154
-Neustadt im Schwarzwald,residential,40,94
-Neustadt im Schwarzwald,residential,120,13
-Neustadt im Schwarzwald,unbekannt,0,0
-Neustadt im Schwarzwald,unbekannt,5,1
-Neustadt im Schwarzwald,unbekannt,10,4
-Neustadt im Schwarzwald,unbekannt,15,6
-Neustadt im Schwarzwald,unbekannt,20,4
-Neustadt im Schwarzwald,unbekannt,25,1
-Neustadt im Schwarzwald,unbekannt,30,12
-Neustadt im Schwarzwald,unbekannt,40,7
-Neustadt im Schwarzwald,unbekannt,120,10
-Langenordnach,commercial,0,0
-Langenordnach,commercial,5,0
-Langenordnach,commercial,10,0
-Langenordnach,commercial,15,0
-Langenordnach,commercial,20,0
-Langenordnach,commercial,25,0
-Langenordnach,commercial,30,0
-Langenordnach,commercial,40,0
-Langenordnach,commercial,120,0
-Langenordnach,farmyard,0,0
-Langenordnach,farmyard,5,0
-Langenordnach,farmyard,10,0
-Langenordnach,farmyard,15,0
-Langenordnach,farmyard,20,0
-Langenordnach,farmyard,25,0
-Langenordnach,farmyard,30,0
-Langenordnach,farmyard,40,5
-Langenordnach,farmyard,120,20
-Langenordnach,industrial,0,0
-Langenordnach,industrial,5,0
-Langenordnach,industrial,10,0
-Langenordnach,industrial,15,0
-Langenordnach,industrial,20,0
-Langenordnach,industrial,25,0
-Langenordnach,industrial,30,0
-Langenordnach,industrial,40,0
-Langenordnach,industrial,120,0
-Langenordnach,residential,0,0
-Langenordnach,residential,5,0
-Langenordnach,residential,10,0
-Langenordnach,residential,15,0
-Langenordnach,residential,20,0
-Langenordnach,residential,25,0
-Langenordnach,residential,30,0
-Langenordnach,residential,40,0
-Langenordnach,residential,120,28
-Langenordnach,unbekannt,0,0
-Langenordnach,unbekannt,5,0
-Langenordnach,unbekannt,10,0
-Langenordnach,unbekannt,15,0
-Langenordnach,unbekannt,20,0
-Langenordnach,unbekannt,25,0
-Langenordnach,unbekannt,30,0
-Langenordnach,unbekannt,40,0
-Langenordnach,unbekannt,120,9
-Waldau,commercial,0,0
-Waldau,commercial,5,0
-Waldau,commercial,10,0
-Waldau,commercial,15,0
-Waldau,commercial,20,0
-Waldau,commercial,25,0
-Waldau,commercial,30,0
-Waldau,commercial,40,0
-Waldau,commercial,120,0
-Waldau,farmyard,0,0
-Waldau,farmyard,5,0
-Waldau,farmyard,10,1
-Waldau,farmyard,15,3
-Waldau,farmyard,20,2
-Waldau,farmyard,25,4
-Waldau,farmyard,30,0
-Waldau,farmyard,40,3
-Waldau,farmyard,120,8
-Waldau,industrial,0,0
-Waldau,industrial,5,0
-Waldau,industrial,10,0
-Waldau,industrial,15,0
-Waldau,industrial,20,0
-Waldau,industrial,25,1
-Waldau,industrial,30,0
-Waldau,industrial,40,0
-Waldau,industrial,120,0
-Waldau,residential,0,0
-Waldau,residential,5,24
-Waldau,residential,10,33
-Waldau,residential,15,2
-Waldau,residential,20,2
-Waldau,residential,25,3
-Waldau,residential,30,2
-Waldau,residential,40,1
-Waldau,residential,120,12
-Waldau,unbekannt,0,0
-Waldau,unbekannt,5,0
-Waldau,unbekannt,10,4
-Waldau,unbekannt,15,1
-Waldau,unbekannt,20,1
-Waldau,unbekannt,25,0
-Waldau,unbekannt,30,0
-Waldau,unbekannt,40,2
-Waldau,unbekannt,120,5
-Titisee-Neustadt,commercial,0,0
-Titisee-Neustadt,commercial,5,3
-Titisee-Neustadt,commercial,10,2
-Titisee-Neustadt,commercial,15,2
-Titisee-Neustadt,commercial,20,10
-Titisee-Neustadt,commercial,25,1
-Titisee-Neustadt,commercial,30,0
-Titisee-Neustadt,commercial,40,0
-Titisee-Neustadt,commercial,120,1
-Titisee-Neustadt,farmyard,0,0
-Titisee-Neustadt,farmyard,5,0
-Titisee-Neustadt,farmyard,10,0
-Titisee-Neustadt,farmyard,15,0
-Titisee-Neustadt,farmyard,20,0
-Titisee-Neustadt,farmyard,25,8
-Titisee-Neustadt,farmyard,30,1
-Titisee-Neustadt,farmyard,40,7
-Titisee-Neustadt,farmyard,120,97
-Titisee-Neustadt,industrial,0,0
-Titisee-Neustadt,industrial,5,0
-Titisee-Neustadt,industrial,10,0
-Titisee-Neustadt,industrial,15,0
-Titisee-Neustadt,industrial,20,0
-Titisee-Neustadt,industrial,25,0
-Titisee-Neustadt,industrial,30,2
-Titisee-Neustadt,industrial,40,3
-Titisee-Neustadt,industrial,120,21
-Titisee-Neustadt,residential,0,0
-Titisee-Neustadt,residential,5,25
-Titisee-Neustadt,residential,10,59
-Titisee-Neustadt,residential,15,48
-Titisee-Neustadt,residential,20,82
-Titisee-Neustadt,residential,25,69
-Titisee-Neustadt,residential,30,56
-Titisee-Neustadt,residential,40,21
-Titisee-Neustadt,residential,120,58
-Titisee-Neustadt,unbekannt,0,0
-Titisee-Neustadt,unbekannt,5,0
-Titisee-Neustadt,unbekannt,10,8
-Titisee-Neustadt,unbekannt,15,38
-Titisee-Neustadt,unbekannt,20,25
-Titisee-Neustadt,unbekannt,25,4
-Titisee-Neustadt,unbekannt,30,3
-Titisee-Neustadt,unbekannt,40,0
-Titisee-Neustadt,unbekannt,120,19
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Titisee-Neustadt,Rudenberg,commercial,0,0
+Titisee-Neustadt,Rudenberg,commercial,5,0
+Titisee-Neustadt,Rudenberg,commercial,10,0
+Titisee-Neustadt,Rudenberg,commercial,15,0
+Titisee-Neustadt,Rudenberg,commercial,20,0
+Titisee-Neustadt,Rudenberg,commercial,25,0
+Titisee-Neustadt,Rudenberg,commercial,30,0
+Titisee-Neustadt,Rudenberg,commercial,40,0
+Titisee-Neustadt,Rudenberg,commercial,120,0
+Titisee-Neustadt,Rudenberg,farmyard,0,0
+Titisee-Neustadt,Rudenberg,farmyard,5,0
+Titisee-Neustadt,Rudenberg,farmyard,10,0
+Titisee-Neustadt,Rudenberg,farmyard,15,0
+Titisee-Neustadt,Rudenberg,farmyard,20,0
+Titisee-Neustadt,Rudenberg,farmyard,25,0
+Titisee-Neustadt,Rudenberg,farmyard,30,0
+Titisee-Neustadt,Rudenberg,farmyard,40,1
+Titisee-Neustadt,Rudenberg,farmyard,120,13
+Titisee-Neustadt,Rudenberg,industrial,0,0
+Titisee-Neustadt,Rudenberg,industrial,5,0
+Titisee-Neustadt,Rudenberg,industrial,10,0
+Titisee-Neustadt,Rudenberg,industrial,15,0
+Titisee-Neustadt,Rudenberg,industrial,20,0
+Titisee-Neustadt,Rudenberg,industrial,25,0
+Titisee-Neustadt,Rudenberg,industrial,30,0
+Titisee-Neustadt,Rudenberg,industrial,40,0
+Titisee-Neustadt,Rudenberg,industrial,120,0
+Titisee-Neustadt,Rudenberg,residential,0,0
+Titisee-Neustadt,Rudenberg,residential,5,0
+Titisee-Neustadt,Rudenberg,residential,10,0
+Titisee-Neustadt,Rudenberg,residential,15,0
+Titisee-Neustadt,Rudenberg,residential,20,0
+Titisee-Neustadt,Rudenberg,residential,25,0
+Titisee-Neustadt,Rudenberg,residential,30,2
+Titisee-Neustadt,Rudenberg,residential,40,1
+Titisee-Neustadt,Rudenberg,residential,120,39
+Titisee-Neustadt,Rudenberg,unbekannt,0,0
+Titisee-Neustadt,Rudenberg,unbekannt,5,0
+Titisee-Neustadt,Rudenberg,unbekannt,10,0
+Titisee-Neustadt,Rudenberg,unbekannt,15,0
+Titisee-Neustadt,Rudenberg,unbekannt,20,0
+Titisee-Neustadt,Rudenberg,unbekannt,25,0
+Titisee-Neustadt,Rudenberg,unbekannt,30,0
+Titisee-Neustadt,Rudenberg,unbekannt,40,0
+Titisee-Neustadt,Rudenberg,unbekannt,120,0
+Titisee-Neustadt,Schwärzenbach,commercial,0,0
+Titisee-Neustadt,Schwärzenbach,commercial,5,0
+Titisee-Neustadt,Schwärzenbach,commercial,10,0
+Titisee-Neustadt,Schwärzenbach,commercial,15,0
+Titisee-Neustadt,Schwärzenbach,commercial,20,0
+Titisee-Neustadt,Schwärzenbach,commercial,25,0
+Titisee-Neustadt,Schwärzenbach,commercial,30,0
+Titisee-Neustadt,Schwärzenbach,commercial,40,0
+Titisee-Neustadt,Schwärzenbach,commercial,120,0
+Titisee-Neustadt,Schwärzenbach,farmyard,0,0
+Titisee-Neustadt,Schwärzenbach,farmyard,5,0
+Titisee-Neustadt,Schwärzenbach,farmyard,10,0
+Titisee-Neustadt,Schwärzenbach,farmyard,15,0
+Titisee-Neustadt,Schwärzenbach,farmyard,20,0
+Titisee-Neustadt,Schwärzenbach,farmyard,25,0
+Titisee-Neustadt,Schwärzenbach,farmyard,30,0
+Titisee-Neustadt,Schwärzenbach,farmyard,40,0
+Titisee-Neustadt,Schwärzenbach,farmyard,120,36
+Titisee-Neustadt,Schwärzenbach,industrial,0,0
+Titisee-Neustadt,Schwärzenbach,industrial,5,0
+Titisee-Neustadt,Schwärzenbach,industrial,10,0
+Titisee-Neustadt,Schwärzenbach,industrial,15,0
+Titisee-Neustadt,Schwärzenbach,industrial,20,0
+Titisee-Neustadt,Schwärzenbach,industrial,25,0
+Titisee-Neustadt,Schwärzenbach,industrial,30,0
+Titisee-Neustadt,Schwärzenbach,industrial,40,0
+Titisee-Neustadt,Schwärzenbach,industrial,120,0
+Titisee-Neustadt,Schwärzenbach,residential,0,0
+Titisee-Neustadt,Schwärzenbach,residential,5,0
+Titisee-Neustadt,Schwärzenbach,residential,10,0
+Titisee-Neustadt,Schwärzenbach,residential,15,0
+Titisee-Neustadt,Schwärzenbach,residential,20,0
+Titisee-Neustadt,Schwärzenbach,residential,25,0
+Titisee-Neustadt,Schwärzenbach,residential,30,0
+Titisee-Neustadt,Schwärzenbach,residential,40,0
+Titisee-Neustadt,Schwärzenbach,residential,120,33
+Titisee-Neustadt,Schwärzenbach,unbekannt,0,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,5,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,10,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,15,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,20,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,25,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,30,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,40,0
+Titisee-Neustadt,Schwärzenbach,unbekannt,120,4
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,0,0
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,5,0
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,10,3
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,15,17
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,20,15
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,25,1
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,30,1
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,40,0
+Titisee-Neustadt,Neustadt im Schwarzwald,commercial,120,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,0,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,5,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,10,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,15,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,20,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,25,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,30,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,40,0
+Titisee-Neustadt,Neustadt im Schwarzwald,farmyard,120,9
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,0,0
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,5,0
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,10,0
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,15,9
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,20,2
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,25,4
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,30,2
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,40,47
+Titisee-Neustadt,Neustadt im Schwarzwald,industrial,120,30
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,0,0
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,5,100
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,10,305
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,15,523
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,20,363
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,25,234
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,30,148
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,40,100
+Titisee-Neustadt,Neustadt im Schwarzwald,residential,120,16
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,0,0
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,5,1
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,10,4
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,15,5
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,20,5
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,25,2
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,30,12
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,40,6
+Titisee-Neustadt,Neustadt im Schwarzwald,unbekannt,120,10
+Titisee-Neustadt,Langenordnach,commercial,0,0
+Titisee-Neustadt,Langenordnach,commercial,5,0
+Titisee-Neustadt,Langenordnach,commercial,10,0
+Titisee-Neustadt,Langenordnach,commercial,15,0
+Titisee-Neustadt,Langenordnach,commercial,20,0
+Titisee-Neustadt,Langenordnach,commercial,25,0
+Titisee-Neustadt,Langenordnach,commercial,30,0
+Titisee-Neustadt,Langenordnach,commercial,40,0
+Titisee-Neustadt,Langenordnach,commercial,120,0
+Titisee-Neustadt,Langenordnach,farmyard,0,0
+Titisee-Neustadt,Langenordnach,farmyard,5,0
+Titisee-Neustadt,Langenordnach,farmyard,10,0
+Titisee-Neustadt,Langenordnach,farmyard,15,0
+Titisee-Neustadt,Langenordnach,farmyard,20,0
+Titisee-Neustadt,Langenordnach,farmyard,25,0
+Titisee-Neustadt,Langenordnach,farmyard,30,0
+Titisee-Neustadt,Langenordnach,farmyard,40,4
+Titisee-Neustadt,Langenordnach,farmyard,120,21
+Titisee-Neustadt,Langenordnach,industrial,0,0
+Titisee-Neustadt,Langenordnach,industrial,5,0
+Titisee-Neustadt,Langenordnach,industrial,10,0
+Titisee-Neustadt,Langenordnach,industrial,15,0
+Titisee-Neustadt,Langenordnach,industrial,20,0
+Titisee-Neustadt,Langenordnach,industrial,25,0
+Titisee-Neustadt,Langenordnach,industrial,30,0
+Titisee-Neustadt,Langenordnach,industrial,40,0
+Titisee-Neustadt,Langenordnach,industrial,120,0
+Titisee-Neustadt,Langenordnach,residential,0,0
+Titisee-Neustadt,Langenordnach,residential,5,0
+Titisee-Neustadt,Langenordnach,residential,10,0
+Titisee-Neustadt,Langenordnach,residential,15,0
+Titisee-Neustadt,Langenordnach,residential,20,0
+Titisee-Neustadt,Langenordnach,residential,25,0
+Titisee-Neustadt,Langenordnach,residential,30,0
+Titisee-Neustadt,Langenordnach,residential,40,0
+Titisee-Neustadt,Langenordnach,residential,120,28
+Titisee-Neustadt,Langenordnach,unbekannt,0,0
+Titisee-Neustadt,Langenordnach,unbekannt,5,0
+Titisee-Neustadt,Langenordnach,unbekannt,10,0
+Titisee-Neustadt,Langenordnach,unbekannt,15,0
+Titisee-Neustadt,Langenordnach,unbekannt,20,0
+Titisee-Neustadt,Langenordnach,unbekannt,25,0
+Titisee-Neustadt,Langenordnach,unbekannt,30,0
+Titisee-Neustadt,Langenordnach,unbekannt,40,0
+Titisee-Neustadt,Langenordnach,unbekannt,120,9
+Titisee-Neustadt,Waldau,commercial,0,0
+Titisee-Neustadt,Waldau,commercial,5,0
+Titisee-Neustadt,Waldau,commercial,10,0
+Titisee-Neustadt,Waldau,commercial,15,0
+Titisee-Neustadt,Waldau,commercial,20,0
+Titisee-Neustadt,Waldau,commercial,25,0
+Titisee-Neustadt,Waldau,commercial,30,0
+Titisee-Neustadt,Waldau,commercial,40,0
+Titisee-Neustadt,Waldau,commercial,120,0
+Titisee-Neustadt,Waldau,farmyard,0,0
+Titisee-Neustadt,Waldau,farmyard,5,0
+Titisee-Neustadt,Waldau,farmyard,10,1
+Titisee-Neustadt,Waldau,farmyard,15,3
+Titisee-Neustadt,Waldau,farmyard,20,2
+Titisee-Neustadt,Waldau,farmyard,25,4
+Titisee-Neustadt,Waldau,farmyard,30,0
+Titisee-Neustadt,Waldau,farmyard,40,3
+Titisee-Neustadt,Waldau,farmyard,120,8
+Titisee-Neustadt,Waldau,industrial,0,0
+Titisee-Neustadt,Waldau,industrial,5,0
+Titisee-Neustadt,Waldau,industrial,10,0
+Titisee-Neustadt,Waldau,industrial,15,0
+Titisee-Neustadt,Waldau,industrial,20,0
+Titisee-Neustadt,Waldau,industrial,25,0
+Titisee-Neustadt,Waldau,industrial,30,1
+Titisee-Neustadt,Waldau,industrial,40,0
+Titisee-Neustadt,Waldau,industrial,120,0
+Titisee-Neustadt,Waldau,residential,0,0
+Titisee-Neustadt,Waldau,residential,5,25
+Titisee-Neustadt,Waldau,residential,10,25
+Titisee-Neustadt,Waldau,residential,15,7
+Titisee-Neustadt,Waldau,residential,20,3
+Titisee-Neustadt,Waldau,residential,25,5
+Titisee-Neustadt,Waldau,residential,30,0
+Titisee-Neustadt,Waldau,residential,40,0
+Titisee-Neustadt,Waldau,residential,120,14
+Titisee-Neustadt,Waldau,unbekannt,0,0
+Titisee-Neustadt,Waldau,unbekannt,5,0
+Titisee-Neustadt,Waldau,unbekannt,10,4
+Titisee-Neustadt,Waldau,unbekannt,15,1
+Titisee-Neustadt,Waldau,unbekannt,20,0
+Titisee-Neustadt,Waldau,unbekannt,25,1
+Titisee-Neustadt,Waldau,unbekannt,30,1
+Titisee-Neustadt,Waldau,unbekannt,40,0
+Titisee-Neustadt,Waldau,unbekannt,120,6
+Titisee-Neustadt,Titisee-Neustadt,commercial,0,0
+Titisee-Neustadt,Titisee-Neustadt,commercial,5,1
+Titisee-Neustadt,Titisee-Neustadt,commercial,10,4
+Titisee-Neustadt,Titisee-Neustadt,commercial,15,2
+Titisee-Neustadt,Titisee-Neustadt,commercial,20,10
+Titisee-Neustadt,Titisee-Neustadt,commercial,25,1
+Titisee-Neustadt,Titisee-Neustadt,commercial,30,0
+Titisee-Neustadt,Titisee-Neustadt,commercial,40,0
+Titisee-Neustadt,Titisee-Neustadt,commercial,120,1
+Titisee-Neustadt,Titisee-Neustadt,farmyard,0,0
+Titisee-Neustadt,Titisee-Neustadt,farmyard,5,0
+Titisee-Neustadt,Titisee-Neustadt,farmyard,10,0
+Titisee-Neustadt,Titisee-Neustadt,farmyard,15,0
+Titisee-Neustadt,Titisee-Neustadt,farmyard,20,1
+Titisee-Neustadt,Titisee-Neustadt,farmyard,25,6
+Titisee-Neustadt,Titisee-Neustadt,farmyard,30,2
+Titisee-Neustadt,Titisee-Neustadt,farmyard,40,7
+Titisee-Neustadt,Titisee-Neustadt,farmyard,120,97
+Titisee-Neustadt,Titisee-Neustadt,industrial,0,0
+Titisee-Neustadt,Titisee-Neustadt,industrial,5,0
+Titisee-Neustadt,Titisee-Neustadt,industrial,10,0
+Titisee-Neustadt,Titisee-Neustadt,industrial,15,0
+Titisee-Neustadt,Titisee-Neustadt,industrial,20,0
+Titisee-Neustadt,Titisee-Neustadt,industrial,25,0
+Titisee-Neustadt,Titisee-Neustadt,industrial,30,2
+Titisee-Neustadt,Titisee-Neustadt,industrial,40,1
+Titisee-Neustadt,Titisee-Neustadt,industrial,120,23
+Titisee-Neustadt,Titisee-Neustadt,residential,0,0
+Titisee-Neustadt,Titisee-Neustadt,residential,5,23
+Titisee-Neustadt,Titisee-Neustadt,residential,10,68
+Titisee-Neustadt,Titisee-Neustadt,residential,15,52
+Titisee-Neustadt,Titisee-Neustadt,residential,20,75
+Titisee-Neustadt,Titisee-Neustadt,residential,25,63
+Titisee-Neustadt,Titisee-Neustadt,residential,30,56
+Titisee-Neustadt,Titisee-Neustadt,residential,40,22
+Titisee-Neustadt,Titisee-Neustadt,residential,120,59
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,0,0
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,5,0
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,10,4
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,15,42
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,20,25
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,25,5
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,30,4
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,40,0
+Titisee-Neustadt,Titisee-Neustadt,unbekannt,120,19

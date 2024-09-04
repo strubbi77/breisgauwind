@@ -1,406 +1,406 @@
-Name,Landuse,WegeDauer,Anzahl
-Feldberg (Müllheim),commercial,0,0
-Feldberg (Müllheim),commercial,5,0
-Feldberg (Müllheim),commercial,10,0
-Feldberg (Müllheim),commercial,15,0
-Feldberg (Müllheim),commercial,20,0
-Feldberg (Müllheim),commercial,25,0
-Feldberg (Müllheim),commercial,30,0
-Feldberg (Müllheim),commercial,40,0
-Feldberg (Müllheim),commercial,120,0
-Feldberg (Müllheim),farmyard,0,0
-Feldberg (Müllheim),farmyard,5,0
-Feldberg (Müllheim),farmyard,10,0
-Feldberg (Müllheim),farmyard,15,0
-Feldberg (Müllheim),farmyard,20,0
-Feldberg (Müllheim),farmyard,25,0
-Feldberg (Müllheim),farmyard,30,0
-Feldberg (Müllheim),farmyard,40,0
-Feldberg (Müllheim),farmyard,120,1
-Feldberg (Müllheim),industrial,0,0
-Feldberg (Müllheim),industrial,5,0
-Feldberg (Müllheim),industrial,10,0
-Feldberg (Müllheim),industrial,15,0
-Feldberg (Müllheim),industrial,20,0
-Feldberg (Müllheim),industrial,25,0
-Feldberg (Müllheim),industrial,30,0
-Feldberg (Müllheim),industrial,40,0
-Feldberg (Müllheim),industrial,120,0
-Feldberg (Müllheim),residential,0,0
-Feldberg (Müllheim),residential,5,0
-Feldberg (Müllheim),residential,10,0
-Feldberg (Müllheim),residential,15,0
-Feldberg (Müllheim),residential,20,0
-Feldberg (Müllheim),residential,25,0
-Feldberg (Müllheim),residential,30,0
-Feldberg (Müllheim),residential,40,0
-Feldberg (Müllheim),residential,120,243
-Feldberg (Müllheim),unbekannt,0,0
-Feldberg (Müllheim),unbekannt,5,0
-Feldberg (Müllheim),unbekannt,10,0
-Feldberg (Müllheim),unbekannt,15,0
-Feldberg (Müllheim),unbekannt,20,0
-Feldberg (Müllheim),unbekannt,25,0
-Feldberg (Müllheim),unbekannt,30,0
-Feldberg (Müllheim),unbekannt,40,0
-Feldberg (Müllheim),unbekannt,120,2
-Niederweiler,commercial,0,0
-Niederweiler,commercial,5,0
-Niederweiler,commercial,10,0
-Niederweiler,commercial,15,0
-Niederweiler,commercial,20,0
-Niederweiler,commercial,25,0
-Niederweiler,commercial,30,1
-Niederweiler,commercial,40,1
-Niederweiler,commercial,120,0
-Niederweiler,farmyard,0,0
-Niederweiler,farmyard,5,0
-Niederweiler,farmyard,10,0
-Niederweiler,farmyard,15,0
-Niederweiler,farmyard,20,0
-Niederweiler,farmyard,25,0
-Niederweiler,farmyard,30,0
-Niederweiler,farmyard,40,0
-Niederweiler,farmyard,120,0
-Niederweiler,industrial,0,0
-Niederweiler,industrial,5,0
-Niederweiler,industrial,10,0
-Niederweiler,industrial,15,0
-Niederweiler,industrial,20,0
-Niederweiler,industrial,25,0
-Niederweiler,industrial,30,3
-Niederweiler,industrial,40,0
-Niederweiler,industrial,120,0
-Niederweiler,residential,0,0
-Niederweiler,residential,5,0
-Niederweiler,residential,10,0
-Niederweiler,residential,15,2
-Niederweiler,residential,20,6
-Niederweiler,residential,25,0
-Niederweiler,residential,30,0
-Niederweiler,residential,40,119
-Niederweiler,residential,120,268
-Niederweiler,unbekannt,0,0
-Niederweiler,unbekannt,5,0
-Niederweiler,unbekannt,10,0
-Niederweiler,unbekannt,15,0
-Niederweiler,unbekannt,20,0
-Niederweiler,unbekannt,25,0
-Niederweiler,unbekannt,30,0
-Niederweiler,unbekannt,40,0
-Niederweiler,unbekannt,120,2
-Britzingen,commercial,0,0
-Britzingen,commercial,5,0
-Britzingen,commercial,10,0
-Britzingen,commercial,15,0
-Britzingen,commercial,20,0
-Britzingen,commercial,25,0
-Britzingen,commercial,30,0
-Britzingen,commercial,40,0
-Britzingen,commercial,120,0
-Britzingen,farmyard,0,0
-Britzingen,farmyard,5,0
-Britzingen,farmyard,10,0
-Britzingen,farmyard,15,0
-Britzingen,farmyard,20,0
-Britzingen,farmyard,25,0
-Britzingen,farmyard,30,0
-Britzingen,farmyard,40,0
-Britzingen,farmyard,120,0
-Britzingen,industrial,0,0
-Britzingen,industrial,5,0
-Britzingen,industrial,10,0
-Britzingen,industrial,15,4
-Britzingen,industrial,20,8
-Britzingen,industrial,25,0
-Britzingen,industrial,30,0
-Britzingen,industrial,40,1
-Britzingen,industrial,120,0
-Britzingen,residential,0,0
-Britzingen,residential,5,83
-Britzingen,residential,10,165
-Britzingen,residential,15,61
-Britzingen,residential,20,10
-Britzingen,residential,25,14
-Britzingen,residential,30,26
-Britzingen,residential,40,3
-Britzingen,residential,120,0
-Britzingen,unbekannt,0,0
-Britzingen,unbekannt,5,0
-Britzingen,unbekannt,10,0
-Britzingen,unbekannt,15,0
-Britzingen,unbekannt,20,0
-Britzingen,unbekannt,25,0
-Britzingen,unbekannt,30,0
-Britzingen,unbekannt,40,0
-Britzingen,unbekannt,120,0
-Müllheim,commercial,0,0
-Müllheim,commercial,5,0
-Müllheim,commercial,10,0
-Müllheim,commercial,15,0
-Müllheim,commercial,20,25
-Müllheim,commercial,25,27
-Müllheim,commercial,30,45
-Müllheim,commercial,40,42
-Müllheim,commercial,120,0
-Müllheim,farmyard,0,0
-Müllheim,farmyard,5,0
-Müllheim,farmyard,10,0
-Müllheim,farmyard,15,0
-Müllheim,farmyard,20,0
-Müllheim,farmyard,25,0
-Müllheim,farmyard,30,0
-Müllheim,farmyard,40,0
-Müllheim,farmyard,120,7
-Müllheim,industrial,0,0
-Müllheim,industrial,5,0
-Müllheim,industrial,10,0
-Müllheim,industrial,15,0
-Müllheim,industrial,20,0
-Müllheim,industrial,25,0
-Müllheim,industrial,30,0
-Müllheim,industrial,40,9
-Müllheim,industrial,120,35
-Müllheim,residential,0,0
-Müllheim,residential,5,133
-Müllheim,residential,10,489
-Müllheim,residential,15,630
-Müllheim,residential,20,541
-Müllheim,residential,25,441
-Müllheim,residential,30,212
-Müllheim,residential,40,110
-Müllheim,residential,120,1
-Müllheim,unbekannt,0,0
-Müllheim,unbekannt,5,0
-Müllheim,unbekannt,10,0
-Müllheim,unbekannt,15,1
-Müllheim,unbekannt,20,2
-Müllheim,unbekannt,25,0
-Müllheim,unbekannt,30,0
-Müllheim,unbekannt,40,3
-Müllheim,unbekannt,120,3
-Hügelheim,commercial,0,0
-Hügelheim,commercial,5,0
-Hügelheim,commercial,10,0
-Hügelheim,commercial,15,0
-Hügelheim,commercial,20,0
-Hügelheim,commercial,25,0
-Hügelheim,commercial,30,0
-Hügelheim,commercial,40,0
-Hügelheim,commercial,120,0
-Hügelheim,farmyard,0,0
-Hügelheim,farmyard,5,0
-Hügelheim,farmyard,10,0
-Hügelheim,farmyard,15,0
-Hügelheim,farmyard,20,0
-Hügelheim,farmyard,25,0
-Hügelheim,farmyard,30,0
-Hügelheim,farmyard,40,0
-Hügelheim,farmyard,120,6
-Hügelheim,industrial,0,0
-Hügelheim,industrial,5,0
-Hügelheim,industrial,10,0
-Hügelheim,industrial,15,0
-Hügelheim,industrial,20,0
-Hügelheim,industrial,25,0
-Hügelheim,industrial,30,0
-Hügelheim,industrial,40,0
-Hügelheim,industrial,120,3
-Hügelheim,residential,0,0
-Hügelheim,residential,5,0
-Hügelheim,residential,10,0
-Hügelheim,residential,15,0
-Hügelheim,residential,20,0
-Hügelheim,residential,25,0
-Hügelheim,residential,30,0
-Hügelheim,residential,40,0
-Hügelheim,residential,120,359
-Hügelheim,unbekannt,0,0
-Hügelheim,unbekannt,5,0
-Hügelheim,unbekannt,10,0
-Hügelheim,unbekannt,15,0
-Hügelheim,unbekannt,20,0
-Hügelheim,unbekannt,25,0
-Hügelheim,unbekannt,30,0
-Hügelheim,unbekannt,40,0
-Hügelheim,unbekannt,120,2
-Dattingen,commercial,0,0
-Dattingen,commercial,5,0
-Dattingen,commercial,10,0
-Dattingen,commercial,15,0
-Dattingen,commercial,20,0
-Dattingen,commercial,25,0
-Dattingen,commercial,30,0
-Dattingen,commercial,40,0
-Dattingen,commercial,120,0
-Dattingen,farmyard,0,0
-Dattingen,farmyard,5,0
-Dattingen,farmyard,10,0
-Dattingen,farmyard,15,0
-Dattingen,farmyard,20,0
-Dattingen,farmyard,25,0
-Dattingen,farmyard,30,0
-Dattingen,farmyard,40,0
-Dattingen,farmyard,120,0
-Dattingen,industrial,0,0
-Dattingen,industrial,5,0
-Dattingen,industrial,10,0
-Dattingen,industrial,15,0
-Dattingen,industrial,20,0
-Dattingen,industrial,25,0
-Dattingen,industrial,30,0
-Dattingen,industrial,40,0
-Dattingen,industrial,120,0
-Dattingen,residential,0,0
-Dattingen,residential,5,0
-Dattingen,residential,10,0
-Dattingen,residential,15,0
-Dattingen,residential,20,0
-Dattingen,residential,25,0
-Dattingen,residential,30,35
-Dattingen,residential,40,97
-Dattingen,residential,120,2
-Dattingen,unbekannt,0,0
-Dattingen,unbekannt,5,0
-Dattingen,unbekannt,10,0
-Dattingen,unbekannt,15,0
-Dattingen,unbekannt,20,0
-Dattingen,unbekannt,25,0
-Dattingen,unbekannt,30,0
-Dattingen,unbekannt,40,0
-Dattingen,unbekannt,120,0
-Zunzingen,commercial,0,0
-Zunzingen,commercial,5,0
-Zunzingen,commercial,10,0
-Zunzingen,commercial,15,0
-Zunzingen,commercial,20,0
-Zunzingen,commercial,25,0
-Zunzingen,commercial,30,0
-Zunzingen,commercial,40,0
-Zunzingen,commercial,120,0
-Zunzingen,farmyard,0,0
-Zunzingen,farmyard,5,0
-Zunzingen,farmyard,10,0
-Zunzingen,farmyard,15,0
-Zunzingen,farmyard,20,0
-Zunzingen,farmyard,25,0
-Zunzingen,farmyard,30,0
-Zunzingen,farmyard,40,0
-Zunzingen,farmyard,120,0
-Zunzingen,industrial,0,0
-Zunzingen,industrial,5,0
-Zunzingen,industrial,10,0
-Zunzingen,industrial,15,0
-Zunzingen,industrial,20,0
-Zunzingen,industrial,25,0
-Zunzingen,industrial,30,0
-Zunzingen,industrial,40,0
-Zunzingen,industrial,120,0
-Zunzingen,residential,0,0
-Zunzingen,residential,5,0
-Zunzingen,residential,10,0
-Zunzingen,residential,15,0
-Zunzingen,residential,20,0
-Zunzingen,residential,25,0
-Zunzingen,residential,30,0
-Zunzingen,residential,40,24
-Zunzingen,residential,120,71
-Zunzingen,unbekannt,0,0
-Zunzingen,unbekannt,5,0
-Zunzingen,unbekannt,10,0
-Zunzingen,unbekannt,15,0
-Zunzingen,unbekannt,20,0
-Zunzingen,unbekannt,25,0
-Zunzingen,unbekannt,30,0
-Zunzingen,unbekannt,40,0
-Zunzingen,unbekannt,120,2
-Vögisheim,commercial,0,0
-Vögisheim,commercial,5,0
-Vögisheim,commercial,10,0
-Vögisheim,commercial,15,0
-Vögisheim,commercial,20,0
-Vögisheim,commercial,25,0
-Vögisheim,commercial,30,0
-Vögisheim,commercial,40,0
-Vögisheim,commercial,120,0
-Vögisheim,farmyard,0,0
-Vögisheim,farmyard,5,0
-Vögisheim,farmyard,10,0
-Vögisheim,farmyard,15,0
-Vögisheim,farmyard,20,0
-Vögisheim,farmyard,25,0
-Vögisheim,farmyard,30,0
-Vögisheim,farmyard,40,0
-Vögisheim,farmyard,120,4
-Vögisheim,industrial,0,0
-Vögisheim,industrial,5,0
-Vögisheim,industrial,10,0
-Vögisheim,industrial,15,0
-Vögisheim,industrial,20,0
-Vögisheim,industrial,25,0
-Vögisheim,industrial,30,0
-Vögisheim,industrial,40,0
-Vögisheim,industrial,120,0
-Vögisheim,residential,0,0
-Vögisheim,residential,5,0
-Vögisheim,residential,10,0
-Vögisheim,residential,15,0
-Vögisheim,residential,20,0
-Vögisheim,residential,25,0
-Vögisheim,residential,30,0
-Vögisheim,residential,40,81
-Vögisheim,residential,120,239
-Vögisheim,unbekannt,0,0
-Vögisheim,unbekannt,5,0
-Vögisheim,unbekannt,10,0
-Vögisheim,unbekannt,15,0
-Vögisheim,unbekannt,20,0
-Vögisheim,unbekannt,25,0
-Vögisheim,unbekannt,30,0
-Vögisheim,unbekannt,40,3
-Vögisheim,unbekannt,120,1
-Müllheim im Markgräflerland,commercial,0,0
-Müllheim im Markgräflerland,commercial,5,0
-Müllheim im Markgräflerland,commercial,10,0
-Müllheim im Markgräflerland,commercial,15,0
-Müllheim im Markgräflerland,commercial,20,0
-Müllheim im Markgräflerland,commercial,25,0
-Müllheim im Markgräflerland,commercial,30,0
-Müllheim im Markgräflerland,commercial,40,0
-Müllheim im Markgräflerland,commercial,120,0
-Müllheim im Markgräflerland,farmyard,0,0
-Müllheim im Markgräflerland,farmyard,5,0
-Müllheim im Markgräflerland,farmyard,10,0
-Müllheim im Markgräflerland,farmyard,15,0
-Müllheim im Markgräflerland,farmyard,20,0
-Müllheim im Markgräflerland,farmyard,25,0
-Müllheim im Markgräflerland,farmyard,30,0
-Müllheim im Markgräflerland,farmyard,40,0
-Müllheim im Markgräflerland,farmyard,120,0
-Müllheim im Markgräflerland,industrial,0,0
-Müllheim im Markgräflerland,industrial,5,0
-Müllheim im Markgräflerland,industrial,10,0
-Müllheim im Markgräflerland,industrial,15,0
-Müllheim im Markgräflerland,industrial,20,0
-Müllheim im Markgräflerland,industrial,25,0
-Müllheim im Markgräflerland,industrial,30,0
-Müllheim im Markgräflerland,industrial,40,0
-Müllheim im Markgräflerland,industrial,120,0
-Müllheim im Markgräflerland,residential,0,0
-Müllheim im Markgräflerland,residential,5,0
-Müllheim im Markgräflerland,residential,10,0
-Müllheim im Markgräflerland,residential,15,0
-Müllheim im Markgräflerland,residential,20,0
-Müllheim im Markgräflerland,residential,25,0
-Müllheim im Markgräflerland,residential,30,0
-Müllheim im Markgräflerland,residential,40,0
-Müllheim im Markgräflerland,residential,120,0
-Müllheim im Markgräflerland,unbekannt,0,0
-Müllheim im Markgräflerland,unbekannt,5,0
-Müllheim im Markgräflerland,unbekannt,10,0
-Müllheim im Markgräflerland,unbekannt,15,0
-Müllheim im Markgräflerland,unbekannt,20,0
-Müllheim im Markgräflerland,unbekannt,25,0
-Müllheim im Markgräflerland,unbekannt,30,0
-Müllheim im Markgräflerland,unbekannt,40,0
-Müllheim im Markgräflerland,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,0,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,5,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,10,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,15,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,20,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,25,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,30,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,40,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),commercial,120,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,0,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,5,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,10,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,15,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,20,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,25,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,30,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,40,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),farmyard,120,1
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,0,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,5,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,10,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,15,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,20,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,25,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,30,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,40,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),industrial,120,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,0,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,5,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,10,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,15,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,20,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,25,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,30,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,40,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),residential,120,243
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,0,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,5,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,10,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,15,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,20,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,25,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,30,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,40,0
+Müllheim im Markgräflerland,Feldberg (Müllheim),unbekannt,120,2
+Müllheim im Markgräflerland,Niederweiler,commercial,0,0
+Müllheim im Markgräflerland,Niederweiler,commercial,5,0
+Müllheim im Markgräflerland,Niederweiler,commercial,10,0
+Müllheim im Markgräflerland,Niederweiler,commercial,15,0
+Müllheim im Markgräflerland,Niederweiler,commercial,20,0
+Müllheim im Markgräflerland,Niederweiler,commercial,25,0
+Müllheim im Markgräflerland,Niederweiler,commercial,30,1
+Müllheim im Markgräflerland,Niederweiler,commercial,40,1
+Müllheim im Markgräflerland,Niederweiler,commercial,120,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,0,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,5,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,10,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,15,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,20,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,25,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,30,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,40,0
+Müllheim im Markgräflerland,Niederweiler,farmyard,120,0
+Müllheim im Markgräflerland,Niederweiler,industrial,0,0
+Müllheim im Markgräflerland,Niederweiler,industrial,5,0
+Müllheim im Markgräflerland,Niederweiler,industrial,10,0
+Müllheim im Markgräflerland,Niederweiler,industrial,15,0
+Müllheim im Markgräflerland,Niederweiler,industrial,20,0
+Müllheim im Markgräflerland,Niederweiler,industrial,25,0
+Müllheim im Markgräflerland,Niederweiler,industrial,30,3
+Müllheim im Markgräflerland,Niederweiler,industrial,40,0
+Müllheim im Markgräflerland,Niederweiler,industrial,120,0
+Müllheim im Markgräflerland,Niederweiler,residential,0,0
+Müllheim im Markgräflerland,Niederweiler,residential,5,0
+Müllheim im Markgräflerland,Niederweiler,residential,10,0
+Müllheim im Markgräflerland,Niederweiler,residential,15,0
+Müllheim im Markgräflerland,Niederweiler,residential,20,8
+Müllheim im Markgräflerland,Niederweiler,residential,25,0
+Müllheim im Markgräflerland,Niederweiler,residential,30,0
+Müllheim im Markgräflerland,Niederweiler,residential,40,126
+Müllheim im Markgräflerland,Niederweiler,residential,120,261
+Müllheim im Markgräflerland,Niederweiler,unbekannt,0,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,5,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,10,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,15,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,20,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,25,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,30,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,40,0
+Müllheim im Markgräflerland,Niederweiler,unbekannt,120,2
+Müllheim im Markgräflerland,Britzingen,commercial,0,0
+Müllheim im Markgräflerland,Britzingen,commercial,5,3
+Müllheim im Markgräflerland,Britzingen,commercial,10,0
+Müllheim im Markgräflerland,Britzingen,commercial,15,0
+Müllheim im Markgräflerland,Britzingen,commercial,20,0
+Müllheim im Markgräflerland,Britzingen,commercial,25,0
+Müllheim im Markgräflerland,Britzingen,commercial,30,0
+Müllheim im Markgräflerland,Britzingen,commercial,40,0
+Müllheim im Markgräflerland,Britzingen,commercial,120,0
+Müllheim im Markgräflerland,Britzingen,farmyard,0,0
+Müllheim im Markgräflerland,Britzingen,farmyard,5,0
+Müllheim im Markgräflerland,Britzingen,farmyard,10,0
+Müllheim im Markgräflerland,Britzingen,farmyard,15,0
+Müllheim im Markgräflerland,Britzingen,farmyard,20,0
+Müllheim im Markgräflerland,Britzingen,farmyard,25,0
+Müllheim im Markgräflerland,Britzingen,farmyard,30,0
+Müllheim im Markgräflerland,Britzingen,farmyard,40,0
+Müllheim im Markgräflerland,Britzingen,farmyard,120,0
+Müllheim im Markgräflerland,Britzingen,industrial,0,0
+Müllheim im Markgräflerland,Britzingen,industrial,5,0
+Müllheim im Markgräflerland,Britzingen,industrial,10,0
+Müllheim im Markgräflerland,Britzingen,industrial,15,4
+Müllheim im Markgräflerland,Britzingen,industrial,20,8
+Müllheim im Markgräflerland,Britzingen,industrial,25,0
+Müllheim im Markgräflerland,Britzingen,industrial,30,0
+Müllheim im Markgräflerland,Britzingen,industrial,40,1
+Müllheim im Markgräflerland,Britzingen,industrial,120,0
+Müllheim im Markgräflerland,Britzingen,residential,0,0
+Müllheim im Markgräflerland,Britzingen,residential,5,75
+Müllheim im Markgräflerland,Britzingen,residential,10,171
+Müllheim im Markgräflerland,Britzingen,residential,15,60
+Müllheim im Markgräflerland,Britzingen,residential,20,3
+Müllheim im Markgräflerland,Britzingen,residential,25,21
+Müllheim im Markgräflerland,Britzingen,residential,30,26
+Müllheim im Markgräflerland,Britzingen,residential,40,3
+Müllheim im Markgräflerland,Britzingen,residential,120,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,0,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,5,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,10,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,15,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,20,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,25,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,30,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,40,0
+Müllheim im Markgräflerland,Britzingen,unbekannt,120,0
+Müllheim im Markgräflerland,Müllheim,commercial,0,0
+Müllheim im Markgräflerland,Müllheim,commercial,5,0
+Müllheim im Markgräflerland,Müllheim,commercial,10,0
+Müllheim im Markgräflerland,Müllheim,commercial,15,0
+Müllheim im Markgräflerland,Müllheim,commercial,20,20
+Müllheim im Markgräflerland,Müllheim,commercial,25,34
+Müllheim im Markgräflerland,Müllheim,commercial,30,40
+Müllheim im Markgräflerland,Müllheim,commercial,40,45
+Müllheim im Markgräflerland,Müllheim,commercial,120,0
+Müllheim im Markgräflerland,Müllheim,farmyard,0,0
+Müllheim im Markgräflerland,Müllheim,farmyard,5,0
+Müllheim im Markgräflerland,Müllheim,farmyard,10,0
+Müllheim im Markgräflerland,Müllheim,farmyard,15,0
+Müllheim im Markgräflerland,Müllheim,farmyard,20,0
+Müllheim im Markgräflerland,Müllheim,farmyard,25,0
+Müllheim im Markgräflerland,Müllheim,farmyard,30,0
+Müllheim im Markgräflerland,Müllheim,farmyard,40,0
+Müllheim im Markgräflerland,Müllheim,farmyard,120,7
+Müllheim im Markgräflerland,Müllheim,industrial,0,0
+Müllheim im Markgräflerland,Müllheim,industrial,5,0
+Müllheim im Markgräflerland,Müllheim,industrial,10,0
+Müllheim im Markgräflerland,Müllheim,industrial,15,0
+Müllheim im Markgräflerland,Müllheim,industrial,20,0
+Müllheim im Markgräflerland,Müllheim,industrial,25,0
+Müllheim im Markgräflerland,Müllheim,industrial,30,0
+Müllheim im Markgräflerland,Müllheim,industrial,40,7
+Müllheim im Markgräflerland,Müllheim,industrial,120,37
+Müllheim im Markgräflerland,Müllheim,residential,0,0
+Müllheim im Markgräflerland,Müllheim,residential,5,122
+Müllheim im Markgräflerland,Müllheim,residential,10,468
+Müllheim im Markgräflerland,Müllheim,residential,15,624
+Müllheim im Markgräflerland,Müllheim,residential,20,521
+Müllheim im Markgräflerland,Müllheim,residential,25,416
+Müllheim im Markgräflerland,Müllheim,residential,30,246
+Müllheim im Markgräflerland,Müllheim,residential,40,93
+Müllheim im Markgräflerland,Müllheim,residential,120,0
+Müllheim im Markgräflerland,Müllheim,unbekannt,0,0
+Müllheim im Markgräflerland,Müllheim,unbekannt,5,0
+Müllheim im Markgräflerland,Müllheim,unbekannt,10,0
+Müllheim im Markgräflerland,Müllheim,unbekannt,15,46
+Müllheim im Markgräflerland,Müllheim,unbekannt,20,24
+Müllheim im Markgräflerland,Müllheim,unbekannt,25,0
+Müllheim im Markgräflerland,Müllheim,unbekannt,30,0
+Müllheim im Markgräflerland,Müllheim,unbekannt,40,4
+Müllheim im Markgräflerland,Müllheim,unbekannt,120,2
+Müllheim im Markgräflerland,Hügelheim,commercial,0,0
+Müllheim im Markgräflerland,Hügelheim,commercial,5,0
+Müllheim im Markgräflerland,Hügelheim,commercial,10,0
+Müllheim im Markgräflerland,Hügelheim,commercial,15,0
+Müllheim im Markgräflerland,Hügelheim,commercial,20,0
+Müllheim im Markgräflerland,Hügelheim,commercial,25,0
+Müllheim im Markgräflerland,Hügelheim,commercial,30,0
+Müllheim im Markgräflerland,Hügelheim,commercial,40,0
+Müllheim im Markgräflerland,Hügelheim,commercial,120,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,0,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,5,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,10,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,15,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,20,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,25,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,30,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,40,0
+Müllheim im Markgräflerland,Hügelheim,farmyard,120,6
+Müllheim im Markgräflerland,Hügelheim,industrial,0,0
+Müllheim im Markgräflerland,Hügelheim,industrial,5,0
+Müllheim im Markgräflerland,Hügelheim,industrial,10,0
+Müllheim im Markgräflerland,Hügelheim,industrial,15,0
+Müllheim im Markgräflerland,Hügelheim,industrial,20,0
+Müllheim im Markgräflerland,Hügelheim,industrial,25,0
+Müllheim im Markgräflerland,Hügelheim,industrial,30,0
+Müllheim im Markgräflerland,Hügelheim,industrial,40,0
+Müllheim im Markgräflerland,Hügelheim,industrial,120,3
+Müllheim im Markgräflerland,Hügelheim,residential,0,0
+Müllheim im Markgräflerland,Hügelheim,residential,5,0
+Müllheim im Markgräflerland,Hügelheim,residential,10,0
+Müllheim im Markgräflerland,Hügelheim,residential,15,0
+Müllheim im Markgräflerland,Hügelheim,residential,20,0
+Müllheim im Markgräflerland,Hügelheim,residential,25,0
+Müllheim im Markgräflerland,Hügelheim,residential,30,0
+Müllheim im Markgräflerland,Hügelheim,residential,40,0
+Müllheim im Markgräflerland,Hügelheim,residential,120,359
+Müllheim im Markgräflerland,Hügelheim,unbekannt,0,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,5,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,10,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,15,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,20,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,25,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,30,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,40,0
+Müllheim im Markgräflerland,Hügelheim,unbekannt,120,2
+Müllheim im Markgräflerland,Dattingen,commercial,0,0
+Müllheim im Markgräflerland,Dattingen,commercial,5,0
+Müllheim im Markgräflerland,Dattingen,commercial,10,0
+Müllheim im Markgräflerland,Dattingen,commercial,15,0
+Müllheim im Markgräflerland,Dattingen,commercial,20,0
+Müllheim im Markgräflerland,Dattingen,commercial,25,0
+Müllheim im Markgräflerland,Dattingen,commercial,30,0
+Müllheim im Markgräflerland,Dattingen,commercial,40,0
+Müllheim im Markgräflerland,Dattingen,commercial,120,0
+Müllheim im Markgräflerland,Dattingen,farmyard,0,0
+Müllheim im Markgräflerland,Dattingen,farmyard,5,0
+Müllheim im Markgräflerland,Dattingen,farmyard,10,0
+Müllheim im Markgräflerland,Dattingen,farmyard,15,0
+Müllheim im Markgräflerland,Dattingen,farmyard,20,0
+Müllheim im Markgräflerland,Dattingen,farmyard,25,0
+Müllheim im Markgräflerland,Dattingen,farmyard,30,0
+Müllheim im Markgräflerland,Dattingen,farmyard,40,0
+Müllheim im Markgräflerland,Dattingen,farmyard,120,0
+Müllheim im Markgräflerland,Dattingen,industrial,0,0
+Müllheim im Markgräflerland,Dattingen,industrial,5,0
+Müllheim im Markgräflerland,Dattingen,industrial,10,0
+Müllheim im Markgräflerland,Dattingen,industrial,15,0
+Müllheim im Markgräflerland,Dattingen,industrial,20,0
+Müllheim im Markgräflerland,Dattingen,industrial,25,0
+Müllheim im Markgräflerland,Dattingen,industrial,30,0
+Müllheim im Markgräflerland,Dattingen,industrial,40,0
+Müllheim im Markgräflerland,Dattingen,industrial,120,0
+Müllheim im Markgräflerland,Dattingen,residential,0,0
+Müllheim im Markgräflerland,Dattingen,residential,5,0
+Müllheim im Markgräflerland,Dattingen,residential,10,0
+Müllheim im Markgräflerland,Dattingen,residential,15,0
+Müllheim im Markgräflerland,Dattingen,residential,20,0
+Müllheim im Markgräflerland,Dattingen,residential,25,0
+Müllheim im Markgräflerland,Dattingen,residential,30,34
+Müllheim im Markgräflerland,Dattingen,residential,40,99
+Müllheim im Markgräflerland,Dattingen,residential,120,1
+Müllheim im Markgräflerland,Dattingen,unbekannt,0,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,5,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,10,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,15,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,20,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,25,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,30,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,40,0
+Müllheim im Markgräflerland,Dattingen,unbekannt,120,0
+Müllheim im Markgräflerland,Zunzingen,commercial,0,0
+Müllheim im Markgräflerland,Zunzingen,commercial,5,0
+Müllheim im Markgräflerland,Zunzingen,commercial,10,0
+Müllheim im Markgräflerland,Zunzingen,commercial,15,0
+Müllheim im Markgräflerland,Zunzingen,commercial,20,0
+Müllheim im Markgräflerland,Zunzingen,commercial,25,0
+Müllheim im Markgräflerland,Zunzingen,commercial,30,0
+Müllheim im Markgräflerland,Zunzingen,commercial,40,0
+Müllheim im Markgräflerland,Zunzingen,commercial,120,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,0,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,5,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,10,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,15,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,20,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,25,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,30,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,40,0
+Müllheim im Markgräflerland,Zunzingen,farmyard,120,0
+Müllheim im Markgräflerland,Zunzingen,industrial,0,0
+Müllheim im Markgräflerland,Zunzingen,industrial,5,0
+Müllheim im Markgräflerland,Zunzingen,industrial,10,0
+Müllheim im Markgräflerland,Zunzingen,industrial,15,0
+Müllheim im Markgräflerland,Zunzingen,industrial,20,0
+Müllheim im Markgräflerland,Zunzingen,industrial,25,0
+Müllheim im Markgräflerland,Zunzingen,industrial,30,0
+Müllheim im Markgräflerland,Zunzingen,industrial,40,0
+Müllheim im Markgräflerland,Zunzingen,industrial,120,0
+Müllheim im Markgräflerland,Zunzingen,residential,0,0
+Müllheim im Markgräflerland,Zunzingen,residential,5,0
+Müllheim im Markgräflerland,Zunzingen,residential,10,0
+Müllheim im Markgräflerland,Zunzingen,residential,15,0
+Müllheim im Markgräflerland,Zunzingen,residential,20,0
+Müllheim im Markgräflerland,Zunzingen,residential,25,0
+Müllheim im Markgräflerland,Zunzingen,residential,30,0
+Müllheim im Markgräflerland,Zunzingen,residential,40,27
+Müllheim im Markgräflerland,Zunzingen,residential,120,68
+Müllheim im Markgräflerland,Zunzingen,unbekannt,0,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,5,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,10,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,15,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,20,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,25,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,30,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,40,0
+Müllheim im Markgräflerland,Zunzingen,unbekannt,120,2
+Müllheim im Markgräflerland,Vögisheim,commercial,0,0
+Müllheim im Markgräflerland,Vögisheim,commercial,5,0
+Müllheim im Markgräflerland,Vögisheim,commercial,10,0
+Müllheim im Markgräflerland,Vögisheim,commercial,15,0
+Müllheim im Markgräflerland,Vögisheim,commercial,20,0
+Müllheim im Markgräflerland,Vögisheim,commercial,25,0
+Müllheim im Markgräflerland,Vögisheim,commercial,30,0
+Müllheim im Markgräflerland,Vögisheim,commercial,40,0
+Müllheim im Markgräflerland,Vögisheim,commercial,120,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,0,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,5,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,10,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,15,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,20,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,25,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,30,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,40,0
+Müllheim im Markgräflerland,Vögisheim,farmyard,120,4
+Müllheim im Markgräflerland,Vögisheim,industrial,0,0
+Müllheim im Markgräflerland,Vögisheim,industrial,5,0
+Müllheim im Markgräflerland,Vögisheim,industrial,10,0
+Müllheim im Markgräflerland,Vögisheim,industrial,15,0
+Müllheim im Markgräflerland,Vögisheim,industrial,20,0
+Müllheim im Markgräflerland,Vögisheim,industrial,25,0
+Müllheim im Markgräflerland,Vögisheim,industrial,30,0
+Müllheim im Markgräflerland,Vögisheim,industrial,40,0
+Müllheim im Markgräflerland,Vögisheim,industrial,120,0
+Müllheim im Markgräflerland,Vögisheim,residential,0,0
+Müllheim im Markgräflerland,Vögisheim,residential,5,0
+Müllheim im Markgräflerland,Vögisheim,residential,10,0
+Müllheim im Markgräflerland,Vögisheim,residential,15,0
+Müllheim im Markgräflerland,Vögisheim,residential,20,0
+Müllheim im Markgräflerland,Vögisheim,residential,25,0
+Müllheim im Markgräflerland,Vögisheim,residential,30,0
+Müllheim im Markgräflerland,Vögisheim,residential,40,78
+Müllheim im Markgräflerland,Vögisheim,residential,120,242
+Müllheim im Markgräflerland,Vögisheim,unbekannt,0,0
+Müllheim im Markgräflerland,Vögisheim,unbekannt,5,0
+Müllheim im Markgräflerland,Vögisheim,unbekannt,10,0
+Müllheim im Markgräflerland,Vögisheim,unbekannt,15,0
+Müllheim im Markgräflerland,Vögisheim,unbekannt,20,0
+Müllheim im Markgräflerland,Vögisheim,unbekannt,25,0
+Müllheim im Markgräflerland,Vögisheim,unbekannt,30,0
+Müllheim im Markgräflerland,Vögisheim,unbekannt,40,3
+Müllheim im Markgräflerland,Vögisheim,unbekannt,120,1
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,0,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,5,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,10,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,15,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,20,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,25,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,30,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,40,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,commercial,120,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,0,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,5,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,10,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,15,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,20,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,25,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,30,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,40,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,farmyard,120,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,0,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,5,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,10,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,15,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,20,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,25,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,30,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,40,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,industrial,120,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,0,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,5,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,10,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,15,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,20,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,25,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,30,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,40,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,residential,120,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,0,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,5,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,10,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,15,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,20,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,25,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,30,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,40,0
+Müllheim im Markgräflerland,Müllheim im Markgräflerland,unbekannt,120,0

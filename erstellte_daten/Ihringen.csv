@@ -1,136 +1,136 @@
-Name,Landuse,WegeDauer,Anzahl
-Wasenweiler,commercial,0,0
-Wasenweiler,commercial,5,0
-Wasenweiler,commercial,10,0
-Wasenweiler,commercial,15,0
-Wasenweiler,commercial,20,0
-Wasenweiler,commercial,25,0
-Wasenweiler,commercial,30,0
-Wasenweiler,commercial,40,0
-Wasenweiler,commercial,120,0
-Wasenweiler,farmyard,0,0
-Wasenweiler,farmyard,5,0
-Wasenweiler,farmyard,10,0
-Wasenweiler,farmyard,15,0
-Wasenweiler,farmyard,20,2
-Wasenweiler,farmyard,25,0
-Wasenweiler,farmyard,30,0
-Wasenweiler,farmyard,40,0
-Wasenweiler,farmyard,120,0
-Wasenweiler,industrial,0,0
-Wasenweiler,industrial,5,0
-Wasenweiler,industrial,10,0
-Wasenweiler,industrial,15,1
-Wasenweiler,industrial,20,11
-Wasenweiler,industrial,25,10
-Wasenweiler,industrial,30,0
-Wasenweiler,industrial,40,0
-Wasenweiler,industrial,120,0
-Wasenweiler,residential,0,0
-Wasenweiler,residential,5,76
-Wasenweiler,residential,10,160
-Wasenweiler,residential,15,50
-Wasenweiler,residential,20,16
-Wasenweiler,residential,25,1
-Wasenweiler,residential,30,0
-Wasenweiler,residential,40,0
-Wasenweiler,residential,120,0
-Wasenweiler,unbekannt,0,0
-Wasenweiler,unbekannt,5,0
-Wasenweiler,unbekannt,10,0
-Wasenweiler,unbekannt,15,1
-Wasenweiler,unbekannt,20,2
-Wasenweiler,unbekannt,25,1
-Wasenweiler,unbekannt,30,1
-Wasenweiler,unbekannt,40,0
-Wasenweiler,unbekannt,120,0
-Ihringen (Kernort),commercial,0,0
-Ihringen (Kernort),commercial,5,0
-Ihringen (Kernort),commercial,10,0
-Ihringen (Kernort),commercial,15,2
-Ihringen (Kernort),commercial,20,2
-Ihringen (Kernort),commercial,25,16
-Ihringen (Kernort),commercial,30,25
-Ihringen (Kernort),commercial,40,5
-Ihringen (Kernort),commercial,120,0
-Ihringen (Kernort),farmyard,0,0
-Ihringen (Kernort),farmyard,5,0
-Ihringen (Kernort),farmyard,10,0
-Ihringen (Kernort),farmyard,15,0
-Ihringen (Kernort),farmyard,20,1
-Ihringen (Kernort),farmyard,25,4
-Ihringen (Kernort),farmyard,30,4
-Ihringen (Kernort),farmyard,40,11
-Ihringen (Kernort),farmyard,120,10
-Ihringen (Kernort),industrial,0,0
-Ihringen (Kernort),industrial,5,0
-Ihringen (Kernort),industrial,10,0
-Ihringen (Kernort),industrial,15,0
-Ihringen (Kernort),industrial,20,0
-Ihringen (Kernort),industrial,25,0
-Ihringen (Kernort),industrial,30,0
-Ihringen (Kernort),industrial,40,0
-Ihringen (Kernort),industrial,120,0
-Ihringen (Kernort),residential,0,0
-Ihringen (Kernort),residential,5,117
-Ihringen (Kernort),residential,10,483
-Ihringen (Kernort),residential,15,439
-Ihringen (Kernort),residential,20,235
-Ihringen (Kernort),residential,25,63
-Ihringen (Kernort),residential,30,1
-Ihringen (Kernort),residential,40,1
-Ihringen (Kernort),residential,120,17
-Ihringen (Kernort),unbekannt,0,0
-Ihringen (Kernort),unbekannt,5,5
-Ihringen (Kernort),unbekannt,10,0
-Ihringen (Kernort),unbekannt,15,0
-Ihringen (Kernort),unbekannt,20,1
-Ihringen (Kernort),unbekannt,25,0
-Ihringen (Kernort),unbekannt,30,0
-Ihringen (Kernort),unbekannt,40,1
-Ihringen (Kernort),unbekannt,120,4
-Ihringen,commercial,0,0
-Ihringen,commercial,5,0
-Ihringen,commercial,10,0
-Ihringen,commercial,15,0
-Ihringen,commercial,20,0
-Ihringen,commercial,25,0
-Ihringen,commercial,30,0
-Ihringen,commercial,40,0
-Ihringen,commercial,120,0
-Ihringen,farmyard,0,0
-Ihringen,farmyard,5,0
-Ihringen,farmyard,10,0
-Ihringen,farmyard,15,0
-Ihringen,farmyard,20,0
-Ihringen,farmyard,25,0
-Ihringen,farmyard,30,0
-Ihringen,farmyard,40,0
-Ihringen,farmyard,120,0
-Ihringen,industrial,0,0
-Ihringen,industrial,5,0
-Ihringen,industrial,10,0
-Ihringen,industrial,15,0
-Ihringen,industrial,20,0
-Ihringen,industrial,25,0
-Ihringen,industrial,30,0
-Ihringen,industrial,40,0
-Ihringen,industrial,120,0
-Ihringen,residential,0,0
-Ihringen,residential,5,0
-Ihringen,residential,10,0
-Ihringen,residential,15,0
-Ihringen,residential,20,0
-Ihringen,residential,25,0
-Ihringen,residential,30,0
-Ihringen,residential,40,0
-Ihringen,residential,120,0
-Ihringen,unbekannt,0,0
-Ihringen,unbekannt,5,0
-Ihringen,unbekannt,10,0
-Ihringen,unbekannt,15,0
-Ihringen,unbekannt,20,0
-Ihringen,unbekannt,25,0
-Ihringen,unbekannt,30,0
-Ihringen,unbekannt,40,0
-Ihringen,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Ihringen,Wasenweiler,commercial,0,0
+Ihringen,Wasenweiler,commercial,5,0
+Ihringen,Wasenweiler,commercial,10,0
+Ihringen,Wasenweiler,commercial,15,0
+Ihringen,Wasenweiler,commercial,20,0
+Ihringen,Wasenweiler,commercial,25,0
+Ihringen,Wasenweiler,commercial,30,0
+Ihringen,Wasenweiler,commercial,40,0
+Ihringen,Wasenweiler,commercial,120,0
+Ihringen,Wasenweiler,farmyard,0,0
+Ihringen,Wasenweiler,farmyard,5,0
+Ihringen,Wasenweiler,farmyard,10,0
+Ihringen,Wasenweiler,farmyard,15,0
+Ihringen,Wasenweiler,farmyard,20,2
+Ihringen,Wasenweiler,farmyard,25,0
+Ihringen,Wasenweiler,farmyard,30,0
+Ihringen,Wasenweiler,farmyard,40,0
+Ihringen,Wasenweiler,farmyard,120,0
+Ihringen,Wasenweiler,industrial,0,0
+Ihringen,Wasenweiler,industrial,5,0
+Ihringen,Wasenweiler,industrial,10,0
+Ihringen,Wasenweiler,industrial,15,2
+Ihringen,Wasenweiler,industrial,20,12
+Ihringen,Wasenweiler,industrial,25,8
+Ihringen,Wasenweiler,industrial,30,0
+Ihringen,Wasenweiler,industrial,40,0
+Ihringen,Wasenweiler,industrial,120,0
+Ihringen,Wasenweiler,residential,0,0
+Ihringen,Wasenweiler,residential,5,80
+Ihringen,Wasenweiler,residential,10,152
+Ihringen,Wasenweiler,residential,15,63
+Ihringen,Wasenweiler,residential,20,7
+Ihringen,Wasenweiler,residential,25,1
+Ihringen,Wasenweiler,residential,30,0
+Ihringen,Wasenweiler,residential,40,0
+Ihringen,Wasenweiler,residential,120,0
+Ihringen,Wasenweiler,unbekannt,0,0
+Ihringen,Wasenweiler,unbekannt,5,0
+Ihringen,Wasenweiler,unbekannt,10,1
+Ihringen,Wasenweiler,unbekannt,15,0
+Ihringen,Wasenweiler,unbekannt,20,2
+Ihringen,Wasenweiler,unbekannt,25,1
+Ihringen,Wasenweiler,unbekannt,30,1
+Ihringen,Wasenweiler,unbekannt,40,0
+Ihringen,Wasenweiler,unbekannt,120,0
+Ihringen,Ihringen (Kernort),commercial,0,0
+Ihringen,Ihringen (Kernort),commercial,5,0
+Ihringen,Ihringen (Kernort),commercial,10,0
+Ihringen,Ihringen (Kernort),commercial,15,1
+Ihringen,Ihringen (Kernort),commercial,20,3
+Ihringen,Ihringen (Kernort),commercial,25,16
+Ihringen,Ihringen (Kernort),commercial,30,21
+Ihringen,Ihringen (Kernort),commercial,40,9
+Ihringen,Ihringen (Kernort),commercial,120,0
+Ihringen,Ihringen (Kernort),farmyard,0,0
+Ihringen,Ihringen (Kernort),farmyard,5,0
+Ihringen,Ihringen (Kernort),farmyard,10,0
+Ihringen,Ihringen (Kernort),farmyard,15,0
+Ihringen,Ihringen (Kernort),farmyard,20,0
+Ihringen,Ihringen (Kernort),farmyard,25,6
+Ihringen,Ihringen (Kernort),farmyard,30,4
+Ihringen,Ihringen (Kernort),farmyard,40,10
+Ihringen,Ihringen (Kernort),farmyard,120,10
+Ihringen,Ihringen (Kernort),industrial,0,0
+Ihringen,Ihringen (Kernort),industrial,5,0
+Ihringen,Ihringen (Kernort),industrial,10,0
+Ihringen,Ihringen (Kernort),industrial,15,0
+Ihringen,Ihringen (Kernort),industrial,20,0
+Ihringen,Ihringen (Kernort),industrial,25,0
+Ihringen,Ihringen (Kernort),industrial,30,0
+Ihringen,Ihringen (Kernort),industrial,40,0
+Ihringen,Ihringen (Kernort),industrial,120,0
+Ihringen,Ihringen (Kernort),residential,0,0
+Ihringen,Ihringen (Kernort),residential,5,109
+Ihringen,Ihringen (Kernort),residential,10,492
+Ihringen,Ihringen (Kernort),residential,15,453
+Ihringen,Ihringen (Kernort),residential,20,217
+Ihringen,Ihringen (Kernort),residential,25,66
+Ihringen,Ihringen (Kernort),residential,30,1
+Ihringen,Ihringen (Kernort),residential,40,1
+Ihringen,Ihringen (Kernort),residential,120,17
+Ihringen,Ihringen (Kernort),unbekannt,0,0
+Ihringen,Ihringen (Kernort),unbekannt,5,5
+Ihringen,Ihringen (Kernort),unbekannt,10,0
+Ihringen,Ihringen (Kernort),unbekannt,15,1
+Ihringen,Ihringen (Kernort),unbekannt,20,0
+Ihringen,Ihringen (Kernort),unbekannt,25,0
+Ihringen,Ihringen (Kernort),unbekannt,30,0
+Ihringen,Ihringen (Kernort),unbekannt,40,1
+Ihringen,Ihringen (Kernort),unbekannt,120,4
+Ihringen,Ihringen,commercial,0,0
+Ihringen,Ihringen,commercial,5,0
+Ihringen,Ihringen,commercial,10,0
+Ihringen,Ihringen,commercial,15,0
+Ihringen,Ihringen,commercial,20,0
+Ihringen,Ihringen,commercial,25,0
+Ihringen,Ihringen,commercial,30,0
+Ihringen,Ihringen,commercial,40,0
+Ihringen,Ihringen,commercial,120,0
+Ihringen,Ihringen,farmyard,0,0
+Ihringen,Ihringen,farmyard,5,0
+Ihringen,Ihringen,farmyard,10,0
+Ihringen,Ihringen,farmyard,15,0
+Ihringen,Ihringen,farmyard,20,0
+Ihringen,Ihringen,farmyard,25,0
+Ihringen,Ihringen,farmyard,30,0
+Ihringen,Ihringen,farmyard,40,0
+Ihringen,Ihringen,farmyard,120,0
+Ihringen,Ihringen,industrial,0,0
+Ihringen,Ihringen,industrial,5,0
+Ihringen,Ihringen,industrial,10,0
+Ihringen,Ihringen,industrial,15,0
+Ihringen,Ihringen,industrial,20,0
+Ihringen,Ihringen,industrial,25,0
+Ihringen,Ihringen,industrial,30,0
+Ihringen,Ihringen,industrial,40,0
+Ihringen,Ihringen,industrial,120,0
+Ihringen,Ihringen,residential,0,0
+Ihringen,Ihringen,residential,5,0
+Ihringen,Ihringen,residential,10,0
+Ihringen,Ihringen,residential,15,0
+Ihringen,Ihringen,residential,20,0
+Ihringen,Ihringen,residential,25,0
+Ihringen,Ihringen,residential,30,0
+Ihringen,Ihringen,residential,40,0
+Ihringen,Ihringen,residential,120,0
+Ihringen,Ihringen,unbekannt,0,0
+Ihringen,Ihringen,unbekannt,5,0
+Ihringen,Ihringen,unbekannt,10,0
+Ihringen,Ihringen,unbekannt,15,0
+Ihringen,Ihringen,unbekannt,20,0
+Ihringen,Ihringen,unbekannt,25,0
+Ihringen,Ihringen,unbekannt,30,0
+Ihringen,Ihringen,unbekannt,40,0
+Ihringen,Ihringen,unbekannt,120,0

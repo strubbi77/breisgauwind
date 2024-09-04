@@ -1,136 +1,91 @@
-Name,Landuse,WegeDauer,Anzahl
-Gallenweiler,commercial,0,0
-Gallenweiler,commercial,5,0
-Gallenweiler,commercial,10,0
-Gallenweiler,commercial,15,0
-Gallenweiler,commercial,20,0
-Gallenweiler,commercial,25,0
-Gallenweiler,commercial,30,0
-Gallenweiler,commercial,40,0
-Gallenweiler,commercial,120,0
-Gallenweiler,farmyard,0,0
-Gallenweiler,farmyard,5,0
-Gallenweiler,farmyard,10,0
-Gallenweiler,farmyard,15,0
-Gallenweiler,farmyard,20,0
-Gallenweiler,farmyard,25,0
-Gallenweiler,farmyard,30,0
-Gallenweiler,farmyard,40,0
-Gallenweiler,farmyard,120,0
-Gallenweiler,industrial,0,0
-Gallenweiler,industrial,5,0
-Gallenweiler,industrial,10,0
-Gallenweiler,industrial,15,0
-Gallenweiler,industrial,20,0
-Gallenweiler,industrial,25,0
-Gallenweiler,industrial,30,0
-Gallenweiler,industrial,40,0
-Gallenweiler,industrial,120,0
-Gallenweiler,residential,0,0
-Gallenweiler,residential,5,0
-Gallenweiler,residential,10,0
-Gallenweiler,residential,15,0
-Gallenweiler,residential,20,0
-Gallenweiler,residential,25,0
-Gallenweiler,residential,30,0
-Gallenweiler,residential,40,2
-Gallenweiler,residential,120,152
-Gallenweiler,unbekannt,0,0
-Gallenweiler,unbekannt,5,0
-Gallenweiler,unbekannt,10,0
-Gallenweiler,unbekannt,15,0
-Gallenweiler,unbekannt,20,0
-Gallenweiler,unbekannt,25,0
-Gallenweiler,unbekannt,30,0
-Gallenweiler,unbekannt,40,0
-Gallenweiler,unbekannt,120,0
-Heitersheim (Kernstadt),commercial,0,0
-Heitersheim (Kernstadt),commercial,5,0
-Heitersheim (Kernstadt),commercial,10,0
-Heitersheim (Kernstadt),commercial,15,0
-Heitersheim (Kernstadt),commercial,20,0
-Heitersheim (Kernstadt),commercial,25,0
-Heitersheim (Kernstadt),commercial,30,0
-Heitersheim (Kernstadt),commercial,40,0
-Heitersheim (Kernstadt),commercial,120,1
-Heitersheim (Kernstadt),farmyard,0,0
-Heitersheim (Kernstadt),farmyard,5,0
-Heitersheim (Kernstadt),farmyard,10,0
-Heitersheim (Kernstadt),farmyard,15,3
-Heitersheim (Kernstadt),farmyard,20,5
-Heitersheim (Kernstadt),farmyard,25,2
-Heitersheim (Kernstadt),farmyard,30,0
-Heitersheim (Kernstadt),farmyard,40,0
-Heitersheim (Kernstadt),farmyard,120,2
-Heitersheim (Kernstadt),industrial,0,0
-Heitersheim (Kernstadt),industrial,5,0
-Heitersheim (Kernstadt),industrial,10,0
-Heitersheim (Kernstadt),industrial,15,0
-Heitersheim (Kernstadt),industrial,20,0
-Heitersheim (Kernstadt),industrial,25,0
-Heitersheim (Kernstadt),industrial,30,7
-Heitersheim (Kernstadt),industrial,40,75
-Heitersheim (Kernstadt),industrial,120,48
-Heitersheim (Kernstadt),residential,0,0
-Heitersheim (Kernstadt),residential,5,40
-Heitersheim (Kernstadt),residential,10,197
-Heitersheim (Kernstadt),residential,15,368
-Heitersheim (Kernstadt),residential,20,274
-Heitersheim (Kernstadt),residential,25,179
-Heitersheim (Kernstadt),residential,30,152
-Heitersheim (Kernstadt),residential,40,169
-Heitersheim (Kernstadt),residential,120,0
-Heitersheim (Kernstadt),unbekannt,0,0
-Heitersheim (Kernstadt),unbekannt,5,1
-Heitersheim (Kernstadt),unbekannt,10,2
-Heitersheim (Kernstadt),unbekannt,15,2
-Heitersheim (Kernstadt),unbekannt,20,2
-Heitersheim (Kernstadt),unbekannt,25,3
-Heitersheim (Kernstadt),unbekannt,30,1
-Heitersheim (Kernstadt),unbekannt,40,3
-Heitersheim (Kernstadt),unbekannt,120,1
-Heitersheim,commercial,0,0
-Heitersheim,commercial,5,0
-Heitersheim,commercial,10,0
-Heitersheim,commercial,15,0
-Heitersheim,commercial,20,0
-Heitersheim,commercial,25,0
-Heitersheim,commercial,30,0
-Heitersheim,commercial,40,0
-Heitersheim,commercial,120,0
-Heitersheim,farmyard,0,0
-Heitersheim,farmyard,5,0
-Heitersheim,farmyard,10,0
-Heitersheim,farmyard,15,0
-Heitersheim,farmyard,20,0
-Heitersheim,farmyard,25,0
-Heitersheim,farmyard,30,0
-Heitersheim,farmyard,40,0
-Heitersheim,farmyard,120,0
-Heitersheim,industrial,0,0
-Heitersheim,industrial,5,0
-Heitersheim,industrial,10,0
-Heitersheim,industrial,15,0
-Heitersheim,industrial,20,0
-Heitersheim,industrial,25,0
-Heitersheim,industrial,30,0
-Heitersheim,industrial,40,0
-Heitersheim,industrial,120,0
-Heitersheim,residential,0,0
-Heitersheim,residential,5,0
-Heitersheim,residential,10,0
-Heitersheim,residential,15,0
-Heitersheim,residential,20,0
-Heitersheim,residential,25,0
-Heitersheim,residential,30,0
-Heitersheim,residential,40,0
-Heitersheim,residential,120,0
-Heitersheim,unbekannt,0,0
-Heitersheim,unbekannt,5,0
-Heitersheim,unbekannt,10,0
-Heitersheim,unbekannt,15,0
-Heitersheim,unbekannt,20,0
-Heitersheim,unbekannt,25,0
-Heitersheim,unbekannt,30,0
-Heitersheim,unbekannt,40,0
-Heitersheim,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Heitersheim,Gallenweiler,commercial,0,0
+Heitersheim,Gallenweiler,commercial,5,0
+Heitersheim,Gallenweiler,commercial,10,0
+Heitersheim,Gallenweiler,commercial,15,0
+Heitersheim,Gallenweiler,commercial,20,0
+Heitersheim,Gallenweiler,commercial,25,0
+Heitersheim,Gallenweiler,commercial,30,0
+Heitersheim,Gallenweiler,commercial,40,0
+Heitersheim,Gallenweiler,commercial,120,0
+Heitersheim,Gallenweiler,farmyard,0,0
+Heitersheim,Gallenweiler,farmyard,5,0
+Heitersheim,Gallenweiler,farmyard,10,0
+Heitersheim,Gallenweiler,farmyard,15,0
+Heitersheim,Gallenweiler,farmyard,20,0
+Heitersheim,Gallenweiler,farmyard,25,0
+Heitersheim,Gallenweiler,farmyard,30,0
+Heitersheim,Gallenweiler,farmyard,40,0
+Heitersheim,Gallenweiler,farmyard,120,0
+Heitersheim,Gallenweiler,industrial,0,0
+Heitersheim,Gallenweiler,industrial,5,0
+Heitersheim,Gallenweiler,industrial,10,0
+Heitersheim,Gallenweiler,industrial,15,0
+Heitersheim,Gallenweiler,industrial,20,0
+Heitersheim,Gallenweiler,industrial,25,0
+Heitersheim,Gallenweiler,industrial,30,0
+Heitersheim,Gallenweiler,industrial,40,0
+Heitersheim,Gallenweiler,industrial,120,0
+Heitersheim,Gallenweiler,residential,0,0
+Heitersheim,Gallenweiler,residential,5,0
+Heitersheim,Gallenweiler,residential,10,0
+Heitersheim,Gallenweiler,residential,15,0
+Heitersheim,Gallenweiler,residential,20,0
+Heitersheim,Gallenweiler,residential,25,0
+Heitersheim,Gallenweiler,residential,30,0
+Heitersheim,Gallenweiler,residential,40,2
+Heitersheim,Gallenweiler,residential,120,152
+Heitersheim,Gallenweiler,unbekannt,0,0
+Heitersheim,Gallenweiler,unbekannt,5,0
+Heitersheim,Gallenweiler,unbekannt,10,0
+Heitersheim,Gallenweiler,unbekannt,15,0
+Heitersheim,Gallenweiler,unbekannt,20,0
+Heitersheim,Gallenweiler,unbekannt,25,0
+Heitersheim,Gallenweiler,unbekannt,30,0
+Heitersheim,Gallenweiler,unbekannt,40,0
+Heitersheim,Gallenweiler,unbekannt,120,0
+Heitersheim,Heitersheim,commercial,0,0
+Heitersheim,Heitersheim,commercial,5,0
+Heitersheim,Heitersheim,commercial,10,0
+Heitersheim,Heitersheim,commercial,15,0
+Heitersheim,Heitersheim,commercial,20,0
+Heitersheim,Heitersheim,commercial,25,0
+Heitersheim,Heitersheim,commercial,30,0
+Heitersheim,Heitersheim,commercial,40,0
+Heitersheim,Heitersheim,commercial,120,1
+Heitersheim,Heitersheim,farmyard,0,0
+Heitersheim,Heitersheim,farmyard,5,0
+Heitersheim,Heitersheim,farmyard,10,0
+Heitersheim,Heitersheim,farmyard,15,3
+Heitersheim,Heitersheim,farmyard,20,6
+Heitersheim,Heitersheim,farmyard,25,1
+Heitersheim,Heitersheim,farmyard,30,0
+Heitersheim,Heitersheim,farmyard,40,0
+Heitersheim,Heitersheim,farmyard,120,2
+Heitersheim,Heitersheim,industrial,0,0
+Heitersheim,Heitersheim,industrial,5,0
+Heitersheim,Heitersheim,industrial,10,0
+Heitersheim,Heitersheim,industrial,15,0
+Heitersheim,Heitersheim,industrial,20,0
+Heitersheim,Heitersheim,industrial,25,0
+Heitersheim,Heitersheim,industrial,30,7
+Heitersheim,Heitersheim,industrial,40,82
+Heitersheim,Heitersheim,industrial,120,41
+Heitersheim,Heitersheim,residential,0,0
+Heitersheim,Heitersheim,residential,5,44
+Heitersheim,Heitersheim,residential,10,197
+Heitersheim,Heitersheim,residential,15,386
+Heitersheim,Heitersheim,residential,20,274
+Heitersheim,Heitersheim,residential,25,168
+Heitersheim,Heitersheim,residential,30,144
+Heitersheim,Heitersheim,residential,40,167
+Heitersheim,Heitersheim,residential,120,0
+Heitersheim,Heitersheim,unbekannt,0,0
+Heitersheim,Heitersheim,unbekannt,5,1
+Heitersheim,Heitersheim,unbekannt,10,2
+Heitersheim,Heitersheim,unbekannt,15,2
+Heitersheim,Heitersheim,unbekannt,20,2
+Heitersheim,Heitersheim,unbekannt,25,3
+Heitersheim,Heitersheim,unbekannt,30,1
+Heitersheim,Heitersheim,unbekannt,40,3
+Heitersheim,Heitersheim,unbekannt,120,1

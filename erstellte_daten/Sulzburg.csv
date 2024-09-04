@@ -1,136 +1,136 @@
-Name,Landuse,WegeDauer,Anzahl
-Sulzburg (Kernstadt),commercial,0,0
-Sulzburg (Kernstadt),commercial,5,0
-Sulzburg (Kernstadt),commercial,10,0
-Sulzburg (Kernstadt),commercial,15,0
-Sulzburg (Kernstadt),commercial,20,0
-Sulzburg (Kernstadt),commercial,25,0
-Sulzburg (Kernstadt),commercial,30,0
-Sulzburg (Kernstadt),commercial,40,0
-Sulzburg (Kernstadt),commercial,120,0
-Sulzburg (Kernstadt),farmyard,0,0
-Sulzburg (Kernstadt),farmyard,5,0
-Sulzburg (Kernstadt),farmyard,10,0
-Sulzburg (Kernstadt),farmyard,15,0
-Sulzburg (Kernstadt),farmyard,20,0
-Sulzburg (Kernstadt),farmyard,25,0
-Sulzburg (Kernstadt),farmyard,30,0
-Sulzburg (Kernstadt),farmyard,40,0
-Sulzburg (Kernstadt),farmyard,120,0
-Sulzburg (Kernstadt),industrial,0,0
-Sulzburg (Kernstadt),industrial,5,0
-Sulzburg (Kernstadt),industrial,10,0
-Sulzburg (Kernstadt),industrial,15,0
-Sulzburg (Kernstadt),industrial,20,0
-Sulzburg (Kernstadt),industrial,25,1
-Sulzburg (Kernstadt),industrial,30,4
-Sulzburg (Kernstadt),industrial,40,0
-Sulzburg (Kernstadt),industrial,120,0
-Sulzburg (Kernstadt),residential,0,0
-Sulzburg (Kernstadt),residential,5,48
-Sulzburg (Kernstadt),residential,10,181
-Sulzburg (Kernstadt),residential,15,159
-Sulzburg (Kernstadt),residential,20,94
-Sulzburg (Kernstadt),residential,25,66
-Sulzburg (Kernstadt),residential,30,11
-Sulzburg (Kernstadt),residential,40,0
-Sulzburg (Kernstadt),residential,120,0
-Sulzburg (Kernstadt),unbekannt,0,0
-Sulzburg (Kernstadt),unbekannt,5,0
-Sulzburg (Kernstadt),unbekannt,10,0
-Sulzburg (Kernstadt),unbekannt,15,2
-Sulzburg (Kernstadt),unbekannt,20,0
-Sulzburg (Kernstadt),unbekannt,25,0
-Sulzburg (Kernstadt),unbekannt,30,1
-Sulzburg (Kernstadt),unbekannt,40,3
-Sulzburg (Kernstadt),unbekannt,120,4
-Laufen,commercial,0,0
-Laufen,commercial,5,0
-Laufen,commercial,10,0
-Laufen,commercial,15,0
-Laufen,commercial,20,3
-Laufen,commercial,25,2
-Laufen,commercial,30,0
-Laufen,commercial,40,0
-Laufen,commercial,120,0
-Laufen,farmyard,0,0
-Laufen,farmyard,5,0
-Laufen,farmyard,10,0
-Laufen,farmyard,15,0
-Laufen,farmyard,20,0
-Laufen,farmyard,25,0
-Laufen,farmyard,30,0
-Laufen,farmyard,40,0
-Laufen,farmyard,120,0
-Laufen,industrial,0,0
-Laufen,industrial,5,0
-Laufen,industrial,10,0
-Laufen,industrial,15,0
-Laufen,industrial,20,0
-Laufen,industrial,25,0
-Laufen,industrial,30,0
-Laufen,industrial,40,0
-Laufen,industrial,120,0
-Laufen,residential,0,0
-Laufen,residential,5,28
-Laufen,residential,10,144
-Laufen,residential,15,53
-Laufen,residential,20,9
-Laufen,residential,25,27
-Laufen,residential,30,1
-Laufen,residential,40,0
-Laufen,residential,120,0
-Laufen,unbekannt,0,0
-Laufen,unbekannt,5,0
-Laufen,unbekannt,10,2
-Laufen,unbekannt,15,0
-Laufen,unbekannt,20,0
-Laufen,unbekannt,25,0
-Laufen,unbekannt,30,0
-Laufen,unbekannt,40,0
-Laufen,unbekannt,120,0
-Sulzburg,commercial,0,0
-Sulzburg,commercial,5,0
-Sulzburg,commercial,10,0
-Sulzburg,commercial,15,0
-Sulzburg,commercial,20,0
-Sulzburg,commercial,25,0
-Sulzburg,commercial,30,0
-Sulzburg,commercial,40,0
-Sulzburg,commercial,120,0
-Sulzburg,farmyard,0,0
-Sulzburg,farmyard,5,0
-Sulzburg,farmyard,10,0
-Sulzburg,farmyard,15,0
-Sulzburg,farmyard,20,0
-Sulzburg,farmyard,25,0
-Sulzburg,farmyard,30,0
-Sulzburg,farmyard,40,0
-Sulzburg,farmyard,120,0
-Sulzburg,industrial,0,0
-Sulzburg,industrial,5,0
-Sulzburg,industrial,10,0
-Sulzburg,industrial,15,0
-Sulzburg,industrial,20,0
-Sulzburg,industrial,25,0
-Sulzburg,industrial,30,0
-Sulzburg,industrial,40,0
-Sulzburg,industrial,120,0
-Sulzburg,residential,0,0
-Sulzburg,residential,5,0
-Sulzburg,residential,10,0
-Sulzburg,residential,15,0
-Sulzburg,residential,20,0
-Sulzburg,residential,25,0
-Sulzburg,residential,30,0
-Sulzburg,residential,40,0
-Sulzburg,residential,120,0
-Sulzburg,unbekannt,0,0
-Sulzburg,unbekannt,5,0
-Sulzburg,unbekannt,10,0
-Sulzburg,unbekannt,15,0
-Sulzburg,unbekannt,20,0
-Sulzburg,unbekannt,25,0
-Sulzburg,unbekannt,30,0
-Sulzburg,unbekannt,40,0
-Sulzburg,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Sulzburg,Sulzburg (Kernstadt),commercial,0,0
+Sulzburg,Sulzburg (Kernstadt),commercial,5,0
+Sulzburg,Sulzburg (Kernstadt),commercial,10,0
+Sulzburg,Sulzburg (Kernstadt),commercial,15,0
+Sulzburg,Sulzburg (Kernstadt),commercial,20,0
+Sulzburg,Sulzburg (Kernstadt),commercial,25,0
+Sulzburg,Sulzburg (Kernstadt),commercial,30,0
+Sulzburg,Sulzburg (Kernstadt),commercial,40,0
+Sulzburg,Sulzburg (Kernstadt),commercial,120,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,0,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,5,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,10,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,15,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,20,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,25,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,30,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,40,0
+Sulzburg,Sulzburg (Kernstadt),farmyard,120,0
+Sulzburg,Sulzburg (Kernstadt),industrial,0,0
+Sulzburg,Sulzburg (Kernstadt),industrial,5,0
+Sulzburg,Sulzburg (Kernstadt),industrial,10,0
+Sulzburg,Sulzburg (Kernstadt),industrial,15,0
+Sulzburg,Sulzburg (Kernstadt),industrial,20,0
+Sulzburg,Sulzburg (Kernstadt),industrial,25,1
+Sulzburg,Sulzburg (Kernstadt),industrial,30,1
+Sulzburg,Sulzburg (Kernstadt),industrial,40,3
+Sulzburg,Sulzburg (Kernstadt),industrial,120,0
+Sulzburg,Sulzburg (Kernstadt),residential,0,0
+Sulzburg,Sulzburg (Kernstadt),residential,5,37
+Sulzburg,Sulzburg (Kernstadt),residential,10,168
+Sulzburg,Sulzburg (Kernstadt),residential,15,157
+Sulzburg,Sulzburg (Kernstadt),residential,20,29
+Sulzburg,Sulzburg (Kernstadt),residential,25,28
+Sulzburg,Sulzburg (Kernstadt),residential,30,10
+Sulzburg,Sulzburg (Kernstadt),residential,40,0
+Sulzburg,Sulzburg (Kernstadt),residential,120,0
+Sulzburg,Sulzburg (Kernstadt),unbekannt,0,0
+Sulzburg,Sulzburg (Kernstadt),unbekannt,5,0
+Sulzburg,Sulzburg (Kernstadt),unbekannt,10,2
+Sulzburg,Sulzburg (Kernstadt),unbekannt,15,34
+Sulzburg,Sulzburg (Kernstadt),unbekannt,20,46
+Sulzburg,Sulzburg (Kernstadt),unbekannt,25,40
+Sulzburg,Sulzburg (Kernstadt),unbekannt,30,11
+Sulzburg,Sulzburg (Kernstadt),unbekannt,40,3
+Sulzburg,Sulzburg (Kernstadt),unbekannt,120,4
+Sulzburg,Laufen,commercial,0,0
+Sulzburg,Laufen,commercial,5,0
+Sulzburg,Laufen,commercial,10,0
+Sulzburg,Laufen,commercial,15,0
+Sulzburg,Laufen,commercial,20,3
+Sulzburg,Laufen,commercial,25,2
+Sulzburg,Laufen,commercial,30,0
+Sulzburg,Laufen,commercial,40,0
+Sulzburg,Laufen,commercial,120,0
+Sulzburg,Laufen,farmyard,0,0
+Sulzburg,Laufen,farmyard,5,0
+Sulzburg,Laufen,farmyard,10,0
+Sulzburg,Laufen,farmyard,15,0
+Sulzburg,Laufen,farmyard,20,0
+Sulzburg,Laufen,farmyard,25,0
+Sulzburg,Laufen,farmyard,30,0
+Sulzburg,Laufen,farmyard,40,0
+Sulzburg,Laufen,farmyard,120,0
+Sulzburg,Laufen,industrial,0,0
+Sulzburg,Laufen,industrial,5,0
+Sulzburg,Laufen,industrial,10,0
+Sulzburg,Laufen,industrial,15,0
+Sulzburg,Laufen,industrial,20,0
+Sulzburg,Laufen,industrial,25,0
+Sulzburg,Laufen,industrial,30,0
+Sulzburg,Laufen,industrial,40,0
+Sulzburg,Laufen,industrial,120,0
+Sulzburg,Laufen,residential,0,0
+Sulzburg,Laufen,residential,5,29
+Sulzburg,Laufen,residential,10,138
+Sulzburg,Laufen,residential,15,59
+Sulzburg,Laufen,residential,20,4
+Sulzburg,Laufen,residential,25,31
+Sulzburg,Laufen,residential,30,1
+Sulzburg,Laufen,residential,40,0
+Sulzburg,Laufen,residential,120,0
+Sulzburg,Laufen,unbekannt,0,0
+Sulzburg,Laufen,unbekannt,5,0
+Sulzburg,Laufen,unbekannt,10,2
+Sulzburg,Laufen,unbekannt,15,0
+Sulzburg,Laufen,unbekannt,20,0
+Sulzburg,Laufen,unbekannt,25,0
+Sulzburg,Laufen,unbekannt,30,0
+Sulzburg,Laufen,unbekannt,40,0
+Sulzburg,Laufen,unbekannt,120,0
+Sulzburg,Sulzburg,commercial,0,0
+Sulzburg,Sulzburg,commercial,5,0
+Sulzburg,Sulzburg,commercial,10,0
+Sulzburg,Sulzburg,commercial,15,0
+Sulzburg,Sulzburg,commercial,20,0
+Sulzburg,Sulzburg,commercial,25,0
+Sulzburg,Sulzburg,commercial,30,0
+Sulzburg,Sulzburg,commercial,40,0
+Sulzburg,Sulzburg,commercial,120,0
+Sulzburg,Sulzburg,farmyard,0,0
+Sulzburg,Sulzburg,farmyard,5,0
+Sulzburg,Sulzburg,farmyard,10,0
+Sulzburg,Sulzburg,farmyard,15,0
+Sulzburg,Sulzburg,farmyard,20,0
+Sulzburg,Sulzburg,farmyard,25,0
+Sulzburg,Sulzburg,farmyard,30,0
+Sulzburg,Sulzburg,farmyard,40,0
+Sulzburg,Sulzburg,farmyard,120,0
+Sulzburg,Sulzburg,industrial,0,0
+Sulzburg,Sulzburg,industrial,5,0
+Sulzburg,Sulzburg,industrial,10,0
+Sulzburg,Sulzburg,industrial,15,0
+Sulzburg,Sulzburg,industrial,20,0
+Sulzburg,Sulzburg,industrial,25,0
+Sulzburg,Sulzburg,industrial,30,0
+Sulzburg,Sulzburg,industrial,40,0
+Sulzburg,Sulzburg,industrial,120,0
+Sulzburg,Sulzburg,residential,0,0
+Sulzburg,Sulzburg,residential,5,0
+Sulzburg,Sulzburg,residential,10,0
+Sulzburg,Sulzburg,residential,15,0
+Sulzburg,Sulzburg,residential,20,0
+Sulzburg,Sulzburg,residential,25,0
+Sulzburg,Sulzburg,residential,30,0
+Sulzburg,Sulzburg,residential,40,0
+Sulzburg,Sulzburg,residential,120,0
+Sulzburg,Sulzburg,unbekannt,0,0
+Sulzburg,Sulzburg,unbekannt,5,0
+Sulzburg,Sulzburg,unbekannt,10,0
+Sulzburg,Sulzburg,unbekannt,15,0
+Sulzburg,Sulzburg,unbekannt,20,0
+Sulzburg,Sulzburg,unbekannt,25,0
+Sulzburg,Sulzburg,unbekannt,30,0
+Sulzburg,Sulzburg,unbekannt,40,0
+Sulzburg,Sulzburg,unbekannt,120,0

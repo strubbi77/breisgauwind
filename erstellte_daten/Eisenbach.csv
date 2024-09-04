@@ -1,145 +1,145 @@
-Name,Landuse,WegeDauer,Anzahl
-Schollach,farmyard,0,0
-Schollach,farmyard,5,0
-Schollach,farmyard,10,0
-Schollach,farmyard,15,0
-Schollach,farmyard,20,0
-Schollach,farmyard,25,0
-Schollach,farmyard,30,0
-Schollach,farmyard,40,0
-Schollach,farmyard,120,45
-Schollach,industrial,0,0
-Schollach,industrial,5,0
-Schollach,industrial,10,0
-Schollach,industrial,15,0
-Schollach,industrial,20,0
-Schollach,industrial,25,0
-Schollach,industrial,30,0
-Schollach,industrial,40,0
-Schollach,industrial,120,1
-Schollach,residential,0,0
-Schollach,residential,5,0
-Schollach,residential,10,0
-Schollach,residential,15,0
-Schollach,residential,20,0
-Schollach,residential,25,0
-Schollach,residential,30,0
-Schollach,residential,40,0
-Schollach,residential,120,47
-Schollach,unbekannt,0,0
-Schollach,unbekannt,5,0
-Schollach,unbekannt,10,0
-Schollach,unbekannt,15,0
-Schollach,unbekannt,20,0
-Schollach,unbekannt,25,0
-Schollach,unbekannt,30,0
-Schollach,unbekannt,40,0
-Schollach,unbekannt,120,4
-Bubenbach,farmyard,0,0
-Bubenbach,farmyard,5,0
-Bubenbach,farmyard,10,0
-Bubenbach,farmyard,15,0
-Bubenbach,farmyard,20,0
-Bubenbach,farmyard,25,0
-Bubenbach,farmyard,30,0
-Bubenbach,farmyard,40,0
-Bubenbach,farmyard,120,0
-Bubenbach,industrial,0,0
-Bubenbach,industrial,5,0
-Bubenbach,industrial,10,0
-Bubenbach,industrial,15,0
-Bubenbach,industrial,20,0
-Bubenbach,industrial,25,0
-Bubenbach,industrial,30,0
-Bubenbach,industrial,40,0
-Bubenbach,industrial,120,11
-Bubenbach,residential,0,0
-Bubenbach,residential,5,0
-Bubenbach,residential,10,0
-Bubenbach,residential,15,0
-Bubenbach,residential,20,0
-Bubenbach,residential,25,0
-Bubenbach,residential,30,0
-Bubenbach,residential,40,1
-Bubenbach,residential,120,272
-Bubenbach,unbekannt,0,0
-Bubenbach,unbekannt,5,0
-Bubenbach,unbekannt,10,0
-Bubenbach,unbekannt,15,0
-Bubenbach,unbekannt,20,0
-Bubenbach,unbekannt,25,0
-Bubenbach,unbekannt,30,0
-Bubenbach,unbekannt,40,2
-Bubenbach,unbekannt,120,7
-Eisenbach (Kernort),farmyard,0,0
-Eisenbach (Kernort),farmyard,5,0
-Eisenbach (Kernort),farmyard,10,0
-Eisenbach (Kernort),farmyard,15,0
-Eisenbach (Kernort),farmyard,20,0
-Eisenbach (Kernort),farmyard,25,0
-Eisenbach (Kernort),farmyard,30,0
-Eisenbach (Kernort),farmyard,40,3
-Eisenbach (Kernort),farmyard,120,0
-Eisenbach (Kernort),industrial,0,0
-Eisenbach (Kernort),industrial,5,0
-Eisenbach (Kernort),industrial,10,0
-Eisenbach (Kernort),industrial,15,0
-Eisenbach (Kernort),industrial,20,3
-Eisenbach (Kernort),industrial,25,2
-Eisenbach (Kernort),industrial,30,1
-Eisenbach (Kernort),industrial,40,2
-Eisenbach (Kernort),industrial,120,0
-Eisenbach (Kernort),residential,0,0
-Eisenbach (Kernort),residential,5,10
-Eisenbach (Kernort),residential,10,10
-Eisenbach (Kernort),residential,15,20
-Eisenbach (Kernort),residential,20,41
-Eisenbach (Kernort),residential,25,85
-Eisenbach (Kernort),residential,30,69
-Eisenbach (Kernort),residential,40,52
-Eisenbach (Kernort),residential,120,5
-Eisenbach (Kernort),unbekannt,0,0
-Eisenbach (Kernort),unbekannt,5,0
-Eisenbach (Kernort),unbekannt,10,0
-Eisenbach (Kernort),unbekannt,15,0
-Eisenbach (Kernort),unbekannt,20,1
-Eisenbach (Kernort),unbekannt,25,0
-Eisenbach (Kernort),unbekannt,30,0
-Eisenbach (Kernort),unbekannt,40,3
-Eisenbach (Kernort),unbekannt,120,0
-Eisenbach,farmyard,0,0
-Eisenbach,farmyard,5,0
-Eisenbach,farmyard,10,0
-Eisenbach,farmyard,15,0
-Eisenbach,farmyard,20,0
-Eisenbach,farmyard,25,0
-Eisenbach,farmyard,30,0
-Eisenbach,farmyard,40,0
-Eisenbach,farmyard,120,0
-Eisenbach,industrial,0,0
-Eisenbach,industrial,5,0
-Eisenbach,industrial,10,0
-Eisenbach,industrial,15,0
-Eisenbach,industrial,20,0
-Eisenbach,industrial,25,0
-Eisenbach,industrial,30,0
-Eisenbach,industrial,40,0
-Eisenbach,industrial,120,0
-Eisenbach,residential,0,0
-Eisenbach,residential,5,0
-Eisenbach,residential,10,0
-Eisenbach,residential,15,0
-Eisenbach,residential,20,0
-Eisenbach,residential,25,0
-Eisenbach,residential,30,0
-Eisenbach,residential,40,0
-Eisenbach,residential,120,0
-Eisenbach,unbekannt,0,0
-Eisenbach,unbekannt,5,0
-Eisenbach,unbekannt,10,0
-Eisenbach,unbekannt,15,0
-Eisenbach,unbekannt,20,0
-Eisenbach,unbekannt,25,0
-Eisenbach,unbekannt,30,0
-Eisenbach,unbekannt,40,1
-Eisenbach,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Eisenbach,Schollach,farmyard,0,0
+Eisenbach,Schollach,farmyard,5,0
+Eisenbach,Schollach,farmyard,10,0
+Eisenbach,Schollach,farmyard,15,0
+Eisenbach,Schollach,farmyard,20,0
+Eisenbach,Schollach,farmyard,25,0
+Eisenbach,Schollach,farmyard,30,0
+Eisenbach,Schollach,farmyard,40,0
+Eisenbach,Schollach,farmyard,120,45
+Eisenbach,Schollach,industrial,0,0
+Eisenbach,Schollach,industrial,5,0
+Eisenbach,Schollach,industrial,10,0
+Eisenbach,Schollach,industrial,15,0
+Eisenbach,Schollach,industrial,20,0
+Eisenbach,Schollach,industrial,25,0
+Eisenbach,Schollach,industrial,30,0
+Eisenbach,Schollach,industrial,40,0
+Eisenbach,Schollach,industrial,120,1
+Eisenbach,Schollach,residential,0,0
+Eisenbach,Schollach,residential,5,0
+Eisenbach,Schollach,residential,10,0
+Eisenbach,Schollach,residential,15,0
+Eisenbach,Schollach,residential,20,0
+Eisenbach,Schollach,residential,25,0
+Eisenbach,Schollach,residential,30,0
+Eisenbach,Schollach,residential,40,0
+Eisenbach,Schollach,residential,120,47
+Eisenbach,Schollach,unbekannt,0,0
+Eisenbach,Schollach,unbekannt,5,0
+Eisenbach,Schollach,unbekannt,10,0
+Eisenbach,Schollach,unbekannt,15,0
+Eisenbach,Schollach,unbekannt,20,0
+Eisenbach,Schollach,unbekannt,25,0
+Eisenbach,Schollach,unbekannt,30,0
+Eisenbach,Schollach,unbekannt,40,0
+Eisenbach,Schollach,unbekannt,120,4
+Eisenbach,Bubenbach,farmyard,0,0
+Eisenbach,Bubenbach,farmyard,5,0
+Eisenbach,Bubenbach,farmyard,10,0
+Eisenbach,Bubenbach,farmyard,15,0
+Eisenbach,Bubenbach,farmyard,20,0
+Eisenbach,Bubenbach,farmyard,25,0
+Eisenbach,Bubenbach,farmyard,30,0
+Eisenbach,Bubenbach,farmyard,40,0
+Eisenbach,Bubenbach,farmyard,120,0
+Eisenbach,Bubenbach,industrial,0,0
+Eisenbach,Bubenbach,industrial,5,0
+Eisenbach,Bubenbach,industrial,10,0
+Eisenbach,Bubenbach,industrial,15,0
+Eisenbach,Bubenbach,industrial,20,0
+Eisenbach,Bubenbach,industrial,25,0
+Eisenbach,Bubenbach,industrial,30,0
+Eisenbach,Bubenbach,industrial,40,0
+Eisenbach,Bubenbach,industrial,120,9
+Eisenbach,Bubenbach,residential,0,0
+Eisenbach,Bubenbach,residential,5,0
+Eisenbach,Bubenbach,residential,10,0
+Eisenbach,Bubenbach,residential,15,0
+Eisenbach,Bubenbach,residential,20,0
+Eisenbach,Bubenbach,residential,25,0
+Eisenbach,Bubenbach,residential,30,0
+Eisenbach,Bubenbach,residential,40,2
+Eisenbach,Bubenbach,residential,120,273
+Eisenbach,Bubenbach,unbekannt,0,0
+Eisenbach,Bubenbach,unbekannt,5,0
+Eisenbach,Bubenbach,unbekannt,10,0
+Eisenbach,Bubenbach,unbekannt,15,0
+Eisenbach,Bubenbach,unbekannt,20,0
+Eisenbach,Bubenbach,unbekannt,25,0
+Eisenbach,Bubenbach,unbekannt,30,0
+Eisenbach,Bubenbach,unbekannt,40,2
+Eisenbach,Bubenbach,unbekannt,120,7
+Eisenbach,Eisenbach (Kernort),farmyard,0,0
+Eisenbach,Eisenbach (Kernort),farmyard,5,0
+Eisenbach,Eisenbach (Kernort),farmyard,10,0
+Eisenbach,Eisenbach (Kernort),farmyard,15,0
+Eisenbach,Eisenbach (Kernort),farmyard,20,0
+Eisenbach,Eisenbach (Kernort),farmyard,25,0
+Eisenbach,Eisenbach (Kernort),farmyard,30,0
+Eisenbach,Eisenbach (Kernort),farmyard,40,3
+Eisenbach,Eisenbach (Kernort),farmyard,120,0
+Eisenbach,Eisenbach (Kernort),industrial,0,0
+Eisenbach,Eisenbach (Kernort),industrial,5,0
+Eisenbach,Eisenbach (Kernort),industrial,10,0
+Eisenbach,Eisenbach (Kernort),industrial,15,0
+Eisenbach,Eisenbach (Kernort),industrial,20,2
+Eisenbach,Eisenbach (Kernort),industrial,25,2
+Eisenbach,Eisenbach (Kernort),industrial,30,0
+Eisenbach,Eisenbach (Kernort),industrial,40,0
+Eisenbach,Eisenbach (Kernort),industrial,120,0
+Eisenbach,Eisenbach (Kernort),residential,0,0
+Eisenbach,Eisenbach (Kernort),residential,5,5
+Eisenbach,Eisenbach (Kernort),residential,10,14
+Eisenbach,Eisenbach (Kernort),residential,15,19
+Eisenbach,Eisenbach (Kernort),residential,20,40
+Eisenbach,Eisenbach (Kernort),residential,25,73
+Eisenbach,Eisenbach (Kernort),residential,30,88
+Eisenbach,Eisenbach (Kernort),residential,40,53
+Eisenbach,Eisenbach (Kernort),residential,120,4
+Eisenbach,Eisenbach (Kernort),unbekannt,0,0
+Eisenbach,Eisenbach (Kernort),unbekannt,5,0
+Eisenbach,Eisenbach (Kernort),unbekannt,10,0
+Eisenbach,Eisenbach (Kernort),unbekannt,15,0
+Eisenbach,Eisenbach (Kernort),unbekannt,20,1
+Eisenbach,Eisenbach (Kernort),unbekannt,25,0
+Eisenbach,Eisenbach (Kernort),unbekannt,30,1
+Eisenbach,Eisenbach (Kernort),unbekannt,40,2
+Eisenbach,Eisenbach (Kernort),unbekannt,120,0
+Eisenbach,Eisenbach,farmyard,0,0
+Eisenbach,Eisenbach,farmyard,5,0
+Eisenbach,Eisenbach,farmyard,10,0
+Eisenbach,Eisenbach,farmyard,15,0
+Eisenbach,Eisenbach,farmyard,20,0
+Eisenbach,Eisenbach,farmyard,25,0
+Eisenbach,Eisenbach,farmyard,30,0
+Eisenbach,Eisenbach,farmyard,40,0
+Eisenbach,Eisenbach,farmyard,120,0
+Eisenbach,Eisenbach,industrial,0,0
+Eisenbach,Eisenbach,industrial,5,0
+Eisenbach,Eisenbach,industrial,10,0
+Eisenbach,Eisenbach,industrial,15,0
+Eisenbach,Eisenbach,industrial,20,0
+Eisenbach,Eisenbach,industrial,25,0
+Eisenbach,Eisenbach,industrial,30,0
+Eisenbach,Eisenbach,industrial,40,0
+Eisenbach,Eisenbach,industrial,120,0
+Eisenbach,Eisenbach,residential,0,0
+Eisenbach,Eisenbach,residential,5,0
+Eisenbach,Eisenbach,residential,10,0
+Eisenbach,Eisenbach,residential,15,0
+Eisenbach,Eisenbach,residential,20,0
+Eisenbach,Eisenbach,residential,25,0
+Eisenbach,Eisenbach,residential,30,0
+Eisenbach,Eisenbach,residential,40,0
+Eisenbach,Eisenbach,residential,120,0
+Eisenbach,Eisenbach,unbekannt,0,0
+Eisenbach,Eisenbach,unbekannt,5,0
+Eisenbach,Eisenbach,unbekannt,10,0
+Eisenbach,Eisenbach,unbekannt,15,0
+Eisenbach,Eisenbach,unbekannt,20,0
+Eisenbach,Eisenbach,unbekannt,25,0
+Eisenbach,Eisenbach,unbekannt,30,0
+Eisenbach,Eisenbach,unbekannt,40,1
+Eisenbach,Eisenbach,unbekannt,120,0

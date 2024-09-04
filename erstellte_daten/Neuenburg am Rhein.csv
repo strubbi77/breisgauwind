@@ -1,181 +1,136 @@
-Name,Landuse,WegeDauer,Anzahl
-Steinenstadt,commercial,0,0
-Steinenstadt,commercial,5,0
-Steinenstadt,commercial,10,0
-Steinenstadt,commercial,15,0
-Steinenstadt,commercial,20,0
-Steinenstadt,commercial,25,0
-Steinenstadt,commercial,30,0
-Steinenstadt,commercial,40,0
-Steinenstadt,commercial,120,0
-Steinenstadt,farmyard,0,0
-Steinenstadt,farmyard,5,0
-Steinenstadt,farmyard,10,1
-Steinenstadt,farmyard,15,0
-Steinenstadt,farmyard,20,1
-Steinenstadt,farmyard,25,2
-Steinenstadt,farmyard,30,0
-Steinenstadt,farmyard,40,7
-Steinenstadt,farmyard,120,0
-Steinenstadt,industrial,0,0
-Steinenstadt,industrial,5,0
-Steinenstadt,industrial,10,0
-Steinenstadt,industrial,15,0
-Steinenstadt,industrial,20,0
-Steinenstadt,industrial,25,0
-Steinenstadt,industrial,30,1
-Steinenstadt,industrial,40,0
-Steinenstadt,industrial,120,0
-Steinenstadt,residential,0,0
-Steinenstadt,residential,5,93
-Steinenstadt,residential,10,177
-Steinenstadt,residential,15,79
-Steinenstadt,residential,20,27
-Steinenstadt,residential,25,0
-Steinenstadt,residential,30,0
-Steinenstadt,residential,40,0
-Steinenstadt,residential,120,0
-Steinenstadt,unbekannt,0,0
-Steinenstadt,unbekannt,5,0
-Steinenstadt,unbekannt,10,0
-Steinenstadt,unbekannt,15,1
-Steinenstadt,unbekannt,20,0
-Steinenstadt,unbekannt,25,0
-Steinenstadt,unbekannt,30,3
-Steinenstadt,unbekannt,40,1
-Steinenstadt,unbekannt,120,0
-Neuenburg am Rhein,commercial,0,0
-Neuenburg am Rhein,commercial,5,0
-Neuenburg am Rhein,commercial,10,0
-Neuenburg am Rhein,commercial,15,0
-Neuenburg am Rhein,commercial,20,0
-Neuenburg am Rhein,commercial,25,0
-Neuenburg am Rhein,commercial,30,3
-Neuenburg am Rhein,commercial,40,0
-Neuenburg am Rhein,commercial,120,0
-Neuenburg am Rhein,farmyard,0,0
-Neuenburg am Rhein,farmyard,5,0
-Neuenburg am Rhein,farmyard,10,0
-Neuenburg am Rhein,farmyard,15,0
-Neuenburg am Rhein,farmyard,20,0
-Neuenburg am Rhein,farmyard,25,0
-Neuenburg am Rhein,farmyard,30,0
-Neuenburg am Rhein,farmyard,40,3
-Neuenburg am Rhein,farmyard,120,9
-Neuenburg am Rhein,industrial,0,0
-Neuenburg am Rhein,industrial,5,0
-Neuenburg am Rhein,industrial,10,0
-Neuenburg am Rhein,industrial,15,0
-Neuenburg am Rhein,industrial,20,9
-Neuenburg am Rhein,industrial,25,37
-Neuenburg am Rhein,industrial,30,45
-Neuenburg am Rhein,industrial,40,9
-Neuenburg am Rhein,industrial,120,9
-Neuenburg am Rhein,residential,0,0
-Neuenburg am Rhein,residential,5,81
-Neuenburg am Rhein,residential,10,337
-Neuenburg am Rhein,residential,15,421
-Neuenburg am Rhein,residential,20,416
-Neuenburg am Rhein,residential,25,225
-Neuenburg am Rhein,residential,30,250
-Neuenburg am Rhein,residential,40,246
-Neuenburg am Rhein,residential,120,18
-Neuenburg am Rhein,unbekannt,0,0
-Neuenburg am Rhein,unbekannt,5,0
-Neuenburg am Rhein,unbekannt,10,5
-Neuenburg am Rhein,unbekannt,15,8
-Neuenburg am Rhein,unbekannt,20,3
-Neuenburg am Rhein,unbekannt,25,4
-Neuenburg am Rhein,unbekannt,30,0
-Neuenburg am Rhein,unbekannt,40,4
-Neuenburg am Rhein,unbekannt,120,4
-Zienken,commercial,0,0
-Zienken,commercial,5,0
-Zienken,commercial,10,0
-Zienken,commercial,15,0
-Zienken,commercial,20,0
-Zienken,commercial,25,0
-Zienken,commercial,30,0
-Zienken,commercial,40,0
-Zienken,commercial,120,0
-Zienken,farmyard,0,0
-Zienken,farmyard,5,0
-Zienken,farmyard,10,0
-Zienken,farmyard,15,0
-Zienken,farmyard,20,0
-Zienken,farmyard,25,0
-Zienken,farmyard,30,0
-Zienken,farmyard,40,0
-Zienken,farmyard,120,0
-Zienken,industrial,0,0
-Zienken,industrial,5,0
-Zienken,industrial,10,0
-Zienken,industrial,15,0
-Zienken,industrial,20,1
-Zienken,industrial,25,0
-Zienken,industrial,30,0
-Zienken,industrial,40,0
-Zienken,industrial,120,0
-Zienken,residential,0,0
-Zienken,residential,5,83
-Zienken,residential,10,88
-Zienken,residential,15,74
-Zienken,residential,20,10
-Zienken,residential,25,2
-Zienken,residential,30,0
-Zienken,residential,40,0
-Zienken,residential,120,0
-Zienken,unbekannt,0,0
-Zienken,unbekannt,5,1
-Zienken,unbekannt,10,1
-Zienken,unbekannt,15,0
-Zienken,unbekannt,20,0
-Zienken,unbekannt,25,0
-Zienken,unbekannt,30,0
-Zienken,unbekannt,40,0
-Zienken,unbekannt,120,0
-Grißheim,commercial,0,0
-Grißheim,commercial,5,0
-Grißheim,commercial,10,0
-Grißheim,commercial,15,0
-Grißheim,commercial,20,0
-Grißheim,commercial,25,0
-Grißheim,commercial,30,0
-Grißheim,commercial,40,0
-Grißheim,commercial,120,0
-Grißheim,farmyard,0,0
-Grißheim,farmyard,5,0
-Grißheim,farmyard,10,2
-Grißheim,farmyard,15,1
-Grißheim,farmyard,20,2
-Grißheim,farmyard,25,1
-Grißheim,farmyard,30,0
-Grißheim,farmyard,40,0
-Grißheim,farmyard,120,0
-Grißheim,industrial,0,0
-Grißheim,industrial,5,0
-Grißheim,industrial,10,0
-Grißheim,industrial,15,2
-Grißheim,industrial,20,0
-Grißheim,industrial,25,0
-Grißheim,industrial,30,0
-Grißheim,industrial,40,0
-Grißheim,industrial,120,4
-Grißheim,residential,0,0
-Grißheim,residential,5,27
-Grißheim,residential,10,122
-Grißheim,residential,15,211
-Grißheim,residential,20,55
-Grißheim,residential,25,22
-Grißheim,residential,30,1
-Grißheim,residential,40,0
-Grißheim,residential,120,1
-Grißheim,unbekannt,0,0
-Grißheim,unbekannt,5,1
-Grißheim,unbekannt,10,0
-Grißheim,unbekannt,15,0
-Grißheim,unbekannt,20,1
-Grißheim,unbekannt,25,0
-Grißheim,unbekannt,30,0
-Grißheim,unbekannt,40,1
-Grißheim,unbekannt,120,1
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,0,0
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,5,0
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,10,0
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,15,0
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,20,0
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,25,0
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,30,3
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,40,0
+Neuenburg am Rhein,Neuenburg am Rhein,commercial,120,0
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,0,0
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,5,0
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,10,0
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,15,1
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,20,1
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,25,2
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,30,1
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,40,10
+Neuenburg am Rhein,Neuenburg am Rhein,farmyard,120,8
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,0,0
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,5,0
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,10,0
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,15,0
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,20,8
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,25,37
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,30,47
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,40,9
+Neuenburg am Rhein,Neuenburg am Rhein,industrial,120,9
+Neuenburg am Rhein,Neuenburg am Rhein,residential,0,0
+Neuenburg am Rhein,Neuenburg am Rhein,residential,5,167
+Neuenburg am Rhein,Neuenburg am Rhein,residential,10,491
+Neuenburg am Rhein,Neuenburg am Rhein,residential,15,534
+Neuenburg am Rhein,Neuenburg am Rhein,residential,20,407
+Neuenburg am Rhein,Neuenburg am Rhein,residential,25,255
+Neuenburg am Rhein,Neuenburg am Rhein,residential,30,244
+Neuenburg am Rhein,Neuenburg am Rhein,residential,40,262
+Neuenburg am Rhein,Neuenburg am Rhein,residential,120,10
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,0,0
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,5,0
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,10,6
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,15,8
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,20,3
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,25,3
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,30,4
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,40,5
+Neuenburg am Rhein,Neuenburg am Rhein,unbekannt,120,4
+Neuenburg am Rhein,Zienken,commercial,0,0
+Neuenburg am Rhein,Zienken,commercial,5,0
+Neuenburg am Rhein,Zienken,commercial,10,0
+Neuenburg am Rhein,Zienken,commercial,15,0
+Neuenburg am Rhein,Zienken,commercial,20,0
+Neuenburg am Rhein,Zienken,commercial,25,0
+Neuenburg am Rhein,Zienken,commercial,30,0
+Neuenburg am Rhein,Zienken,commercial,40,0
+Neuenburg am Rhein,Zienken,commercial,120,0
+Neuenburg am Rhein,Zienken,farmyard,0,0
+Neuenburg am Rhein,Zienken,farmyard,5,0
+Neuenburg am Rhein,Zienken,farmyard,10,0
+Neuenburg am Rhein,Zienken,farmyard,15,0
+Neuenburg am Rhein,Zienken,farmyard,20,0
+Neuenburg am Rhein,Zienken,farmyard,25,0
+Neuenburg am Rhein,Zienken,farmyard,30,0
+Neuenburg am Rhein,Zienken,farmyard,40,0
+Neuenburg am Rhein,Zienken,farmyard,120,0
+Neuenburg am Rhein,Zienken,industrial,0,0
+Neuenburg am Rhein,Zienken,industrial,5,0
+Neuenburg am Rhein,Zienken,industrial,10,0
+Neuenburg am Rhein,Zienken,industrial,15,0
+Neuenburg am Rhein,Zienken,industrial,20,1
+Neuenburg am Rhein,Zienken,industrial,25,0
+Neuenburg am Rhein,Zienken,industrial,30,0
+Neuenburg am Rhein,Zienken,industrial,40,0
+Neuenburg am Rhein,Zienken,industrial,120,0
+Neuenburg am Rhein,Zienken,residential,0,0
+Neuenburg am Rhein,Zienken,residential,5,67
+Neuenburg am Rhein,Zienken,residential,10,105
+Neuenburg am Rhein,Zienken,residential,15,57
+Neuenburg am Rhein,Zienken,residential,20,28
+Neuenburg am Rhein,Zienken,residential,25,0
+Neuenburg am Rhein,Zienken,residential,30,0
+Neuenburg am Rhein,Zienken,residential,40,0
+Neuenburg am Rhein,Zienken,residential,120,0
+Neuenburg am Rhein,Zienken,unbekannt,0,0
+Neuenburg am Rhein,Zienken,unbekannt,5,1
+Neuenburg am Rhein,Zienken,unbekannt,10,1
+Neuenburg am Rhein,Zienken,unbekannt,15,0
+Neuenburg am Rhein,Zienken,unbekannt,20,0
+Neuenburg am Rhein,Zienken,unbekannt,25,0
+Neuenburg am Rhein,Zienken,unbekannt,30,0
+Neuenburg am Rhein,Zienken,unbekannt,40,0
+Neuenburg am Rhein,Zienken,unbekannt,120,0
+Neuenburg am Rhein,Grißheim,commercial,0,0
+Neuenburg am Rhein,Grißheim,commercial,5,0
+Neuenburg am Rhein,Grißheim,commercial,10,0
+Neuenburg am Rhein,Grißheim,commercial,15,0
+Neuenburg am Rhein,Grißheim,commercial,20,0
+Neuenburg am Rhein,Grißheim,commercial,25,0
+Neuenburg am Rhein,Grißheim,commercial,30,0
+Neuenburg am Rhein,Grißheim,commercial,40,0
+Neuenburg am Rhein,Grißheim,commercial,120,0
+Neuenburg am Rhein,Grißheim,farmyard,0,0
+Neuenburg am Rhein,Grißheim,farmyard,5,0
+Neuenburg am Rhein,Grißheim,farmyard,10,2
+Neuenburg am Rhein,Grißheim,farmyard,15,1
+Neuenburg am Rhein,Grißheim,farmyard,20,2
+Neuenburg am Rhein,Grißheim,farmyard,25,1
+Neuenburg am Rhein,Grißheim,farmyard,30,0
+Neuenburg am Rhein,Grißheim,farmyard,40,0
+Neuenburg am Rhein,Grißheim,farmyard,120,0
+Neuenburg am Rhein,Grißheim,industrial,0,0
+Neuenburg am Rhein,Grißheim,industrial,5,0
+Neuenburg am Rhein,Grißheim,industrial,10,0
+Neuenburg am Rhein,Grißheim,industrial,15,2
+Neuenburg am Rhein,Grißheim,industrial,20,0
+Neuenburg am Rhein,Grißheim,industrial,25,0
+Neuenburg am Rhein,Grißheim,industrial,30,0
+Neuenburg am Rhein,Grißheim,industrial,40,0
+Neuenburg am Rhein,Grißheim,industrial,120,4
+Neuenburg am Rhein,Grißheim,residential,0,0
+Neuenburg am Rhein,Grißheim,residential,5,40
+Neuenburg am Rhein,Grißheim,residential,10,91
+Neuenburg am Rhein,Grißheim,residential,15,212
+Neuenburg am Rhein,Grißheim,residential,20,83
+Neuenburg am Rhein,Grißheim,residential,25,11
+Neuenburg am Rhein,Grißheim,residential,30,1
+Neuenburg am Rhein,Grißheim,residential,40,0
+Neuenburg am Rhein,Grißheim,residential,120,1
+Neuenburg am Rhein,Grißheim,unbekannt,0,0
+Neuenburg am Rhein,Grißheim,unbekannt,5,1
+Neuenburg am Rhein,Grißheim,unbekannt,10,0
+Neuenburg am Rhein,Grißheim,unbekannt,15,0
+Neuenburg am Rhein,Grißheim,unbekannt,20,1
+Neuenburg am Rhein,Grißheim,unbekannt,25,0
+Neuenburg am Rhein,Grißheim,unbekannt,30,0
+Neuenburg am Rhein,Grißheim,unbekannt,40,1
+Neuenburg am Rhein,Grißheim,unbekannt,120,1

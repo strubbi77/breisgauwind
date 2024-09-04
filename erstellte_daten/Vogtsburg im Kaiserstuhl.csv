@@ -1,361 +1,361 @@
-Name,Landuse,WegeDauer,Anzahl
-Bickensohl,commercial,0,0
-Bickensohl,commercial,5,0
-Bickensohl,commercial,10,0
-Bickensohl,commercial,15,0
-Bickensohl,commercial,20,0
-Bickensohl,commercial,25,0
-Bickensohl,commercial,30,0
-Bickensohl,commercial,40,0
-Bickensohl,commercial,120,0
-Bickensohl,farmyard,0,0
-Bickensohl,farmyard,5,0
-Bickensohl,farmyard,10,0
-Bickensohl,farmyard,15,0
-Bickensohl,farmyard,20,0
-Bickensohl,farmyard,25,0
-Bickensohl,farmyard,30,0
-Bickensohl,farmyard,40,0
-Bickensohl,farmyard,120,12
-Bickensohl,industrial,0,0
-Bickensohl,industrial,5,0
-Bickensohl,industrial,10,0
-Bickensohl,industrial,15,0
-Bickensohl,industrial,20,0
-Bickensohl,industrial,25,0
-Bickensohl,industrial,30,0
-Bickensohl,industrial,40,0
-Bickensohl,industrial,120,0
-Bickensohl,residential,0,0
-Bickensohl,residential,5,0
-Bickensohl,residential,10,0
-Bickensohl,residential,15,0
-Bickensohl,residential,20,0
-Bickensohl,residential,25,0
-Bickensohl,residential,30,0
-Bickensohl,residential,40,14
-Bickensohl,residential,120,126
-Bickensohl,unbekannt,0,0
-Bickensohl,unbekannt,5,0
-Bickensohl,unbekannt,10,0
-Bickensohl,unbekannt,15,0
-Bickensohl,unbekannt,20,0
-Bickensohl,unbekannt,25,0
-Bickensohl,unbekannt,30,0
-Bickensohl,unbekannt,40,0
-Bickensohl,unbekannt,120,0
-Burkheim,commercial,0,0
-Burkheim,commercial,5,0
-Burkheim,commercial,10,0
-Burkheim,commercial,15,0
-Burkheim,commercial,20,0
-Burkheim,commercial,25,0
-Burkheim,commercial,30,0
-Burkheim,commercial,40,0
-Burkheim,commercial,120,1
-Burkheim,farmyard,0,0
-Burkheim,farmyard,5,0
-Burkheim,farmyard,10,0
-Burkheim,farmyard,15,0
-Burkheim,farmyard,20,0
-Burkheim,farmyard,25,0
-Burkheim,farmyard,30,0
-Burkheim,farmyard,40,0
-Burkheim,farmyard,120,0
-Burkheim,industrial,0,0
-Burkheim,industrial,5,0
-Burkheim,industrial,10,0
-Burkheim,industrial,15,0
-Burkheim,industrial,20,0
-Burkheim,industrial,25,0
-Burkheim,industrial,30,0
-Burkheim,industrial,40,0
-Burkheim,industrial,120,0
-Burkheim,residential,0,0
-Burkheim,residential,5,0
-Burkheim,residential,10,0
-Burkheim,residential,15,0
-Burkheim,residential,20,0
-Burkheim,residential,25,0
-Burkheim,residential,30,0
-Burkheim,residential,40,0
-Burkheim,residential,120,388
-Burkheim,unbekannt,0,0
-Burkheim,unbekannt,5,0
-Burkheim,unbekannt,10,0
-Burkheim,unbekannt,15,0
-Burkheim,unbekannt,20,0
-Burkheim,unbekannt,25,0
-Burkheim,unbekannt,30,0
-Burkheim,unbekannt,40,0
-Burkheim,unbekannt,120,4
-Bischoffingen,commercial,0,0
-Bischoffingen,commercial,5,0
-Bischoffingen,commercial,10,0
-Bischoffingen,commercial,15,0
-Bischoffingen,commercial,20,0
-Bischoffingen,commercial,25,0
-Bischoffingen,commercial,30,0
-Bischoffingen,commercial,40,0
-Bischoffingen,commercial,120,2
-Bischoffingen,farmyard,0,0
-Bischoffingen,farmyard,5,0
-Bischoffingen,farmyard,10,0
-Bischoffingen,farmyard,15,0
-Bischoffingen,farmyard,20,0
-Bischoffingen,farmyard,25,0
-Bischoffingen,farmyard,30,0
-Bischoffingen,farmyard,40,0
-Bischoffingen,farmyard,120,8
-Bischoffingen,industrial,0,0
-Bischoffingen,industrial,5,0
-Bischoffingen,industrial,10,0
-Bischoffingen,industrial,15,0
-Bischoffingen,industrial,20,0
-Bischoffingen,industrial,25,0
-Bischoffingen,industrial,30,0
-Bischoffingen,industrial,40,0
-Bischoffingen,industrial,120,0
-Bischoffingen,residential,0,0
-Bischoffingen,residential,5,0
-Bischoffingen,residential,10,0
-Bischoffingen,residential,15,0
-Bischoffingen,residential,20,0
-Bischoffingen,residential,25,0
-Bischoffingen,residential,30,0
-Bischoffingen,residential,40,32
-Bischoffingen,residential,120,197
-Bischoffingen,unbekannt,0,0
-Bischoffingen,unbekannt,5,0
-Bischoffingen,unbekannt,10,0
-Bischoffingen,unbekannt,15,0
-Bischoffingen,unbekannt,20,0
-Bischoffingen,unbekannt,25,0
-Bischoffingen,unbekannt,30,0
-Bischoffingen,unbekannt,40,0
-Bischoffingen,unbekannt,120,3
-Oberbergen,commercial,0,0
-Oberbergen,commercial,5,0
-Oberbergen,commercial,10,0
-Oberbergen,commercial,15,0
-Oberbergen,commercial,20,1
-Oberbergen,commercial,25,0
-Oberbergen,commercial,30,0
-Oberbergen,commercial,40,0
-Oberbergen,commercial,120,0
-Oberbergen,farmyard,0,0
-Oberbergen,farmyard,5,0
-Oberbergen,farmyard,10,0
-Oberbergen,farmyard,15,1
-Oberbergen,farmyard,20,2
-Oberbergen,farmyard,25,0
-Oberbergen,farmyard,30,0
-Oberbergen,farmyard,40,0
-Oberbergen,farmyard,120,0
-Oberbergen,industrial,0,0
-Oberbergen,industrial,5,0
-Oberbergen,industrial,10,3
-Oberbergen,industrial,15,0
-Oberbergen,industrial,20,0
-Oberbergen,industrial,25,0
-Oberbergen,industrial,30,0
-Oberbergen,industrial,40,0
-Oberbergen,industrial,120,0
-Oberbergen,residential,0,0
-Oberbergen,residential,5,61
-Oberbergen,residential,10,124
-Oberbergen,residential,15,81
-Oberbergen,residential,20,0
-Oberbergen,residential,25,1
-Oberbergen,residential,30,0
-Oberbergen,residential,40,1
-Oberbergen,residential,120,14
-Oberbergen,unbekannt,0,0
-Oberbergen,unbekannt,5,0
-Oberbergen,unbekannt,10,1
-Oberbergen,unbekannt,15,0
-Oberbergen,unbekannt,20,0
-Oberbergen,unbekannt,25,0
-Oberbergen,unbekannt,30,0
-Oberbergen,unbekannt,40,0
-Oberbergen,unbekannt,120,0
-Schelingen,commercial,0,0
-Schelingen,commercial,5,0
-Schelingen,commercial,10,0
-Schelingen,commercial,15,0
-Schelingen,commercial,20,0
-Schelingen,commercial,25,0
-Schelingen,commercial,30,0
-Schelingen,commercial,40,0
-Schelingen,commercial,120,0
-Schelingen,farmyard,0,0
-Schelingen,farmyard,5,0
-Schelingen,farmyard,10,0
-Schelingen,farmyard,15,0
-Schelingen,farmyard,20,0
-Schelingen,farmyard,25,0
-Schelingen,farmyard,30,1
-Schelingen,farmyard,40,0
-Schelingen,farmyard,120,1
-Schelingen,industrial,0,0
-Schelingen,industrial,5,0
-Schelingen,industrial,10,0
-Schelingen,industrial,15,0
-Schelingen,industrial,20,0
-Schelingen,industrial,25,0
-Schelingen,industrial,30,0
-Schelingen,industrial,40,0
-Schelingen,industrial,120,0
-Schelingen,residential,0,0
-Schelingen,residential,5,0
-Schelingen,residential,10,0
-Schelingen,residential,15,0
-Schelingen,residential,20,0
-Schelingen,residential,25,0
-Schelingen,residential,30,0
-Schelingen,residential,40,48
-Schelingen,residential,120,75
-Schelingen,unbekannt,0,0
-Schelingen,unbekannt,5,0
-Schelingen,unbekannt,10,0
-Schelingen,unbekannt,15,0
-Schelingen,unbekannt,20,0
-Schelingen,unbekannt,25,0
-Schelingen,unbekannt,30,0
-Schelingen,unbekannt,40,0
-Schelingen,unbekannt,120,0
-Oberrotweil,commercial,0,0
-Oberrotweil,commercial,5,0
-Oberrotweil,commercial,10,0
-Oberrotweil,commercial,15,1
-Oberrotweil,commercial,20,2
-Oberrotweil,commercial,25,1
-Oberrotweil,commercial,30,0
-Oberrotweil,commercial,40,0
-Oberrotweil,commercial,120,0
-Oberrotweil,farmyard,0,0
-Oberrotweil,farmyard,5,0
-Oberrotweil,farmyard,10,2
-Oberrotweil,farmyard,15,0
-Oberrotweil,farmyard,20,0
-Oberrotweil,farmyard,25,2
-Oberrotweil,farmyard,30,0
-Oberrotweil,farmyard,40,1
-Oberrotweil,farmyard,120,2
-Oberrotweil,industrial,0,0
-Oberrotweil,industrial,5,0
-Oberrotweil,industrial,10,0
-Oberrotweil,industrial,15,0
-Oberrotweil,industrial,20,0
-Oberrotweil,industrial,25,0
-Oberrotweil,industrial,30,0
-Oberrotweil,industrial,40,0
-Oberrotweil,industrial,120,3
-Oberrotweil,residential,0,0
-Oberrotweil,residential,5,21
-Oberrotweil,residential,10,104
-Oberrotweil,residential,15,153
-Oberrotweil,residential,20,116
-Oberrotweil,residential,25,57
-Oberrotweil,residential,30,19
-Oberrotweil,residential,40,82
-Oberrotweil,residential,120,6
-Oberrotweil,unbekannt,0,0
-Oberrotweil,unbekannt,5,0
-Oberrotweil,unbekannt,10,0
-Oberrotweil,unbekannt,15,2
-Oberrotweil,unbekannt,20,1
-Oberrotweil,unbekannt,25,1
-Oberrotweil,unbekannt,30,0
-Oberrotweil,unbekannt,40,0
-Oberrotweil,unbekannt,120,1
-Achkarren,commercial,0,0
-Achkarren,commercial,5,0
-Achkarren,commercial,10,0
-Achkarren,commercial,15,0
-Achkarren,commercial,20,0
-Achkarren,commercial,25,0
-Achkarren,commercial,30,0
-Achkarren,commercial,40,0
-Achkarren,commercial,120,31
-Achkarren,farmyard,0,0
-Achkarren,farmyard,5,0
-Achkarren,farmyard,10,0
-Achkarren,farmyard,15,0
-Achkarren,farmyard,20,0
-Achkarren,farmyard,25,0
-Achkarren,farmyard,30,0
-Achkarren,farmyard,40,0
-Achkarren,farmyard,120,12
-Achkarren,industrial,0,0
-Achkarren,industrial,5,0
-Achkarren,industrial,10,0
-Achkarren,industrial,15,0
-Achkarren,industrial,20,0
-Achkarren,industrial,25,0
-Achkarren,industrial,30,0
-Achkarren,industrial,40,0
-Achkarren,industrial,120,0
-Achkarren,residential,0,0
-Achkarren,residential,5,0
-Achkarren,residential,10,0
-Achkarren,residential,15,0
-Achkarren,residential,20,0
-Achkarren,residential,25,0
-Achkarren,residential,30,0
-Achkarren,residential,40,0
-Achkarren,residential,120,237
-Achkarren,unbekannt,0,0
-Achkarren,unbekannt,5,0
-Achkarren,unbekannt,10,0
-Achkarren,unbekannt,15,0
-Achkarren,unbekannt,20,0
-Achkarren,unbekannt,25,0
-Achkarren,unbekannt,30,0
-Achkarren,unbekannt,40,0
-Achkarren,unbekannt,120,4
-Vogtsburg im Kaiserstuhl,commercial,0,0
-Vogtsburg im Kaiserstuhl,commercial,5,0
-Vogtsburg im Kaiserstuhl,commercial,10,0
-Vogtsburg im Kaiserstuhl,commercial,15,0
-Vogtsburg im Kaiserstuhl,commercial,20,0
-Vogtsburg im Kaiserstuhl,commercial,25,0
-Vogtsburg im Kaiserstuhl,commercial,30,0
-Vogtsburg im Kaiserstuhl,commercial,40,0
-Vogtsburg im Kaiserstuhl,commercial,120,0
-Vogtsburg im Kaiserstuhl,farmyard,0,0
-Vogtsburg im Kaiserstuhl,farmyard,5,0
-Vogtsburg im Kaiserstuhl,farmyard,10,0
-Vogtsburg im Kaiserstuhl,farmyard,15,0
-Vogtsburg im Kaiserstuhl,farmyard,20,0
-Vogtsburg im Kaiserstuhl,farmyard,25,0
-Vogtsburg im Kaiserstuhl,farmyard,30,0
-Vogtsburg im Kaiserstuhl,farmyard,40,0
-Vogtsburg im Kaiserstuhl,farmyard,120,0
-Vogtsburg im Kaiserstuhl,industrial,0,0
-Vogtsburg im Kaiserstuhl,industrial,5,0
-Vogtsburg im Kaiserstuhl,industrial,10,0
-Vogtsburg im Kaiserstuhl,industrial,15,0
-Vogtsburg im Kaiserstuhl,industrial,20,0
-Vogtsburg im Kaiserstuhl,industrial,25,0
-Vogtsburg im Kaiserstuhl,industrial,30,0
-Vogtsburg im Kaiserstuhl,industrial,40,0
-Vogtsburg im Kaiserstuhl,industrial,120,0
-Vogtsburg im Kaiserstuhl,residential,0,0
-Vogtsburg im Kaiserstuhl,residential,5,0
-Vogtsburg im Kaiserstuhl,residential,10,0
-Vogtsburg im Kaiserstuhl,residential,15,0
-Vogtsburg im Kaiserstuhl,residential,20,0
-Vogtsburg im Kaiserstuhl,residential,25,0
-Vogtsburg im Kaiserstuhl,residential,30,0
-Vogtsburg im Kaiserstuhl,residential,40,0
-Vogtsburg im Kaiserstuhl,residential,120,0
-Vogtsburg im Kaiserstuhl,unbekannt,0,0
-Vogtsburg im Kaiserstuhl,unbekannt,5,0
-Vogtsburg im Kaiserstuhl,unbekannt,10,0
-Vogtsburg im Kaiserstuhl,unbekannt,15,0
-Vogtsburg im Kaiserstuhl,unbekannt,20,0
-Vogtsburg im Kaiserstuhl,unbekannt,25,0
-Vogtsburg im Kaiserstuhl,unbekannt,30,0
-Vogtsburg im Kaiserstuhl,unbekannt,40,0
-Vogtsburg im Kaiserstuhl,unbekannt,120,0
+GemName,OrtName,Landuse,WegeDauer,Anzahl
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,0,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,5,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,10,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,15,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,20,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,25,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,30,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,40,0
+Vogtsburg im Kaiserstuhl,Bickensohl,commercial,120,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,20,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,25,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,40,0
+Vogtsburg im Kaiserstuhl,Bickensohl,farmyard,120,12
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,0,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,5,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,10,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,15,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,20,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,25,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,30,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,40,0
+Vogtsburg im Kaiserstuhl,Bickensohl,industrial,120,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,0,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,5,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,10,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,15,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,20,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,25,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,30,0
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,40,12
+Vogtsburg im Kaiserstuhl,Bickensohl,residential,120,128
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,5,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,10,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,15,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,20,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,25,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,30,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,40,0
+Vogtsburg im Kaiserstuhl,Bickensohl,unbekannt,120,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,0,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,5,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,10,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,15,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,20,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,25,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,30,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,40,0
+Vogtsburg im Kaiserstuhl,Burkheim,commercial,120,1
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,20,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,25,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,40,0
+Vogtsburg im Kaiserstuhl,Burkheim,farmyard,120,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,0,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,5,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,10,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,15,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,20,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,25,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,30,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,40,0
+Vogtsburg im Kaiserstuhl,Burkheim,industrial,120,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,0,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,5,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,10,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,15,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,20,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,25,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,30,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,40,0
+Vogtsburg im Kaiserstuhl,Burkheim,residential,120,388
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,5,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,10,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,15,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,20,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,25,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,30,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,40,0
+Vogtsburg im Kaiserstuhl,Burkheim,unbekannt,120,4
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,0,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,5,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,10,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,15,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,20,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,25,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,30,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,40,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,commercial,120,2
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,20,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,25,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,40,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,farmyard,120,8
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,0,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,5,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,10,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,15,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,20,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,25,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,30,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,40,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,industrial,120,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,0,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,5,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,10,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,15,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,20,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,25,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,30,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,40,31
+Vogtsburg im Kaiserstuhl,Bischoffingen,residential,120,198
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,5,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,10,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,15,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,20,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,25,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,30,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,40,0
+Vogtsburg im Kaiserstuhl,Bischoffingen,unbekannt,120,3
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,0,0
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,5,0
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,10,0
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,15,0
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,20,1
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,25,0
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,30,0
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,40,0
+Vogtsburg im Kaiserstuhl,Oberbergen,commercial,120,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,20,1
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,25,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,40,0
+Vogtsburg im Kaiserstuhl,Oberbergen,farmyard,120,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,0,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,5,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,10,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,15,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,20,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,25,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,30,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,40,0
+Vogtsburg im Kaiserstuhl,Oberbergen,industrial,120,0
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,0,0
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,5,0
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,10,6
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,15,1
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,20,1
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,25,0
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,30,0
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,40,0
+Vogtsburg im Kaiserstuhl,Oberbergen,residential,120,0
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,5,53
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,10,126
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,15,86
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,20,0
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,25,0
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,30,0
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,40,0
+Vogtsburg im Kaiserstuhl,Oberbergen,unbekannt,120,15
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,0,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,5,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,10,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,15,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,20,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,25,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,30,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,40,0
+Vogtsburg im Kaiserstuhl,Schelingen,commercial,120,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,20,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,25,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,40,1
+Vogtsburg im Kaiserstuhl,Schelingen,farmyard,120,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,0,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,5,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,10,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,15,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,20,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,25,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,30,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,40,0
+Vogtsburg im Kaiserstuhl,Schelingen,industrial,120,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,0,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,5,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,10,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,15,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,20,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,25,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,30,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,40,0
+Vogtsburg im Kaiserstuhl,Schelingen,residential,120,7
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,5,0
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,10,0
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,15,0
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,20,0
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,25,0
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,30,1
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,40,47
+Vogtsburg im Kaiserstuhl,Schelingen,unbekannt,120,69
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,0,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,5,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,10,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,15,1
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,20,3
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,25,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,30,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,40,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,commercial,120,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,20,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,25,2
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,40,1
+Vogtsburg im Kaiserstuhl,Oberrotweil,farmyard,120,2
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,0,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,5,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,10,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,15,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,20,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,25,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,30,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,40,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,industrial,120,3
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,0,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,5,21
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,10,100
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,15,160
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,20,126
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,25,53
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,30,13
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,40,81
+Vogtsburg im Kaiserstuhl,Oberrotweil,residential,120,6
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,5,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,10,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,15,2
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,20,1
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,25,1
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,30,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,40,0
+Vogtsburg im Kaiserstuhl,Oberrotweil,unbekannt,120,1
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,0,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,5,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,10,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,15,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,20,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,25,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,30,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,40,0
+Vogtsburg im Kaiserstuhl,Achkarren,commercial,120,31
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,20,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,25,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,40,0
+Vogtsburg im Kaiserstuhl,Achkarren,farmyard,120,12
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,0,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,5,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,10,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,15,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,20,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,25,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,30,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,40,0
+Vogtsburg im Kaiserstuhl,Achkarren,industrial,120,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,0,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,5,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,10,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,15,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,20,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,25,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,30,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,40,0
+Vogtsburg im Kaiserstuhl,Achkarren,residential,120,235
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,5,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,10,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,15,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,20,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,25,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,30,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,40,0
+Vogtsburg im Kaiserstuhl,Achkarren,unbekannt,120,6
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,0,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,5,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,10,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,15,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,20,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,25,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,30,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,40,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,commercial,120,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,0,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,5,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,10,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,15,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,20,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,25,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,30,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,40,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,farmyard,120,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,0,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,5,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,10,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,15,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,20,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,25,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,30,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,40,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,industrial,120,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,0,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,5,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,10,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,15,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,20,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,25,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,30,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,40,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,residential,120,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,0,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,5,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,10,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,15,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,20,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,25,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,30,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,40,0
+Vogtsburg im Kaiserstuhl,Vogtsburg im Kaiserstuhl,unbekannt,120,0
