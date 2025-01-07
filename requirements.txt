@@ -4,3 +4,4 @@ matplot
 geopandas
 netCDF4
 osmnx
+scikit-learn
